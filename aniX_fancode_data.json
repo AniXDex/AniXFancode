@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "03:51:53 PM 22-07-2025",
+    "last_updated": "03:55:28 PM 22-07-2025",
     "total_matches": 10,
     "live_matches": 4,
-    "upcoming_matches": 5,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167189"
+            "Processing_Time": "2025-07-22T15:55:28.888128"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/acLpZ9EwTJOZ0OMBFtPP6A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167199"
+            "Processing_Time": "2025-07-22T15:55:28.888139"
         },
         {
             "category": "Cricket",
@@ -57,24 +57,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/2pKdMlfgSticMu3iG7X-Jg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167203"
-        },
-        {
-            "category": "Cricket",
-            "title": "Caribbean Tigers Vs Cayman Bay Stingrays",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131718,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 08:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131452_5453_CAT_CBS_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167206"
+            "Processing_Time": "2025-07-22T15:55:28.888143"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167210"
+            "Processing_Time": "2025-07-22T15:55:28.888148"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167214"
+            "Processing_Time": "2025-07-22T15:55:28.888152"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167217"
+            "Processing_Time": "2025-07-22T15:55:28.888156"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167220"
+            "Processing_Time": "2025-07-22T15:55:28.888159"
         },
         {
             "category": "Football",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167224"
+            "Processing_Time": "2025-07-22T15:55:28.888163"
+        },
+        {
+            "category": "Cricket",
+            "title": "Cayman Bay Stingrays Vs Florida Lions",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131727,
+            "status": "NOT_STARTED",
+            "startTime": "23 July 2025 07:15 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131463_5453_CBS_FLI_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T15:55:28.888167"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/uChQ9Us3RbaKfkrOg4X78A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:51:53.167227"
+            "Processing_Time": "2025-07-22T15:55:28.888171"
         }
     ],
     "status": "active"
