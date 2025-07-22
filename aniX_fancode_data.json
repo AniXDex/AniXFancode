@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:26:14 PM 22-07-2025",
+    "last_updated": "01:30:41 PM 22-07-2025",
     "total_matches": 16,
     "live_matches": 11,
-    "upcoming_matches": 4,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eidHjmvVQYeiWPgCzw-z1Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617165"
+            "Processing_Time": "2025-07-22T13:30:41.616906"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/01VMJFjbTIWJHF6O-6oslQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617173"
+            "Processing_Time": "2025-07-22T13:30:41.616919"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/kxLRjUTTRp6wzrA-6HuB_w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617178"
+            "Processing_Time": "2025-07-22T13:30:41.616926"
         },
         {
             "category": "Cricket",
@@ -74,41 +74,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617182"
-        },
-        {
-            "category": "Cricket",
-            "title": "Florida Lions Vs Miami Blaze",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131739,
-            "status": "STARTED",
-            "startTime": "22 July 2025 06:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131447_5453_FLI_MIB_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131739_english_hls_20756adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617185"
-        },
-        {
-            "category": "Cricket",
-            "title": "Amo Sharks Vs Mis E Ainak Knights",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130796,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130796_5425_AM_MAK_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617189"
+            "Processing_Time": "2025-07-22T13:30:41.616934"
         },
         {
             "category": "Cricket",
@@ -125,7 +91,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617193"
+            "Processing_Time": "2025-07-22T13:30:41.616941"
+        },
+        {
+            "category": "Cricket",
+            "title": "Florida Lions Vs Miami Blaze",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131739,
+            "status": "STARTED",
+            "startTime": "22 July 2025 06:30 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131447_5453_FLI_MIB_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131739_english_hls_20756adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T13:30:41.616948"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617197"
+            "Processing_Time": "2025-07-22T13:30:41.616956"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617201"
+            "Processing_Time": "2025-07-22T13:30:41.616963"
         },
         {
             "category": "Cricket",
@@ -176,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617205"
+            "Processing_Time": "2025-07-22T13:30:41.616970"
+        },
+        {
+            "category": "Cricket",
+            "title": "Caribbean Tigers Vs Miami Blaze",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131726,
+            "status": "NOT_STARTED",
+            "startTime": "23 July 2025 12:45 AM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131462_5453_CAT_MIB_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T13:30:41.616977"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/hIPUXfAmRXi6CbHZHljnKg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617209"
+            "Processing_Time": "2025-07-22T13:30:41.616983"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/BXUNO1_7TcaxmffoItxS0g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617212"
+            "Processing_Time": "2025-07-22T13:30:41.616990"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Rq89GF2DR2qrwqwfPtjNXw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617216"
+            "Processing_Time": "2025-07-22T13:30:41.616997"
         },
         {
             "category": "Cricket",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/qdaY9CMnTu-HFMrVxcwzVQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617220"
+            "Processing_Time": "2025-07-22T13:30:41.617004"
         },
         {
             "category": "Cricket",
@@ -261,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/glSZM0RbT8mrNjabeOLqzg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617224"
+            "Processing_Time": "2025-07-22T13:30:41.617011"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/uChQ9Us3RbaKfkrOg4X78A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T13:26:14.617227"
+            "Processing_Time": "2025-07-22T13:30:41.617018"
         }
     ],
     "status": "active"
