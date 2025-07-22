@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "10:10:31 PM 22-07-2025",
+    "last_updated": "10:15:27 PM 22-07-2025",
     "total_matches": 9,
-    "live_matches": 1,
+    "live_matches": 0,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -14,16 +14,16 @@
             "tournament": "UEFA Women's EURO 2025",
             "short_name": "Women's Euro",
             "match_id": 123372,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "23 July 2025 12:30 AM",
             "startDate": "02 July 2025 05:30 AM",
             "endDate": "27 July 2025 11:30 PM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ENG-w-vs-Italy-w_Sporty.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123372_english_hls_33498ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/lkabHogzTj2S-7-eCtRorw/master.m3u8",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019010"
+            "Processing_Time": "2025-07-22T22:15:27.454673"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019027"
+            "Processing_Time": "2025-07-22T22:15:27.454684"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019035"
+            "Processing_Time": "2025-07-22T22:15:27.454688"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019041"
+            "Processing_Time": "2025-07-22T22:15:27.454692"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019048"
+            "Processing_Time": "2025-07-22T22:15:27.454696"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019054"
+            "Processing_Time": "2025-07-22T22:15:27.454700"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019061"
+            "Processing_Time": "2025-07-22T22:15:27.454703"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019067"
+            "Processing_Time": "2025-07-22T22:15:27.454707"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T22:10:31.019073"
+            "Processing_Time": "2025-07-22T22:15:27.454710"
         }
     ],
     "status": "active"
