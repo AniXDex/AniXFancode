@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:37:01 PM 22-07-2025",
+    "last_updated": "04:40:34 PM 22-07-2025",
     "total_matches": 9,
     "live_matches": 3,
-    "upcoming_matches": 6,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/2pKdMlfgSticMu3iG7X-Jg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362754"
+            "Processing_Time": "2025-07-22T16:40:34.305331"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362783"
+            "Processing_Time": "2025-07-22T16:40:34.305342"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/acLpZ9EwTJOZ0OMBFtPP6A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362788"
+            "Processing_Time": "2025-07-22T16:40:34.305347"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362791"
+            "Processing_Time": "2025-07-22T16:40:34.305351"
+        },
+        {
+            "category": "Cricket",
+            "title": "New Zealand Vs South Africa",
+            "tournament": "Zimbabwe T20I Tri Series, 2025",
+            "short_name": "NZ vs ZIM vs SA",
+            "match_id": 128757,
+            "status": "COMPLETED",
+            "startTime": "22 July 2025 04:30 PM",
+            "startDate": "14 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128757_5315_NZ_SA_fc-app.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T16:40:34.305354"
         },
         {
             "category": "Cricket",
@@ -91,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362795"
+            "Processing_Time": "2025-07-22T16:40:34.305358"
         },
         {
             "category": "Cricket",
@@ -108,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362798"
+            "Processing_Time": "2025-07-22T16:40:34.305362"
         },
         {
             "category": "Cricket",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362802"
+            "Processing_Time": "2025-07-22T16:40:34.305365"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362805"
-        },
-        {
-            "category": "Football",
-            "title": "England Women Vs Italy Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123372,
-            "status": "NOT_STARTED",
-            "startTime": "23 July 2025 12:30 AM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ENG-w-vs-Italy-w_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:37:01.362808"
+            "Processing_Time": "2025-07-22T16:40:34.305369"
         }
     ],
     "status": "active"
