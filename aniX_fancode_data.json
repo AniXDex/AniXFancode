@@ -3,45 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:30:46 PM 22-07-2025",
+    "last_updated": "07:35:25 PM 22-07-2025",
     "total_matches": 10,
-    "live_matches": 4,
+    "live_matches": 3,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "England Women Vs India Women",
-            "tournament": "India Women tour of England, 2025",
-            "short_name": "ENG-W vs IND-W",
-            "match_id": 128747,
-            "status": "STARTED",
-            "startTime": "22 July 2025 05:30 PM",
-            "startDate": "28 June 2025 05:30 AM",
-            "endDate": "22 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ENG-Vs-IND_ODI-SERIES_2025_TV_vertical_.jpg",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.761950"
-        },
-        {
-            "category": "Cricket",
-            "title": "India Champions Vs South Africa Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129722,
-            "status": "STARTED",
-            "startTime": "22 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129722_5370_IAC_SAC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129722_english_hls_21006ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2pKdMlfgSticMu3iG7X-Jg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.761965"
-        },
         {
             "category": "Football",
             "title": "England Women Vs Italy Women",
@@ -57,7 +23,41 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/lkabHogzTj2S-7-eCtRorw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.761973"
+            "Processing_Time": "2025-07-22T19:35:25.214073"
+        },
+        {
+            "category": "Cricket",
+            "title": "India Champions Vs South Africa Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129722,
+            "status": "COMPLETED",
+            "startTime": "22 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129722_5370_IAC_SAC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T19:35:25.214088"
+        },
+        {
+            "category": "Cricket",
+            "title": "England Women Vs India Women",
+            "tournament": "India Women tour of England, 2025",
+            "short_name": "ENG-W vs IND-W",
+            "match_id": 128747,
+            "status": "STARTED",
+            "startTime": "22 July 2025 05:30 PM",
+            "startDate": "28 June 2025 05:30 AM",
+            "endDate": "22 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ENG-Vs-IND_ODI-SERIES_2025_TV_vertical_.jpg",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T19:35:25.214096"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.761979"
+            "Processing_Time": "2025-07-22T19:35:25.214103"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.761986"
+            "Processing_Time": "2025-07-22T19:35:25.214112"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.761993"
+            "Processing_Time": "2025-07-22T19:35:25.214118"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.761999"
+            "Processing_Time": "2025-07-22T19:35:25.214123"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.762005"
+            "Processing_Time": "2025-07-22T19:35:25.214129"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.762012"
+            "Processing_Time": "2025-07-22T19:35:25.214135"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/cj6JcEMrTs2MJAX5NcNNDA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T19:30:46.762019"
+            "Processing_Time": "2025-07-22T19:35:25.214142"
         }
     ],
     "status": "active"
