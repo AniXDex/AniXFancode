@@ -3,7 +3,7 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:10:32 PM 22-07-2025",
+    "last_updated": "06:15:29 PM 22-07-2025",
     "total_matches": 10,
     "live_matches": 3,
     "upcoming_matches": 6,
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839067"
+            "Processing_Time": "2025-07-22T18:15:29.822719"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/2pKdMlfgSticMu3iG7X-Jg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839079"
+            "Processing_Time": "2025-07-22T18:15:29.822730"
         },
         {
             "category": "Football",
@@ -57,24 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839084"
-        },
-        {
-            "category": "Cricket",
-            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131724,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 10:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839088"
+            "Processing_Time": "2025-07-22T18:15:29.822735"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839093"
+            "Processing_Time": "2025-07-22T18:15:29.822739"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839097"
+            "Processing_Time": "2025-07-22T18:15:29.822743"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839102"
+            "Processing_Time": "2025-07-22T18:15:29.822747"
         },
         {
             "category": "Football",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839106"
+            "Processing_Time": "2025-07-22T18:15:29.822751"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839110"
+            "Processing_Time": "2025-07-22T18:15:29.822755"
+        },
+        {
+            "category": "Cricket",
+            "title": "Miami Blaze Vs Boca Raton Trailblazers",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131738,
+            "status": "COMPLETED",
+            "startTime": "22 July 2025 02:45 AM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131450_5453_MIB_BRT_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T18:15:29.822759"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/cj6JcEMrTs2MJAX5NcNNDA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:10:32.839115"
+            "Processing_Time": "2025-07-22T18:15:29.822763"
         }
     ],
     "status": "active"
