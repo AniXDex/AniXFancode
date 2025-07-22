@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:40:34 PM 22-07-2025",
+    "last_updated": "04:45:31 PM 22-07-2025",
     "total_matches": 9,
-    "live_matches": 3,
-    "upcoming_matches": 5,
+    "live_matches": 4,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/2pKdMlfgSticMu3iG7X-Jg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305331"
+            "Processing_Time": "2025-07-22T16:45:31.287907"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305342"
+            "Processing_Time": "2025-07-22T16:45:31.287918"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/acLpZ9EwTJOZ0OMBFtPP6A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305347"
+            "Processing_Time": "2025-07-22T16:45:31.287922"
         },
         {
             "category": "Cricket",
@@ -65,16 +65,16 @@
             "tournament": "Max60 Season 2, 2025",
             "short_name": "Max60",
             "match_id": 131724,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "22 July 2025 10:30 PM",
             "startDate": "16 July 2025 05:30 AM",
             "endDate": "23 July 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131724_english_hls_795ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/a13Ync1KTcGCcCXgoezGxw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305351"
+            "Processing_Time": "2025-07-22T16:45:31.287926"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305354"
+            "Processing_Time": "2025-07-22T16:45:31.287930"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305358"
+            "Processing_Time": "2025-07-22T16:45:31.287934"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305362"
+            "Processing_Time": "2025-07-22T16:45:31.287938"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305365"
+            "Processing_Time": "2025-07-22T16:45:31.287941"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T16:40:34.305369"
+            "Processing_Time": "2025-07-22T16:45:31.287945"
         }
     ],
     "status": "active"
