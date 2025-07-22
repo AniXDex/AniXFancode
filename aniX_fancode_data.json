@@ -3,45 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "03:10:30 PM 22-07-2025",
-    "total_matches": 15,
-    "live_matches": 10,
-    "upcoming_matches": 5,
+    "last_updated": "03:12:33 PM 22-07-2025",
+    "total_matches": 13,
+    "live_matches": 9,
+    "upcoming_matches": 4,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "England Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129723,
-            "status": "STARTED",
-            "startTime": "22 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129723_5370_EDC_WIC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129723_english_hls_85626ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/01VMJFjbTIWJHF6O-6oslQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655319"
-        },
-        {
-            "category": "Cricket",
-            "title": "England Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129723,
-            "status": "STARTED",
-            "startTime": "22 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129723_5370_EDC_WIC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129723_hindi_hls_73567ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/kxLRjUTTRp6wzrA-6HuB_w/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655328"
-        },
         {
             "category": "Cricket",
             "title": "England Women Vs India Women",
@@ -57,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655338"
+            "Processing_Time": "2025-07-22T15:12:33.142585"
         },
         {
             "category": "Cricket",
@@ -74,7 +40,58 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/acLpZ9EwTJOZ0OMBFtPP6A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655344"
+            "Processing_Time": "2025-07-22T15:12:33.142596"
+        },
+        {
+            "category": "Cricket",
+            "title": "India Champions Vs South Africa Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129722,
+            "status": "STARTED",
+            "startTime": "22 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129722_5370_IAC_SAC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129722_english_hls_21006ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/2pKdMlfgSticMu3iG7X-Jg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T15:12:33.142600"
+        },
+        {
+            "category": "Cricket",
+            "title": "England Champions Vs West Indies Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129723,
+            "status": "STARTED",
+            "startTime": "22 July 2025 05:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129723_5370_EDC_WIC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129723_english_hls_85626ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/01VMJFjbTIWJHF6O-6oslQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T15:12:33.142604"
+        },
+        {
+            "category": "Cricket",
+            "title": "England Champions Vs West Indies Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129723,
+            "status": "STARTED",
+            "startTime": "22 July 2025 05:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129723_5370_EDC_WIC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129723_hindi_hls_73567ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/kxLRjUTTRp6wzrA-6HuB_w/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T15:12:33.142608"
         },
         {
             "category": "Cricket",
@@ -91,24 +108,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/LuKLek1_Sn2xQtKHk7EySA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655348"
-        },
-        {
-            "category": "Cricket",
-            "title": "India Champions Vs South Africa Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129722,
-            "status": "NOT_STARTED",
-            "startTime": "22 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129722_5370_IAC_SAC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655352"
+            "Processing_Time": "2025-07-22T15:12:33.142612"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655355"
+            "Processing_Time": "2025-07-22T15:12:33.142616"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655358"
+            "Processing_Time": "2025-07-22T15:12:33.142619"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655362"
+            "Processing_Time": "2025-07-22T15:12:33.142623"
         },
         {
             "category": "Cricket",
@@ -176,41 +176,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655365"
-        },
-        {
-            "category": "Cricket",
-            "title": "Karaikal Kniights Vs Villianur Mohit Kings",
-            "tournament": "Pondicherry Premier League, 2025",
-            "short_name": "PPL",
-            "match_id": 130128,
-            "status": "STARTED",
-            "startTime": "22 July 2025 06:00 PM",
-            "startDate": "06 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130128_english_hls_81505ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Rq89GF2DR2qrwqwfPtjNXw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655369"
-        },
-        {
-            "category": "Cricket",
-            "title": "Karaikal Kniights Vs Villianur Mohit Kings",
-            "tournament": "Pondicherry Premier League, 2025",
-            "short_name": "PPL",
-            "match_id": 130128,
-            "status": "STARTED",
-            "startTime": "22 July 2025 06:00 PM",
-            "startDate": "06 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130128_tamil_hls_75792ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/qdaY9CMnTu-HFMrVxcwzVQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655372"
+            "Processing_Time": "2025-07-22T15:12:33.142627"
         },
         {
             "category": "Cricket",
@@ -227,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/uChQ9Us3RbaKfkrOg4X78A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655376"
+            "Processing_Time": "2025-07-22T15:12:33.142630"
         },
         {
             "category": "Cricket",
@@ -244,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/BXUNO1_7TcaxmffoItxS0g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655379"
+            "Processing_Time": "2025-07-22T15:12:33.142634"
         },
         {
             "category": "Cricket",
@@ -261,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/glSZM0RbT8mrNjabeOLqzg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T15:10:30.655382"
+            "Processing_Time": "2025-07-22T15:12:33.142638"
         }
     ],
     "status": "active"
