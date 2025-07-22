@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:05:28 PM 22-07-2025",
+    "last_updated": "06:10:32 PM 22-07-2025",
     "total_matches": 10,
-    "live_matches": 4,
-    "upcoming_matches": 5,
+    "live_matches": 3,
+    "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "India Champions Vs South Africa Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129722,
-            "status": "STARTED",
-            "startTime": "22 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129722_5370_IAC_SAC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129722_english_hls_21006ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2pKdMlfgSticMu3iG7X-Jg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001580"
-        },
         {
             "category": "Cricket",
             "title": "England Women Vs India Women",
@@ -40,58 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001592"
+            "Processing_Time": "2025-07-22T18:10:32.839067"
         },
         {
             "category": "Cricket",
-            "title": "Ireland Women Vs Zimbabwe Women",
-            "tournament": "Zimbabwe Women tour of Ireland, 2025",
-            "short_name": "IRE-w vs ZIM-w",
-            "match_id": 128763,
+            "title": "India Champions Vs South Africa Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129722,
             "status": "STARTED",
-            "startTime": "22 July 2025 08:30 PM",
-            "startDate": "20 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/128763_english_hls_32016ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/acLpZ9EwTJOZ0OMBFtPP6A/master.m3u8",
+            "startTime": "22 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129722_5370_IAC_SAC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129722_english_hls_21006ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/2pKdMlfgSticMu3iG7X-Jg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001599"
-        },
-        {
-            "category": "Cricket",
-            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131724,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 10:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001605"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies Vs Australia",
-            "tournament": "Australia Tour of West Indies, 2025",
-            "short_name": "WI vs AUS",
-            "match_id": 127554,
-            "status": "NOT_STARTED",
-            "startTime": "23 July 2025 05:30 AM",
-            "startDate": "25 June 2025 05:30 AM",
-            "endDate": "29 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_Sporty_01.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001612"
+            "Processing_Time": "2025-07-22T18:10:32.839079"
         },
         {
             "category": "Football",
@@ -108,7 +57,41 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001618"
+            "Processing_Time": "2025-07-22T18:10:32.839084"
+        },
+        {
+            "category": "Cricket",
+            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131724,
+            "status": "COMPLETED",
+            "startTime": "22 July 2025 10:30 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T18:10:32.839088"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Vs Australia",
+            "tournament": "Australia Tour of West Indies, 2025",
+            "short_name": "WI vs AUS",
+            "match_id": 127554,
+            "status": "NOT_STARTED",
+            "startTime": "23 July 2025 05:30 AM",
+            "startDate": "25 June 2025 05:30 AM",
+            "endDate": "29 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_Sporty_01.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T18:10:32.839093"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001625"
+            "Processing_Time": "2025-07-22T18:10:32.839097"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001631"
+            "Processing_Time": "2025-07-22T18:10:32.839102"
         },
         {
             "category": "Football",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001637"
+            "Processing_Time": "2025-07-22T18:10:32.839106"
+        },
+        {
+            "category": "Cricket",
+            "title": "Caribbean Tigers Vs Vegas Vikings",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131733,
+            "status": "NOT_STARTED",
+            "startTime": "24 July 2025 12:30 AM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-22T18:10:32.839110"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/cj6JcEMrTs2MJAX5NcNNDA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-22T18:05:28.001644"
+            "Processing_Time": "2025-07-22T18:10:32.839115"
         }
     ],
     "status": "active"
