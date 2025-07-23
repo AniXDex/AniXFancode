@@ -3,27 +3,61 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "03:45:27 AM 23-07-2025",
-    "total_matches": 11,
+    "last_updated": "03:50:29 AM 23-07-2025",
+    "total_matches": 10,
     "live_matches": 3,
     "upcoming_matches": 6,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Hong Kong, China Vs Samoa",
+            "tournament": "Asia-Pacific Cricket Champions Trophy, 2025",
+            "short_name": "Asia-Pacific Cricket Champions",
+            "match_id": 130784,
+            "status": "STARTED",
+            "startTime": "23 July 2025 06:30 AM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130784_5424_HK_SAM_fc-app.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130784_english_hls_31104ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HP0PXO8oT5iddoGbEVTuxw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T03:50:29.401464"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bud Cricket Club Vs Nabajyoti Club",
+            "tournament": "GTC Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Summer Challenge T20",
+            "match_id": 130434,
+            "status": "STARTED",
+            "startTime": "23 July 2025 09:30 AM",
+            "startDate": "08 July 2025 05:30 AM",
+            "endDate": "24 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_Sporty_Match_card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130434_english_hls_68270ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/oC4NJ4Z0ScKJmVIUgbcy_w/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T03:50:29.401475"
+        },
         {
             "category": "Cricket",
             "title": "West Indies Vs Australia",
             "tournament": "Australia Tour of West Indies, 2025",
             "short_name": "WI vs AUS",
             "match_id": 127554,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "23 July 2025 05:30 AM",
             "startDate": "25 June 2025 05:30 AM",
             "endDate": "29 July 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_Sporty_01.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/127554_english_hls_28803ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/CXZRzWKTRImAKn0I8vmtSA/master.m3u8",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065138"
+            "Processing_Time": "2025-07-23T03:50:29.401480"
         },
         {
             "category": "Cricket",
@@ -40,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065147"
+            "Processing_Time": "2025-07-23T03:50:29.401484"
         },
         {
             "category": "Cricket",
@@ -57,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065151"
+            "Processing_Time": "2025-07-23T03:50:29.401488"
         },
         {
             "category": "Cricket",
@@ -74,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065154"
+            "Processing_Time": "2025-07-23T03:50:29.401492"
         },
         {
             "category": "Football",
@@ -91,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065158"
+            "Processing_Time": "2025-07-23T03:50:29.401495"
         },
         {
             "category": "Football",
@@ -108,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065161"
+            "Processing_Time": "2025-07-23T03:50:29.401499"
         },
         {
             "category": "Cricket",
@@ -125,58 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065165"
-        },
-        {
-            "category": "Cricket",
-            "title": "Florida Lions Vs Miami Blaze",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131739,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 06:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131447_5453_FLI_MIB_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065168"
-        },
-        {
-            "category": "Cricket",
-            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131724,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 10:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065171"
-        },
-        {
-            "category": "Cricket",
-            "title": "Hong Kong, China Vs Samoa",
-            "tournament": "Asia-Pacific Cricket Champions Trophy, 2025",
-            "short_name": "Asia-Pacific Cricket Champions",
-            "match_id": 130784,
-            "status": "STARTED",
-            "startTime": "23 July 2025 06:30 AM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "26 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130784_5424_HK_SAM_fc-web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130784_english_hls_31104ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/HP0PXO8oT5iddoGbEVTuxw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065175"
+            "Processing_Time": "2025-07-23T03:50:29.401503"
         },
         {
             "category": "Baseball",
@@ -193,7 +176,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T03:45:27.065178"
+            "Processing_Time": "2025-07-23T03:50:29.401507"
         }
     ],
     "status": "active"
