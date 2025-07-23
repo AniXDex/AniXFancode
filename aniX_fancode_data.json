@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:25:25 PM 23-07-2025",
-    "total_matches": 13,
-    "live_matches": 5,
-    "upcoming_matches": 6,
+    "last_updated": "06:30:40 PM 23-07-2025",
+    "total_matches": 12,
+    "live_matches": 4,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Football",
@@ -23,58 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777636"
-        },
-        {
-            "category": "Cricket",
-            "title": "Australia Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129724,
-            "status": "STARTED",
-            "startTime": "23 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129724_english_hls_53177ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/6WPuetjgQPO1z0kvUQbF0A/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777646"
-        },
-        {
-            "category": "Cricket",
-            "title": "Australia Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129724,
-            "status": "STARTED",
-            "startTime": "23 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129724_hindi_hls_65969ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/A31SFcrOQXCwuL5WrJMY8A/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777652"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs Zimbabwe Women",
-            "tournament": "Zimbabwe Women tour of Ireland, 2025",
-            "short_name": "IRE-w vs ZIM-w",
-            "match_id": 128764,
-            "status": "COMPLETED",
-            "startTime": "23 July 2025 08:30 PM",
-            "startDate": "20 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777657"
+            "Processing_Time": "2025-07-23T18:30:40.780329"
         },
         {
             "category": "Cricket",
@@ -82,16 +31,16 @@
             "tournament": "Max60 Season 2, 2025",
             "short_name": "Max60",
             "match_id": 131732,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "24 July 2025 12:15 AM",
             "startDate": "16 July 2025 05:30 AM",
             "endDate": "23 July 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/131459_5453_VEV_GCF_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131732_english_hls_318ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/F1dmwzT1R125IWAXkS1XEw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777662"
+            "Processing_Time": "2025-07-23T18:30:40.780340"
         },
         {
             "category": "Cricket",
@@ -108,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777667"
+            "Processing_Time": "2025-07-23T18:30:40.780344"
         },
         {
             "category": "Cricket",
@@ -125,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777672"
+            "Processing_Time": "2025-07-23T18:30:40.780348"
         },
         {
             "category": "Cricket",
@@ -142,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777677"
+            "Processing_Time": "2025-07-23T18:30:40.780352"
         },
         {
             "category": "Cricket",
@@ -159,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777685"
+            "Processing_Time": "2025-07-23T18:30:40.780355"
         },
         {
             "category": "Cricket",
@@ -176,7 +125,41 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777690"
+            "Processing_Time": "2025-07-23T18:30:40.780358"
+        },
+        {
+            "category": "Cricket",
+            "title": "Vegas Vikings Vs Boca Raton Trailblazers",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131731,
+            "status": "NOT_STARTED",
+            "startTime": "23 July 2025 02:45 AM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131464_5453_VEV_BRT_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T18:30:40.780362"
+        },
+        {
+            "category": "Cricket",
+            "title": "Cayman Bay Stingrays Vs Florida Lions",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131727,
+            "status": "NOT_STARTED",
+            "startTime": "23 July 2025 07:15 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131463_5453_CBS_FLI_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T18:30:40.780365"
         },
         {
             "category": "Cricket",
@@ -193,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/1KKHCzMNSUGxlGoitYWXrg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777695"
+            "Processing_Time": "2025-07-23T18:30:40.780369"
         },
         {
             "category": "Baseball",
@@ -210,7 +193,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777700"
+            "Processing_Time": "2025-07-23T18:30:40.780375"
         },
         {
             "category": "Baseball",
@@ -227,7 +210,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:25:25.777705"
+            "Processing_Time": "2025-07-23T18:30:40.780379"
         }
     ],
     "status": "active"
