@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:35:31 PM 23-07-2025",
+    "last_updated": "01:40:29 PM 23-07-2025",
     "total_matches": 14,
     "live_matches": 6,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Arsenal Vs Milan",
-            "tournament": "Club Friendlies 2025",
-            "short_name": "Club Friendlies",
-            "match_id": 129904,
-            "status": "STARTED",
-            "startTime": "23 July 2025 05:00 PM",
-            "startDate": "12 July 2025 05:30 AM",
-            "endDate": "10 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_Sporty.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109870"
-        },
         {
             "category": "Cricket",
             "title": "Australia Champions Vs West Indies Champions",
@@ -40,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109879"
+            "Processing_Time": "2025-07-23T13:40:29.747279"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109886"
+            "Processing_Time": "2025-07-23T13:40:29.747297"
+        },
+        {
+            "category": "Football",
+            "title": "Arsenal Vs Milan",
+            "tournament": "Club Friendlies 2025",
+            "short_name": "Club Friendlies",
+            "match_id": 129904,
+            "status": "STARTED",
+            "startTime": "23 July 2025 05:00 PM",
+            "startDate": "12 July 2025 05:30 AM",
+            "endDate": "10 August 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_Sporty.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T13:40:29.747306"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109890"
+            "Processing_Time": "2025-07-23T13:40:29.747313"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109894"
+            "Processing_Time": "2025-07-23T13:40:29.747320"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109898"
+            "Processing_Time": "2025-07-23T13:40:29.747328"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109901"
+            "Processing_Time": "2025-07-23T13:40:29.747341"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109905"
+            "Processing_Time": "2025-07-23T13:40:29.747349"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109908"
+            "Processing_Time": "2025-07-23T13:40:29.747356"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3alm86PyQNWml_NazIumrg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109912"
+            "Processing_Time": "2025-07-23T13:40:29.747364"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Rn52_kWfRxKxLS5v4QsNqw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109915"
+            "Processing_Time": "2025-07-23T13:40:29.747371"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5RZpDqHrTYGCaQSjgU-I5A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109919"
+            "Processing_Time": "2025-07-23T13:40:29.747379"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/LrzyT91zRA2GjyYPtiOrjw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109922"
+            "Processing_Time": "2025-07-23T13:40:29.747386"
         },
         {
             "category": "Cricket",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/oxabWypsQaGFp8xI6rQJFA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T13:35:31.109925"
+            "Processing_Time": "2025-07-23T13:40:29.747393"
         }
     ],
     "status": "active"
