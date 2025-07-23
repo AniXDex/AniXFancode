@@ -3,44 +3,27 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:15:38 PM 23-07-2025",
+    "last_updated": "06:16:13 PM 23-07-2025",
     "total_matches": 13,
     "live_matches": 6,
     "upcoming_matches": 6,
     "matches": [
         {
-            "category": "Cricket",
-            "title": "Australia Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129724,
-            "status": "STARTED",
-            "startTime": "23 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129724_english_hls_53177ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/6WPuetjgQPO1z0kvUQbF0A/master.m3u8",
+            "category": "Football",
+            "title": "Germany Women Vs Spain Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123373,
+            "status": "NOT_STARTED",
+            "startTime": "24 July 2025 12:30 AM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/GER-w-vs-Spain-w_Sporty.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958624"
-        },
-        {
-            "category": "Cricket",
-            "title": "Australia Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129724,
-            "status": "STARTED",
-            "startTime": "23 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129724_hindi_hls_65969ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/A31SFcrOQXCwuL5WrJMY8A/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958633"
+            "Processing_Time": "2025-07-23T18:16:13.624257"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,41 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/dVQTFukVQUWsz-_SSlomSA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958638"
+            "Processing_Time": "2025-07-23T18:16:13.624268"
+        },
+        {
+            "category": "Cricket",
+            "title": "Australia Champions Vs West Indies Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129724,
+            "status": "STARTED",
+            "startTime": "23 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129724_english_hls_53177ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/6WPuetjgQPO1z0kvUQbF0A/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T18:16:13.624272"
+        },
+        {
+            "category": "Cricket",
+            "title": "Australia Champions Vs West Indies Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129724,
+            "status": "STARTED",
+            "startTime": "23 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129724_hindi_hls_65969ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/A31SFcrOQXCwuL5WrJMY8A/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T18:16:13.624276"
         },
         {
             "category": "Cricket",
@@ -74,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958642"
+            "Processing_Time": "2025-07-23T18:16:13.624280"
         },
         {
             "category": "Cricket",
@@ -91,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958645"
+            "Processing_Time": "2025-07-23T18:16:13.624284"
         },
         {
             "category": "Cricket",
@@ -108,24 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958649"
-        },
-        {
-            "category": "Football",
-            "title": "Germany Women Vs Spain Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123373,
-            "status": "NOT_STARTED",
-            "startTime": "24 July 2025 12:30 AM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/GER-w-vs-Spain-w_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958652"
+            "Processing_Time": "2025-07-23T18:16:13.624290"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958656"
+            "Processing_Time": "2025-07-23T18:16:13.624294"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958659"
+            "Processing_Time": "2025-07-23T18:16:13.624297"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958662"
+            "Processing_Time": "2025-07-23T18:16:13.624301"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/1KKHCzMNSUGxlGoitYWXrg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958666"
+            "Processing_Time": "2025-07-23T18:16:13.624305"
         },
         {
             "category": "Baseball",
@@ -210,7 +210,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958672"
+            "Processing_Time": "2025-07-23T18:16:13.624308"
         },
         {
             "category": "Baseball",
@@ -227,7 +227,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T18:15:38.958675"
+            "Processing_Time": "2025-07-23T18:16:13.624311"
         }
     ],
     "status": "active"
