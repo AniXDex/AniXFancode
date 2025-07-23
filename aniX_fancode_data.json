@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "09:15:32 PM 23-07-2025",
+    "last_updated": "09:20:34 PM 23-07-2025",
     "total_matches": 10,
     "live_matches": 2,
-    "upcoming_matches": 7,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Football",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/v7WfDZ1KSNeDciIRMrUYsw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574631"
+            "Processing_Time": "2025-07-23T21:20:34.043805"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574647"
+            "Processing_Time": "2025-07-23T21:20:34.043816"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574654"
+            "Processing_Time": "2025-07-23T21:20:34.043821"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574661"
+            "Processing_Time": "2025-07-23T21:20:34.043826"
         },
         {
             "category": "Cricket",
@@ -91,24 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574668"
-        },
-        {
-            "category": "Cricket",
-            "title": "Vegas Vikings Vs Boca Raton Trailblazers",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131731,
-            "status": "NOT_STARTED",
-            "startTime": "23 July 2025 02:45 AM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131464_5453_VEV_BRT_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574674"
+            "Processing_Time": "2025-07-23T21:20:34.043830"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574680"
+            "Processing_Time": "2025-07-23T21:20:34.043833"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574687"
+            "Processing_Time": "2025-07-23T21:20:34.043837"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574694"
+            "Processing_Time": "2025-07-23T21:20:34.043841"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Vs Australia",
+            "tournament": "Australia Tour of West Indies, 2025",
+            "short_name": "WI vs AUS",
+            "match_id": 127554,
+            "status": "COMPLETED",
+            "startTime": "23 July 2025 05:30 AM",
+            "startDate": "25 June 2025 05:30 AM",
+            "endDate": "29 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_Sporty_01.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T21:20:34.043845"
         },
         {
             "category": "Baseball",
@@ -176,7 +176,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:15:32.574701"
+            "Processing_Time": "2025-07-23T21:20:34.043848"
         }
     ],
     "status": "active"
