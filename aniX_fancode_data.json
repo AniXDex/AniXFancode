@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:40:28 AM 23-07-2025",
-    "total_matches": 12,
+    "last_updated": "11:45:31 AM 23-07-2025",
+    "total_matches": 13,
     "live_matches": 5,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Uganda A Vs Namibia A",
-            "tournament": "Pearl of Africa T20, 2025",
-            "short_name": "Pearl of Africa T20",
-            "match_id": 130769,
-            "status": "STARTED",
-            "startTime": "23 July 2025 04:00 PM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-sporty.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130769_english_hls_46117ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3alm86PyQNWml_NazIumrg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967180"
-        },
         {
             "category": "Football",
             "title": "Arsenal Vs Milan",
@@ -40,24 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967191"
-        },
-        {
-            "category": "Cricket",
-            "title": "Australia Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129724,
-            "status": "NOT_STARTED",
-            "startTime": "23 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967195"
+            "Processing_Time": "2025-07-23T11:45:31.903231"
         },
         {
             "category": "Cricket",
@@ -74,7 +40,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967199"
+            "Processing_Time": "2025-07-23T11:45:31.903245"
+        },
+        {
+            "category": "Cricket",
+            "title": "Australia Champions Vs West Indies Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129724,
+            "status": "NOT_STARTED",
+            "startTime": "23 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T11:45:31.903253"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967203"
+            "Processing_Time": "2025-07-23T11:45:31.903260"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967207"
+            "Processing_Time": "2025-07-23T11:45:31.903267"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967211"
+            "Processing_Time": "2025-07-23T11:45:31.903274"
         },
         {
             "category": "Football",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967214"
+            "Processing_Time": "2025-07-23T11:45:31.903280"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967218"
+            "Processing_Time": "2025-07-23T11:45:31.903286"
+        },
+        {
+            "category": "Cricket",
+            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131724,
+            "status": "COMPLETED",
+            "startTime": "22 July 2025 10:30 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T11:45:31.903297"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/xCwKvV5lQZePOjjdkUM7yQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967222"
+            "Processing_Time": "2025-07-23T11:45:31.903303"
+        },
+        {
+            "category": "Cricket",
+            "title": "Uganda A Vs Namibia A",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130769,
+            "status": "STARTED",
+            "startTime": "23 July 2025 04:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130769_english_hls_46117ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/3alm86PyQNWml_NazIumrg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T11:45:31.903310"
         },
         {
             "category": "Cricket",
@@ -193,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/yFwvsHR-Q8u2q--ShT5iPQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967225"
+            "Processing_Time": "2025-07-23T11:45:31.903316"
         },
         {
             "category": "Cricket",
@@ -210,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Rn52_kWfRxKxLS5v4QsNqw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:40:28.967229"
+            "Processing_Time": "2025-07-23T11:45:31.903322"
         }
     ],
     "status": "active"
