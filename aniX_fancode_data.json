@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:20:33 AM 23-07-2025",
-    "total_matches": 10,
-    "live_matches": 3,
+    "last_updated": "04:25:28 AM 23-07-2025",
+    "total_matches": 9,
+    "live_matches": 2,
     "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Hong Kong, China Vs Samoa",
-            "tournament": "Asia-Pacific Cricket Champions Trophy, 2025",
-            "short_name": "Asia-Pacific Cricket Champions",
-            "match_id": 130784,
-            "status": "STARTED",
-            "startTime": "23 July 2025 06:30 AM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "26 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130784_5424_HK_SAM_fc-app.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130784_english_hls_31104ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/HP0PXO8oT5iddoGbEVTuxw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870178"
-        },
         {
             "category": "Cricket",
             "title": "Bud Cricket Club Vs Nabajyoti Club",
@@ -40,7 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/oC4NJ4Z0ScKJmVIUgbcy_w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870195"
+            "Processing_Time": "2025-07-23T04:25:28.210848"
+        },
+        {
+            "category": "Cricket",
+            "title": "Hong Kong, China Vs Samoa",
+            "tournament": "Asia-Pacific Cricket Champions Trophy, 2025",
+            "short_name": "Asia-Pacific Cricket Champions",
+            "match_id": 130784,
+            "status": "STARTED",
+            "startTime": "23 July 2025 06:30 AM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130784_5424_HK_SAM_fc-app.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130784_english_hls_31104ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HP0PXO8oT5iddoGbEVTuxw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T04:25:28.210867"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870202"
+            "Processing_Time": "2025-07-23T04:25:28.210875"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870208"
+            "Processing_Time": "2025-07-23T04:25:28.210883"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870215"
+            "Processing_Time": "2025-07-23T04:25:28.210890"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870222"
+            "Processing_Time": "2025-07-23T04:25:28.210897"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870229"
+            "Processing_Time": "2025-07-23T04:25:28.210905"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870235"
+            "Processing_Time": "2025-07-23T04:25:28.210911"
         },
         {
             "category": "Cricket",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870242"
-        },
-        {
-            "category": "Baseball",
-            "title": "Seattle Mariners Vs Milwaukee Brewers",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 130270,
-            "status": "STARTED",
-            "startTime": "23 July 2025 07:10 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/130270_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130270_english_hls_64552ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T04:20:33.870249"
+            "Processing_Time": "2025-07-23T04:25:28.210918"
         }
     ],
     "status": "active"
