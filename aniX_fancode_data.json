@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:59:43 AM 23-07-2025",
-    "total_matches": 11,
-    "live_matches": 4,
+    "last_updated": "07:00:52 AM 23-07-2025",
+    "total_matches": 12,
+    "live_matches": 5,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/oC4NJ4Z0ScKJmVIUgbcy_w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738773"
+            "Processing_Time": "2025-07-23T07:00:52.607319"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YczJtyKDSa63Wpq-cL2AfA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738782"
+            "Processing_Time": "2025-07-23T07:00:52.607328"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738786"
+            "Processing_Time": "2025-07-23T07:00:52.607333"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738790"
+            "Processing_Time": "2025-07-23T07:00:52.607336"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738794"
+            "Processing_Time": "2025-07-23T07:00:52.607340"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738798"
+            "Processing_Time": "2025-07-23T07:00:52.607345"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738802"
+            "Processing_Time": "2025-07-23T07:00:52.607349"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738806"
+            "Processing_Time": "2025-07-23T07:00:52.607352"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738810"
+            "Processing_Time": "2025-07-23T07:00:52.607355"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/F8Qab7P3SCeWCV6LteN06w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738814"
+            "Processing_Time": "2025-07-23T07:00:52.607359"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/aWmjOfHNTJKf5WehIJuHfQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:59:43.738818"
+            "Processing_Time": "2025-07-23T07:00:52.607365"
+        },
+        {
+            "category": "Cricket",
+            "title": "Malawi Vs Rwanda",
+            "tournament": "Rwanda Tri Nations T20 Cup 2025",
+            "short_name": "RWA vs BAH vs MLW",
+            "match_id": 131270,
+            "status": "STARTED",
+            "startTime": "23 July 2025 12:45 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131270_english_hls_34390ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/2oS-YojKQwmpD-B0ylwuQQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T07:00:52.607369"
         }
     ],
     "status": "active"
