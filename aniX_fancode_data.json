@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "05:46:58 AM 23-07-2025",
+    "last_updated": "05:50:30 AM 23-07-2025",
     "total_matches": 9,
-    "live_matches": 1,
+    "live_matches": 2,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -23,7 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/oC4NJ4Z0ScKJmVIUgbcy_w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835955"
+            "Processing_Time": "2025-07-23T05:50:30.769034"
+        },
+        {
+            "category": "Cricket",
+            "title": "Singapore Vs Malaysia",
+            "tournament": "Asia-Pacific Cricket Champions Trophy, 2025",
+            "short_name": "Asia-Pacific Cricket Champions",
+            "match_id": 130785,
+            "status": "STARTED",
+            "startTime": "23 July 2025 11:30 AM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130785_5424_SIN_MAS_fc-app.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130785_english_hls_41038ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/YczJtyKDSa63Wpq-cL2AfA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T05:50:30.769045"
         },
         {
             "category": "Cricket",
@@ -40,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835966"
+            "Processing_Time": "2025-07-23T05:50:30.769049"
         },
         {
             "category": "Cricket",
@@ -57,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835970"
+            "Processing_Time": "2025-07-23T05:50:30.769053"
         },
         {
             "category": "Cricket",
@@ -74,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835974"
+            "Processing_Time": "2025-07-23T05:50:30.769057"
         },
         {
             "category": "Football",
@@ -91,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835977"
+            "Processing_Time": "2025-07-23T05:50:30.769061"
         },
         {
             "category": "Cricket",
@@ -108,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835981"
+            "Processing_Time": "2025-07-23T05:50:30.769064"
         },
         {
             "category": "Football",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835985"
+            "Processing_Time": "2025-07-23T05:50:30.769068"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835988"
-        },
-        {
-            "category": "Cricket",
-            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131724,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 10:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T05:46:58.835992"
+            "Processing_Time": "2025-07-23T05:50:30.769071"
         }
     ],
     "status": "active"
