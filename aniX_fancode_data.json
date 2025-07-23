@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:15:27 AM 23-07-2025",
-    "total_matches": 9,
-    "live_matches": 2,
+    "last_updated": "06:20:32 AM 23-07-2025",
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/oC4NJ4Z0ScKJmVIUgbcy_w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805216"
+            "Processing_Time": "2025-07-23T06:20:32.901853"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YczJtyKDSa63Wpq-cL2AfA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805231"
+            "Processing_Time": "2025-07-23T06:20:32.901865"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805238"
+            "Processing_Time": "2025-07-23T06:20:32.901869"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805245"
+            "Processing_Time": "2025-07-23T06:20:32.901873"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805251"
+            "Processing_Time": "2025-07-23T06:20:32.901876"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805258"
+            "Processing_Time": "2025-07-23T06:20:32.901880"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805264"
+            "Processing_Time": "2025-07-23T06:20:32.901883"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805271"
+            "Processing_Time": "2025-07-23T06:20:32.901887"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:15:27.805278"
+            "Processing_Time": "2025-07-23T06:20:32.901891"
+        },
+        {
+            "category": "Cricket",
+            "title": "United Arab Emirates Vs Kenya",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130768,
+            "status": "STARTED",
+            "startTime": "23 July 2025 12:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130768_english_hls_52944ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/F8Qab7P3SCeWCV6LteN06w/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T06:20:32.901894"
         }
     ],
     "status": "active"
