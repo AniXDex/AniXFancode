@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "02:35:26 PM 23-07-2025",
-    "total_matches": 12,
-    "live_matches": 3,
-    "upcoming_matches": 8,
+    "last_updated": "02:40:34 PM 23-07-2025",
+    "total_matches": 13,
+    "live_matches": 5,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -14,16 +14,33 @@
             "tournament": "World Championship of Legends, 2025",
             "short_name": "WCL",
             "match_id": 129724,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "23 July 2025 09:00 PM",
             "startDate": "18 July 2025 05:30 AM",
             "endDate": "02 August 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129724_english_hls_53177ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/6WPuetjgQPO1z0kvUQbF0A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630397"
+            "Processing_Time": "2025-07-23T14:40:34.428935"
+        },
+        {
+            "category": "Cricket",
+            "title": "Australia Champions Vs West Indies Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129724,
+            "status": "STARTED",
+            "startTime": "23 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129724_5370_AAC_WIC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129724_hindi_hls_65969ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/A31SFcrOQXCwuL5WrJMY8A/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T14:40:34.428947"
         },
         {
             "category": "Cricket",
@@ -40,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630411"
+            "Processing_Time": "2025-07-23T14:40:34.428951"
         },
         {
             "category": "Cricket",
@@ -57,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630417"
+            "Processing_Time": "2025-07-23T14:40:34.428955"
         },
         {
             "category": "Cricket",
@@ -74,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630422"
+            "Processing_Time": "2025-07-23T14:40:34.428961"
         },
         {
             "category": "Cricket",
@@ -91,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630427"
+            "Processing_Time": "2025-07-23T14:40:34.428965"
         },
         {
             "category": "Cricket",
@@ -108,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630432"
+            "Processing_Time": "2025-07-23T14:40:34.428969"
         },
         {
             "category": "Football",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630437"
+            "Processing_Time": "2025-07-23T14:40:34.428972"
         },
         {
             "category": "Cricket",
@@ -142,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630442"
+            "Processing_Time": "2025-07-23T14:40:34.428975"
         },
         {
             "category": "Cricket",
@@ -159,7 +176,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630447"
+            "Processing_Time": "2025-07-23T14:40:34.428979"
         },
         {
             "category": "Cricket",
@@ -176,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Rn52_kWfRxKxLS5v4QsNqw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630452"
+            "Processing_Time": "2025-07-23T14:40:34.428983"
         },
         {
             "category": "Cricket",
@@ -193,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/LrzyT91zRA2GjyYPtiOrjw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630457"
+            "Processing_Time": "2025-07-23T14:40:34.428986"
         },
         {
             "category": "Cricket",
@@ -210,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ayI6PBoKTsu_vJ7VJBXahg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T14:35:26.630462"
+            "Processing_Time": "2025-07-23T14:40:34.428989"
         }
     ],
     "status": "active"
