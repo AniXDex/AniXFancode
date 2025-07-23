@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:30:39 AM 23-07-2025",
-    "total_matches": 14,
-    "live_matches": 7,
+    "last_updated": "07:35:25 AM 23-07-2025",
+    "total_matches": 13,
+    "live_matches": 6,
     "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Bud Cricket Club Vs Nabajyoti Club",
-            "tournament": "GTC Summer Challenge T20 Trophy, 2025",
-            "short_name": "GTC Summer Challenge T20",
-            "match_id": 130434,
-            "status": "STARTED",
-            "startTime": "23 July 2025 09:30 AM",
-            "startDate": "08 July 2025 05:30 AM",
-            "endDate": "24 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_Sporty_Match_card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130434_english_hls_68270ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/oC4NJ4Z0ScKJmVIUgbcy_w/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562088"
-        },
         {
             "category": "Cricket",
             "title": "Singapore Vs Malaysia",
@@ -40,7 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YczJtyKDSa63Wpq-cL2AfA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562099"
+            "Processing_Time": "2025-07-23T07:35:25.369645"
+        },
+        {
+            "category": "Cricket",
+            "title": "United Arab Emirates Vs Kenya",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130768,
+            "status": "STARTED",
+            "startTime": "23 July 2025 12:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-sporty.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130768_english_hls_52944ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/F8Qab7P3SCeWCV6LteN06w/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T07:35:25.369653"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562103"
+            "Processing_Time": "2025-07-23T07:35:25.369657"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562107"
+            "Processing_Time": "2025-07-23T07:35:25.369661"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562111"
+            "Processing_Time": "2025-07-23T07:35:25.369664"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562114"
+            "Processing_Time": "2025-07-23T07:35:25.369668"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562118"
+            "Processing_Time": "2025-07-23T07:35:25.369671"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562121"
+            "Processing_Time": "2025-07-23T07:35:25.369675"
         },
         {
             "category": "Cricket",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562124"
-        },
-        {
-            "category": "Cricket",
-            "title": "United Arab Emirates Vs Kenya",
-            "tournament": "Pearl of Africa T20, 2025",
-            "short_name": "Pearl of Africa T20",
-            "match_id": 130768,
-            "status": "STARTED",
-            "startTime": "23 July 2025 12:00 PM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130768_english_hls_52944ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/F8Qab7P3SCeWCV6LteN06w/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562128"
+            "Processing_Time": "2025-07-23T07:35:25.369678"
         },
         {
             "category": "Cricket",
@@ -193,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/aWmjOfHNTJKf5WehIJuHfQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562131"
+            "Processing_Time": "2025-07-23T07:35:25.369682"
         },
         {
             "category": "Cricket",
@@ -210,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/2oS-YojKQwmpD-B0ylwuQQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562135"
+            "Processing_Time": "2025-07-23T07:35:25.369685"
         },
         {
             "category": "Cricket",
@@ -227,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/lh5RAnd5RRGgzkEA-D0ZWw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562138"
+            "Processing_Time": "2025-07-23T07:35:25.369688"
         },
         {
             "category": "Cricket",
@@ -244,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/-fo0osgCSliLYBEH90r7rQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T07:30:39.562141"
+            "Processing_Time": "2025-07-23T07:35:25.369694"
         }
     ],
     "status": "active"
