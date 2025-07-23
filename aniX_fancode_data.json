@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:55:23 PM 23-07-2025",
-    "total_matches": 11,
-    "live_matches": 4,
+    "last_updated": "08:00:45 PM 23-07-2025",
+    "total_matches": 12,
+    "live_matches": 5,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/v7WfDZ1KSNeDciIRMrUYsw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026234"
+            "Processing_Time": "2025-07-23T20:00:45.670796"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/F1dmwzT1R125IWAXkS1XEw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026250"
+            "Processing_Time": "2025-07-23T20:00:45.670807"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026258"
+            "Processing_Time": "2025-07-23T20:00:45.670811"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026265"
+            "Processing_Time": "2025-07-23T20:00:45.670815"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026273"
+            "Processing_Time": "2025-07-23T20:00:45.670818"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026280"
+            "Processing_Time": "2025-07-23T20:00:45.670822"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026287"
+            "Processing_Time": "2025-07-23T20:00:45.670825"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026294"
+            "Processing_Time": "2025-07-23T20:00:45.670829"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026302"
+            "Processing_Time": "2025-07-23T20:00:45.670832"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/1KKHCzMNSUGxlGoitYWXrg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026310"
+            "Processing_Time": "2025-07-23T20:00:45.670836"
         },
         {
             "category": "Baseball",
@@ -193,7 +193,24 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:55:23.026316"
+            "Processing_Time": "2025-07-23T20:00:45.670839"
+        },
+        {
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers Vs Minnesota Twins",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130273,
+            "status": "STARTED",
+            "startTime": "24 July 2025 01:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/130273_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130273_english_hls_80988ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T20:00:45.670843"
         }
     ],
     "status": "active"
