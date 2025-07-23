@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:30:39 PM 23-07-2025",
+    "last_updated": "12:35:30 PM 23-07-2025",
     "total_matches": 13,
-    "live_matches": 5,
+    "live_matches": 6,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -23,7 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319545"
+            "Processing_Time": "2025-07-23T12:35:30.756459"
+        },
+        {
+            "category": "Cricket",
+            "title": "Uganda A Vs Namibia A",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130769,
+            "status": "STARTED",
+            "startTime": "23 July 2025 04:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-sporty.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130769_english_hls_46117ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/3alm86PyQNWml_NazIumrg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T12:35:30.756476"
         },
         {
             "category": "Cricket",
@@ -40,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319556"
+            "Processing_Time": "2025-07-23T12:35:30.756515"
         },
         {
             "category": "Cricket",
@@ -57,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319562"
+            "Processing_Time": "2025-07-23T12:35:30.756522"
         },
         {
             "category": "Cricket",
@@ -74,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319569"
+            "Processing_Time": "2025-07-23T12:35:30.756529"
         },
         {
             "category": "Cricket",
@@ -91,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319575"
+            "Processing_Time": "2025-07-23T12:35:30.756536"
         },
         {
             "category": "Cricket",
@@ -108,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319581"
+            "Processing_Time": "2025-07-23T12:35:30.756544"
         },
         {
             "category": "Football",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319587"
+            "Processing_Time": "2025-07-23T12:35:30.756556"
         },
         {
             "category": "Cricket",
@@ -142,41 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319593"
-        },
-        {
-            "category": "Cricket",
-            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131724,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 10:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319602"
-        },
-        {
-            "category": "Cricket",
-            "title": "Uganda A Vs Namibia A",
-            "tournament": "Pearl of Africa T20, 2025",
-            "short_name": "Pearl of Africa T20",
-            "match_id": 130769,
-            "status": "STARTED",
-            "startTime": "23 July 2025 04:00 PM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130769_english_hls_46117ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3alm86PyQNWml_NazIumrg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319609"
+            "Processing_Time": "2025-07-23T12:35:30.756564"
         },
         {
             "category": "Cricket",
@@ -193,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Rn52_kWfRxKxLS5v4QsNqw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319615"
+            "Processing_Time": "2025-07-23T12:35:30.756572"
         },
         {
             "category": "Cricket",
@@ -210,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5RZpDqHrTYGCaQSjgU-I5A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319621"
+            "Processing_Time": "2025-07-23T12:35:30.756579"
         },
         {
             "category": "Cricket",
@@ -227,7 +210,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/LrzyT91zRA2GjyYPtiOrjw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T12:30:39.319627"
+            "Processing_Time": "2025-07-23T12:35:30.756586"
+        },
+        {
+            "category": "Cricket",
+            "title": "Huddinge Vs Jinnah Cc Stockholm",
+            "tournament": "ECS Sweden, Stockholm, 2025",
+            "short_name": "ECS Sweden, Stockholm",
+            "match_id": 131904,
+            "status": "STARTED",
+            "startTime": "23 July 2025 06:15 PM",
+            "startDate": "23 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131904_english_hls_79763ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/oxabWypsQaGFp8xI6rQJFA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T12:35:30.756592"
         }
     ],
     "status": "active"
