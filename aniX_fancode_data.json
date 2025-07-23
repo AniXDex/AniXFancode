@@ -3,27 +3,27 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "09:55:28 PM 23-07-2025",
-    "total_matches": 10,
-    "live_matches": 2,
+    "last_updated": "10:00:48 PM 23-07-2025",
+    "total_matches": 9,
+    "live_matches": 1,
     "upcoming_matches": 7,
     "matches": [
         {
-            "category": "Football",
-            "title": "Germany Women Vs Spain Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123373,
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers Vs Minnesota Twins",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130273,
             "status": "STARTED",
-            "startTime": "24 July 2025 12:30 AM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/GER-w-vs-Spain-w_Sporty.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123373_english_hls_6065ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/v7WfDZ1KSNeDciIRMrUYsw/master.m3u8",
+            "startTime": "24 July 2025 01:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/130273_CASACARDS_SPORTY_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130273_english_hls_80988ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412484"
+            "Processing_Time": "2025-07-23T22:00:48.631554"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412495"
+            "Processing_Time": "2025-07-23T22:00:48.631564"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412499"
+            "Processing_Time": "2025-07-23T22:00:48.631568"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412503"
+            "Processing_Time": "2025-07-23T22:00:48.631572"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412507"
+            "Processing_Time": "2025-07-23T22:00:48.631576"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412511"
+            "Processing_Time": "2025-07-23T22:00:48.631579"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412515"
+            "Processing_Time": "2025-07-23T22:00:48.631582"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412519"
+            "Processing_Time": "2025-07-23T22:00:48.631586"
         },
         {
             "category": "Cricket",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412523"
-        },
-        {
-            "category": "Baseball",
-            "title": "Los Angeles Dodgers Vs Minnesota Twins",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 130273,
-            "status": "STARTED",
-            "startTime": "24 July 2025 01:40 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/130273_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130273_english_hls_80988ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T21:55:28.412526"
+            "Processing_Time": "2025-07-23T22:00:48.631590"
         }
     ],
     "status": "active"
