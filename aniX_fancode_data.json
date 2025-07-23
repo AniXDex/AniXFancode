@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "10:10:31 AM 23-07-2025",
-    "total_matches": 13,
-    "live_matches": 6,
+    "last_updated": "10:15:27 AM 23-07-2025",
+    "total_matches": 14,
+    "live_matches": 7,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/2oS-YojKQwmpD-B0ylwuQQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760734"
+            "Processing_Time": "2025-07-23T10:15:27.638862"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/lh5RAnd5RRGgzkEA-D0ZWw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760746"
+            "Processing_Time": "2025-07-23T10:15:27.638882"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760750"
+            "Processing_Time": "2025-07-23T10:15:27.638891"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760754"
+            "Processing_Time": "2025-07-23T10:15:27.638898"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760758"
+            "Processing_Time": "2025-07-23T10:15:27.638905"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760762"
+            "Processing_Time": "2025-07-23T10:15:27.638912"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760766"
+            "Processing_Time": "2025-07-23T10:15:27.638919"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760769"
+            "Processing_Time": "2025-07-23T10:15:27.638926"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760773"
+            "Processing_Time": "2025-07-23T10:15:27.638933"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/-fo0osgCSliLYBEH90r7rQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760777"
+            "Processing_Time": "2025-07-23T10:15:27.638941"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/xCwKvV5lQZePOjjdkUM7yQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760781"
+            "Processing_Time": "2025-07-23T10:15:27.638948"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/XmiafYRdQbicWI0cKYHa8g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760787"
+            "Processing_Time": "2025-07-23T10:15:27.638956"
+        },
+        {
+            "category": "Cricket",
+            "title": "Uganda A Vs Namibia A",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130769,
+            "status": "STARTED",
+            "startTime": "23 July 2025 04:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130769_english_hls_46117ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/3alm86PyQNWml_NazIumrg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T10:15:27.638963"
         },
         {
             "category": "Golf",
@@ -227,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/U8U0Y5trQ56kbt61yJJQvg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T10:10:31.760791"
+            "Processing_Time": "2025-07-23T10:15:27.638970"
         }
     ],
     "status": "active"
