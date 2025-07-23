@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "02:20:30 AM 23-07-2025",
+    "last_updated": "02:25:26 AM 23-07-2025",
     "total_matches": 11,
     "live_matches": 3,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Football",
-            "title": "England Women Vs Italy Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123372,
-            "status": "COMPLETED",
-            "startTime": "23 July 2025 12:30 AM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ENG-w-vs-Italy-w_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615924"
-        },
         {
             "category": "Cricket",
             "title": "West Indies Vs Australia",
@@ -40,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CXZRzWKTRImAKn0I8vmtSA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615934"
+            "Processing_Time": "2025-07-23T02:25:26.786391"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615940"
+            "Processing_Time": "2025-07-23T02:25:26.786407"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615944"
+            "Processing_Time": "2025-07-23T02:25:26.786414"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615949"
+            "Processing_Time": "2025-07-23T02:25:26.786420"
         },
         {
             "category": "Football",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615953"
+            "Processing_Time": "2025-07-23T02:25:26.786427"
         },
         {
             "category": "Football",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615957"
+            "Processing_Time": "2025-07-23T02:25:26.786433"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615962"
+            "Processing_Time": "2025-07-23T02:25:26.786439"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615985"
+            "Processing_Time": "2025-07-23T02:25:26.786446"
+        },
+        {
+            "category": "Cricket",
+            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131724,
+            "status": "COMPLETED",
+            "startTime": "22 July 2025 10:30 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T02:25:26.786452"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/HP0PXO8oT5iddoGbEVTuxw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615990"
+            "Processing_Time": "2025-07-23T02:25:26.786459"
         },
         {
             "category": "Baseball",
@@ -193,7 +193,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T02:20:30.615994"
+            "Processing_Time": "2025-07-23T02:25:26.786464"
         }
     ],
     "status": "active"
