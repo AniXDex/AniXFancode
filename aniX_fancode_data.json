@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:25:24 AM 23-07-2025",
-    "total_matches": 10,
-    "live_matches": 3,
+    "last_updated": "06:30:37 AM 23-07-2025",
+    "total_matches": 11,
+    "live_matches": 4,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/oC4NJ4Z0ScKJmVIUgbcy_w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371587"
+            "Processing_Time": "2025-07-23T06:30:37.685575"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YczJtyKDSa63Wpq-cL2AfA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371598"
+            "Processing_Time": "2025-07-23T06:30:37.685591"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371602"
+            "Processing_Time": "2025-07-23T06:30:37.685599"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371606"
+            "Processing_Time": "2025-07-23T06:30:37.685606"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371610"
+            "Processing_Time": "2025-07-23T06:30:37.685613"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371614"
+            "Processing_Time": "2025-07-23T06:30:37.685620"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371618"
+            "Processing_Time": "2025-07-23T06:30:37.685628"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371622"
+            "Processing_Time": "2025-07-23T06:30:37.685635"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371625"
+            "Processing_Time": "2025-07-23T06:30:37.685642"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/F8Qab7P3SCeWCV6LteN06w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T06:25:24.371629"
+            "Processing_Time": "2025-07-23T06:30:37.685649"
+        },
+        {
+            "category": "Cricket",
+            "title": "Alby Zalmi Vs Huddinge",
+            "tournament": "ECS Sweden, Stockholm, 2025",
+            "short_name": "ECS Sweden, Stockholm",
+            "match_id": 131901,
+            "status": "STARTED",
+            "startTime": "23 July 2025 12:15 PM",
+            "startDate": "23 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131901_english_hls_5508ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/aWmjOfHNTJKf5WehIJuHfQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T06:30:37.685656"
         }
     ],
     "status": "active"
