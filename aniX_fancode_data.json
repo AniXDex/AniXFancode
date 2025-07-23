@@ -3,44 +3,44 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:20:30 AM 23-07-2025",
-    "total_matches": 12,
-    "live_matches": 3,
-    "upcoming_matches": 8,
+    "last_updated": "11:25:25 AM 23-07-2025",
+    "total_matches": 11,
+    "live_matches": 4,
+    "upcoming_matches": 7,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Uganda A Vs Namibia A",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130769,
+            "status": "STARTED",
+            "startTime": "23 July 2025 04:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-sporty.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130769_english_hls_46117ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/3alm86PyQNWml_NazIumrg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T11:25:25.149873"
+        },
         {
             "category": "Football",
             "title": "Arsenal Vs Milan",
             "tournament": "Club Friendlies 2025",
             "short_name": "Club Friendlies",
             "match_id": 129904,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "23 July 2025 05:00 PM",
             "startDate": "12 July 2025 05:30 AM",
             "endDate": "10 August 2025 11:30 PM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093439"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs Zimbabwe Women",
-            "tournament": "Zimbabwe Women tour of Ireland, 2025",
-            "short_name": "IRE-w vs ZIM-w",
-            "match_id": 128764,
-            "status": "NOT_STARTED",
-            "startTime": "23 July 2025 08:30 PM",
-            "startDate": "20 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093455"
+            "Processing_Time": "2025-07-23T11:25:25.149888"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093462"
+            "Processing_Time": "2025-07-23T11:25:25.149895"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Women Vs Zimbabwe Women",
+            "tournament": "Zimbabwe Women tour of Ireland, 2025",
+            "short_name": "IRE-w vs ZIM-w",
+            "match_id": 128764,
+            "status": "NOT_STARTED",
+            "startTime": "23 July 2025 08:30 PM",
+            "startDate": "20 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T11:25:25.149902"
         },
         {
             "category": "Cricket",
@@ -74,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093468"
+            "Processing_Time": "2025-07-23T11:25:25.149909"
         },
         {
             "category": "Cricket",
@@ -91,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093474"
+            "Processing_Time": "2025-07-23T11:25:25.149916"
         },
         {
             "category": "Football",
@@ -108,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093480"
+            "Processing_Time": "2025-07-23T11:25:25.149923"
         },
         {
             "category": "Cricket",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093487"
+            "Processing_Time": "2025-07-23T11:25:25.149930"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093493"
-        },
-        {
-            "category": "Cricket",
-            "title": "Grand Cayman Falcons Vs Boca Raton Trailblazers",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131724,
-            "status": "COMPLETED",
-            "startTime": "22 July 2025 10:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131460_5453_GCF_BRT_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093499"
+            "Processing_Time": "2025-07-23T11:25:25.149937"
         },
         {
             "category": "Cricket",
@@ -176,24 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/xCwKvV5lQZePOjjdkUM7yQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093505"
-        },
-        {
-            "category": "Cricket",
-            "title": "Uganda A Vs Namibia A",
-            "tournament": "Pearl of Africa T20, 2025",
-            "short_name": "Pearl of Africa T20",
-            "match_id": 130769,
-            "status": "STARTED",
-            "startTime": "23 July 2025 04:00 PM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130769_english_hls_46117ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3alm86PyQNWml_NazIumrg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093511"
+            "Processing_Time": "2025-07-23T11:25:25.149944"
         },
         {
             "category": "Cricket",
@@ -210,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/yFwvsHR-Q8u2q--ShT5iPQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T11:20:30.093518"
+            "Processing_Time": "2025-07-23T11:25:25.149952"
         }
     ],
     "status": "active"
