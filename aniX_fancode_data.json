@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:15:33 PM 23-07-2025",
+    "last_updated": "07:20:32 PM 23-07-2025",
     "total_matches": 11,
     "live_matches": 4,
-    "upcoming_matches": 6,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Football",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/v7WfDZ1KSNeDciIRMrUYsw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011157"
+            "Processing_Time": "2025-07-23T19:20:32.352030"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/F1dmwzT1R125IWAXkS1XEw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011173"
+            "Processing_Time": "2025-07-23T19:20:32.352046"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011180"
+            "Processing_Time": "2025-07-23T19:20:32.352053"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011187"
+            "Processing_Time": "2025-07-23T19:20:32.352059"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011194"
+            "Processing_Time": "2025-07-23T19:20:32.352065"
         },
         {
             "category": "Cricket",
@@ -108,24 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011201"
-        },
-        {
-            "category": "Cricket",
-            "title": "Caribbean Tigers Vs Miami Blaze",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131726,
-            "status": "COMPLETED",
-            "startTime": "23 July 2025 12:45 AM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131462_5453_CAT_MIB_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011207"
+            "Processing_Time": "2025-07-23T19:20:32.352072"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011214"
+            "Processing_Time": "2025-07-23T19:20:32.352078"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011220"
+            "Processing_Time": "2025-07-23T19:20:32.352084"
+        },
+        {
+            "category": "Cricket",
+            "title": "Caribbean Tigers Vs Vegas Vikings",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131733,
+            "status": "NOT_STARTED",
+            "startTime": "24 July 2025 12:30 AM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131457_5453_VEV_CAT_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-23T19:20:32.352091"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/1KKHCzMNSUGxlGoitYWXrg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011226"
+            "Processing_Time": "2025-07-23T19:20:32.352098"
         },
         {
             "category": "Baseball",
@@ -193,7 +193,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-23T19:15:33.011233"
+            "Processing_Time": "2025-07-23T19:20:32.352104"
         }
     ],
     "status": "active"
