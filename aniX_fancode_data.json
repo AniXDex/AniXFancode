@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "08:30:37 AM 24-07-2025",
+    "last_updated": "08:35:25 AM 24-07-2025",
     "total_matches": 15,
-    "live_matches": 7,
+    "live_matches": 5,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Amo Sharks Vs Speen Ghar Tigers",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130798,
-            "status": "STARTED",
-            "startTime": "24 July 2025 10:00 AM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130798_5425_AM_SG_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130798_english_hls_42974ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/spxfaH3PRuGBhG92liTBbg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515091"
-        },
         {
             "category": "Cricket",
             "title": "Boost Defenders Vs Band E Amir Dragons",
@@ -40,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515102"
+            "Processing_Time": "2025-07-24T08:35:25.062849"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515107"
+            "Processing_Time": "2025-07-24T08:35:25.062862"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515111"
+            "Processing_Time": "2025-07-24T08:35:25.062867"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515115"
+            "Processing_Time": "2025-07-24T08:35:25.062871"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515120"
+            "Processing_Time": "2025-07-24T08:35:25.062876"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515124"
+            "Processing_Time": "2025-07-24T08:35:25.062880"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515128"
+            "Processing_Time": "2025-07-24T08:35:25.062884"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515133"
+            "Processing_Time": "2025-07-24T08:35:25.062888"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Women Vs Zimbabwe Women",
+            "tournament": "Zimbabwe Women tour of Ireland, 2025",
+            "short_name": "IRE-w vs ZIM-w",
+            "match_id": 128764,
+            "status": "COMPLETED",
+            "startTime": "23 July 2025 08:30 PM",
+            "startDate": "20 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-24T08:35:25.062892"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/8xBdvrPPT8ekljmbKZeL6w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515137"
+            "Processing_Time": "2025-07-24T08:35:25.062896"
         },
         {
             "category": "Cricket",
@@ -184,16 +184,16 @@
             "tournament": "ECS Sweden, Stockholm, 2025",
             "short_name": "ECS Sweden, Stockholm",
             "match_id": 131906,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "24 July 2025 12:15 PM",
             "startDate": "23 July 2025 05:30 AM",
             "endDate": "27 July 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131906_english_hls_12197ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/VovNw-4kTKO9rBudDTGX7A/master.m3u8",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515141"
+            "Processing_Time": "2025-07-24T08:35:25.062900"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/gWehI3AdRp-fzuGbxYA_wg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515146"
+            "Processing_Time": "2025-07-24T08:35:25.062903"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Kt6tjLB6RBm-Iq1eyYmpDQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515150"
+            "Processing_Time": "2025-07-24T08:35:25.062907"
         },
         {
             "category": "Cricket",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/0n2ykAFZRSqaeHDikcRXSA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515154"
+            "Processing_Time": "2025-07-24T08:35:25.062911"
         },
         {
             "category": "Golf",
@@ -261,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/IsTo0NtzTTOxq2gVdCZlHw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T08:30:37.515158"
+            "Processing_Time": "2025-07-24T08:35:25.062915"
         }
     ],
     "status": "active"
