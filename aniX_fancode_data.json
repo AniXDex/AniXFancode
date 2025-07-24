@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:05:24 PM 24-07-2025",
-    "total_matches": 13,
-    "live_matches": 6,
-    "upcoming_matches": 7,
+    "last_updated": "11:10:31 PM 24-07-2025",
+    "total_matches": 9,
+    "live_matches": 1,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -23,24 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eZ_k5feTSJufTsnaPK3tkg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947774"
-        },
-        {
-            "category": "Golf",
-            "title": "Main Feed   Day 1",
-            "tournament": "3M Open",
-            "short_name": "3M Open",
-            "match_id": 131584,
-            "status": "STARTED",
-            "startTime": "24 July 2025 05:45 PM",
-            "startDate": "24 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-sporty-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131584_english_hls_85944ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/zA81sbpkRu2gJZJXIXceHg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947784"
+            "Processing_Time": "2025-07-24T23:10:31.960457"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947789"
+            "Processing_Time": "2025-07-24T23:10:31.960468"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947793"
+            "Processing_Time": "2025-07-24T23:10:31.960473"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947796"
+            "Processing_Time": "2025-07-24T23:10:31.960477"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947800"
+            "Processing_Time": "2025-07-24T23:10:31.960481"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947803"
+            "Processing_Time": "2025-07-24T23:10:31.960486"
         },
         {
             "category": "Formula 1",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947807"
+            "Processing_Time": "2025-07-24T23:10:31.960490"
         },
         {
             "category": "Formula 1",
@@ -159,75 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947811"
+            "Processing_Time": "2025-07-24T23:10:31.960494"
         },
         {
-            "category": "Golf",
-            "title": "Featured Holes   Day 1",
-            "tournament": "3M Open",
-            "short_name": "3M Open",
-            "match_id": 131587,
-            "status": "STARTED",
-            "startTime": "24 July 2025 06:30 PM",
-            "startDate": "24 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-old-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131587_english_hls_74422ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/U_aWHR2BTTGK21sO8K87sA/master.m3u8",
+            "category": "Motorsports",
+            "title": "Porsche Mobil 1 Supercup",
+            "tournament": "Porsche Mobil 1 Super Cup",
+            "short_name": "Porsche Super Cup",
+            "match_id": 131639,
+            "status": "NOT_STARTED",
+            "startTime": "25 July 2025 09:30 PM",
+            "startDate": "16 May 2025 05:30 AM",
+            "endDate": "07 September 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports_2.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947817"
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Groups   Day 1",
-            "tournament": "3M Open",
-            "short_name": "3M Open",
-            "match_id": 131586,
-            "status": "STARTED",
-            "startTime": "24 July 2025 06:30 PM",
-            "startDate": "24 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-old-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131586_english_hls_31037ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/PeiRU89ERliR46CbUuXaEA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947821"
-        },
-        {
-            "category": "Golf",
-            "title": "Marquee Group   Day 1",
-            "tournament": "3M Open",
-            "short_name": "3M Open",
-            "match_id": 131585,
-            "status": "STARTED",
-            "startTime": "24 July 2025 06:45 PM",
-            "startDate": "24 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-old-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131585_english_hls_77655ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/9Il3a6kAQXqIyGb8Lrn_gw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947824"
-        },
-        {
-            "category": "Golf",
-            "title": "World Feed   Day 1",
-            "tournament": "3M Open",
-            "short_name": "3M Open",
-            "match_id": 131583,
-            "status": "STARTED",
-            "startTime": "25 July 2025 01:30 AM",
-            "startDate": "24 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-old-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131583_english_hls_90233ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/MUdgfU7dS0mzqz-GrGh-UQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:05:24.947828"
+            "Processing_Time": "2025-07-24T23:10:31.960498"
         }
     ],
     "status": "active"
