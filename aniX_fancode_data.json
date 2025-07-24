@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:25:23 PM 24-07-2025",
+    "last_updated": "11:27:21 PM 24-07-2025",
     "total_matches": 9,
-    "live_matches": 1,
+    "live_matches": 0,
     "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Stack Cc Vs Cecc",
-            "tournament": "KCC T20 Summer League, 2025",
-            "short_name": "KCC T20 Summer League",
-            "match_id": 130009,
-            "status": "STARTED",
-            "startTime": "25 July 2025 01:15 AM",
-            "startDate": "05 July 2025 05:30 AM",
-            "endDate": "08 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130009_5379_STAX_CEC-A_fc-app.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130009_english_hls_5471ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/eZ_k5feTSJufTsnaPK3tkg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968228"
-        },
         {
             "category": "Cricket",
             "title": "Mis E Ainak Knights Vs Amo Sharks",
@@ -40,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968239"
+            "Processing_Time": "2025-07-24T23:27:21.688574"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968244"
+            "Processing_Time": "2025-07-24T23:27:21.688585"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968249"
+            "Processing_Time": "2025-07-24T23:27:21.688590"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968253"
+            "Processing_Time": "2025-07-24T23:27:21.688594"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968257"
+            "Processing_Time": "2025-07-24T23:27:21.688598"
         },
         {
             "category": "Formula 1",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968262"
+            "Processing_Time": "2025-07-24T23:27:21.688601"
         },
         {
             "category": "Formula 1",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968266"
+            "Processing_Time": "2025-07-24T23:27:21.688605"
         },
         {
             "category": "Motorsports",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T23:25:23.968270"
+            "Processing_Time": "2025-07-24T23:27:21.688609"
+        },
+        {
+            "category": "Cricket",
+            "title": "Amo Sharks Vs Speen Ghar Tigers",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130798,
+            "status": "COMPLETED",
+            "startTime": "24 July 2025 10:00 AM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130798_5425_AM_SG_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-24T23:27:21.688612"
         }
     ],
     "status": "active"
