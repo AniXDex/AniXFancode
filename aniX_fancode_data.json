@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:40:27 AM 24-07-2025",
-    "total_matches": 9,
-    "live_matches": 0,
+    "last_updated": "12:45:57 AM 24-07-2025",
+    "total_matches": 10,
+    "live_matches": 1,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224620"
+            "Processing_Time": "2025-07-24T00:45:57.642316"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224632"
+            "Processing_Time": "2025-07-24T00:45:57.642331"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224636"
+            "Processing_Time": "2025-07-24T00:45:57.642338"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224640"
+            "Processing_Time": "2025-07-24T00:45:57.642345"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224644"
+            "Processing_Time": "2025-07-24T00:45:57.642352"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224647"
+            "Processing_Time": "2025-07-24T00:45:57.642358"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224651"
+            "Processing_Time": "2025-07-24T00:45:57.642364"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224654"
+            "Processing_Time": "2025-07-24T00:45:57.642370"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T00:40:27.224658"
+            "Processing_Time": "2025-07-24T00:45:57.642376"
+        },
+        {
+            "category": "Cricket",
+            "title": "Samoa Vs Malaysia",
+            "tournament": "Asia-Pacific Cricket Champions Trophy, 2025",
+            "short_name": "Asia-Pacific Cricket Champions",
+            "match_id": 130786,
+            "status": "STARTED",
+            "startTime": "24 July 2025 06:30 AM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130786_5424_SAM_MAS_fc-web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130786_english_hls_74665ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/olEmvAfXShiZ21-wDJRZCQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-24T00:45:57.642383"
         }
     ],
     "status": "active"
