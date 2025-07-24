@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:40:35 AM 24-07-2025",
-    "total_matches": 9,
-    "live_matches": 1,
+    "last_updated": "04:45:28 AM 24-07-2025",
+    "total_matches": 10,
+    "live_matches": 2,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/spxfaH3PRuGBhG92liTBbg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898797"
+            "Processing_Time": "2025-07-24T04:45:28.812009"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898816"
+            "Processing_Time": "2025-07-24T04:45:28.812023"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898825"
+            "Processing_Time": "2025-07-24T04:45:28.812028"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898832"
+            "Processing_Time": "2025-07-24T04:45:28.812032"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898840"
+            "Processing_Time": "2025-07-24T04:45:28.812036"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898847"
+            "Processing_Time": "2025-07-24T04:45:28.812040"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898854"
+            "Processing_Time": "2025-07-24T04:45:28.812044"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898861"
+            "Processing_Time": "2025-07-24T04:45:28.812048"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T04:40:35.898867"
+            "Processing_Time": "2025-07-24T04:45:28.812052"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bud Cricket Club Vs 91 Yards Club",
+            "tournament": "GTC Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Summer Challenge T20",
+            "match_id": 130436,
+            "status": "STARTED",
+            "startTime": "24 July 2025 10:30 AM",
+            "startDate": "08 July 2025 05:30 AM",
+            "endDate": "24 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130436_english_hls_52011ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/2I-8RQPFT_StqIdbyDF0Vg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-24T04:45:28.812057"
         }
     ],
     "status": "active"
