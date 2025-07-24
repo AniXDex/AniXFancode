@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:20:29 PM 24-07-2025",
-    "total_matches": 17,
-    "live_matches": 10,
+    "last_updated": "01:25:26 PM 24-07-2025",
+    "total_matches": 19,
+    "live_matches": 12,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/yCUPikA_TRCyOoAEpW9jgg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299607"
+            "Processing_Time": "2025-07-24T13:25:26.202616"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/pWHuGa_4SLefGZqcK1KvVQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299621"
+            "Processing_Time": "2025-07-24T13:25:26.202630"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299629"
+            "Processing_Time": "2025-07-24T13:25:26.202636"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299636"
+            "Processing_Time": "2025-07-24T13:25:26.202642"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299643"
+            "Processing_Time": "2025-07-24T13:25:26.202647"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299650"
+            "Processing_Time": "2025-07-24T13:25:26.202653"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299656"
+            "Processing_Time": "2025-07-24T13:25:26.202658"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299663"
+            "Processing_Time": "2025-07-24T13:25:26.202664"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299670"
+            "Processing_Time": "2025-07-24T13:25:26.202669"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/dn1sHzcYTVOrAwObyDsG1Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299677"
+            "Processing_Time": "2025-07-24T13:25:26.202675"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/gNVrc0DHRkWrcz-_Xod8kw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299684"
+            "Processing_Time": "2025-07-24T13:25:26.202680"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,41 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/EVf8xsinT-CyIJXE6tHz9w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299691"
+            "Processing_Time": "2025-07-24T13:25:26.202685"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ruby White Town Legends Vs Mahe Megalo Strikers",
+            "tournament": "Pondicherry Premier League, 2025",
+            "short_name": "PPL",
+            "match_id": 130130,
+            "status": "STARTED",
+            "startTime": "24 July 2025 07:00 PM",
+            "startDate": "06 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130130_english_hls_45892ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/vE7L8M9RSxaValFMeLlbNA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-24T13:25:26.202690"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ruby White Town Legends Vs Mahe Megalo Strikers",
+            "tournament": "Pondicherry Premier League, 2025",
+            "short_name": "PPL",
+            "match_id": 130130,
+            "status": "STARTED",
+            "startTime": "24 July 2025 07:00 PM",
+            "startDate": "06 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130130_tamil_hls_44652ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/PSDw3aJ3RyKj3umnU1bWRA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-24T13:25:26.202695"
         },
         {
             "category": "Cricket",
@@ -227,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/otd7HftPSimbSubT7Q7hLw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299699"
+            "Processing_Time": "2025-07-24T13:25:26.202700"
         },
         {
             "category": "Golf",
@@ -244,7 +278,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/zA81sbpkRu2gJZJXIXceHg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299706"
+            "Processing_Time": "2025-07-24T13:25:26.202704"
         },
         {
             "category": "Golf",
@@ -261,7 +295,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/U_aWHR2BTTGK21sO8K87sA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299713"
+            "Processing_Time": "2025-07-24T13:25:26.202709"
         },
         {
             "category": "Golf",
@@ -278,7 +312,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/PeiRU89ERliR46CbUuXaEA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299720"
+            "Processing_Time": "2025-07-24T13:25:26.202714"
         },
         {
             "category": "Golf",
@@ -295,7 +329,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/9Il3a6kAQXqIyGb8Lrn_gw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T13:20:29.299726"
+            "Processing_Time": "2025-07-24T13:25:26.202718"
         }
     ],
     "status": "active"
