@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:28:46 AM 24-07-2025",
-    "total_matches": 11,
-    "live_matches": 3,
+    "last_updated": "06:30:37 AM 24-07-2025",
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/spxfaH3PRuGBhG92liTBbg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876029"
+            "Processing_Time": "2025-07-24T06:30:37.231895"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876037"
+            "Processing_Time": "2025-07-24T06:30:37.231931"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876041"
+            "Processing_Time": "2025-07-24T06:30:37.231941"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876045"
+            "Processing_Time": "2025-07-24T06:30:37.231949"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876049"
+            "Processing_Time": "2025-07-24T06:30:37.231955"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876053"
+            "Processing_Time": "2025-07-24T06:30:37.231963"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876056"
+            "Processing_Time": "2025-07-24T06:30:37.231970"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876060"
+            "Processing_Time": "2025-07-24T06:30:37.231981"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876063"
+            "Processing_Time": "2025-07-24T06:30:37.231988"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/2I-8RQPFT_StqIdbyDF0Vg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876067"
+            "Processing_Time": "2025-07-24T06:30:37.231996"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/8xBdvrPPT8ekljmbKZeL6w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-24T06:28:46.876070"
+            "Processing_Time": "2025-07-24T06:30:37.232003"
+        },
+        {
+            "category": "Cricket",
+            "title": "Jinnah Cc Stockholm Vs Marsta",
+            "tournament": "ECS Sweden, Stockholm, 2025",
+            "short_name": "ECS Sweden, Stockholm",
+            "match_id": 131906,
+            "status": "STARTED",
+            "startTime": "24 July 2025 12:15 PM",
+            "startDate": "23 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131906_english_hls_12197ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/VovNw-4kTKO9rBudDTGX7A/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-24T06:30:37.232013"
         }
     ],
     "status": "active"
