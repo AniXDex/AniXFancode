@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:10:28 AM 25-07-2025",
-    "total_matches": 10,
-    "live_matches": 2,
+    "last_updated": "06:15:30 AM 25-07-2025",
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/0ALTCRgMSC-sEtWljHyaSA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055130"
+            "Processing_Time": "2025-07-25T06:15:30.848198"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055146"
+            "Processing_Time": "2025-07-25T06:15:30.848207"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055154"
+            "Processing_Time": "2025-07-25T06:15:30.848211"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055161"
+            "Processing_Time": "2025-07-25T06:15:30.848215"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055168"
+            "Processing_Time": "2025-07-25T06:15:30.848218"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055175"
+            "Processing_Time": "2025-07-25T06:15:30.848222"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055182"
+            "Processing_Time": "2025-07-25T06:15:30.848226"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055188"
+            "Processing_Time": "2025-07-25T06:15:30.848229"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055195"
+            "Processing_Time": "2025-07-25T06:15:30.848233"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,41 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/7fxIB-_ATTO2dp25v9v0Ng/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T06:10:28.055202"
+            "Processing_Time": "2025-07-25T06:15:30.848237"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kenya Vs Uganda",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130770,
+            "status": "STARTED",
+            "startTime": "25 July 2025 12:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130770_english_hls_20758ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/60vSd99IQZmw0AtUO0sp5w/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-25T06:15:30.848240"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kl Gladiators Vs Maxx Cricket Club",
+            "tournament": "Malaysia T10 Bash, 2025",
+            "short_name": "Malaysia T10 Bash",
+            "match_id": 131878,
+            "status": "STARTED",
+            "startTime": "25 July 2025 12:00 PM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131878_5477_KLG_MXC_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131878_english_hls_89769ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/r8VG1aDbTXG0pUTD9YjhUA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-25T06:15:30.848244"
         }
     ],
     "status": "active"
