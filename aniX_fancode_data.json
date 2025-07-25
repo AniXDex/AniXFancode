@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "05:40:31 AM 25-07-2025",
-    "total_matches": 9,
-    "live_matches": 1,
+    "last_updated": "05:45:26 AM 25-07-2025",
+    "total_matches": 10,
+    "live_matches": 2,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/0ALTCRgMSC-sEtWljHyaSA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215675"
+            "Processing_Time": "2025-07-25T05:45:26.440764"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215688"
+            "Processing_Time": "2025-07-25T05:45:26.440774"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215692"
+            "Processing_Time": "2025-07-25T05:45:26.440779"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215696"
+            "Processing_Time": "2025-07-25T05:45:26.440784"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215700"
+            "Processing_Time": "2025-07-25T05:45:26.440788"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215704"
+            "Processing_Time": "2025-07-25T05:45:26.440793"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215708"
+            "Processing_Time": "2025-07-25T05:45:26.440797"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215712"
+            "Processing_Time": "2025-07-25T05:45:26.440801"
         },
         {
             "category": "Formula 1",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T05:40:31.215716"
+            "Processing_Time": "2025-07-25T05:45:26.440805"
+        },
+        {
+            "category": "Cricket",
+            "title": "Romania Vs Austria",
+            "tournament": "ECN Budapest Cup T20I, 2025",
+            "short_name": "ECN Budapest Cup T20I",
+            "match_id": 131968,
+            "status": "STARTED",
+            "startTime": "25 July 2025 11:30 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131968_english_hls_40916ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/7fxIB-_ATTO2dp25v9v0Ng/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-25T05:45:26.440810"
         }
     ],
     "status": "active"
