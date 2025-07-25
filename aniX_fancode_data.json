@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "02:40:30 AM 25-07-2025",
+    "last_updated": "02:45:28 AM 25-07-2025",
     "total_matches": 11,
-    "live_matches": 2,
-    "upcoming_matches": 8,
+    "live_matches": 1,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528506"
+            "Processing_Time": "2025-07-25T02:45:28.164863"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528522"
+            "Processing_Time": "2025-07-25T02:45:28.164873"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528530"
+            "Processing_Time": "2025-07-25T02:45:28.164877"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528553"
+            "Processing_Time": "2025-07-25T02:45:28.164881"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528561"
+            "Processing_Time": "2025-07-25T02:45:28.164884"
         },
         {
             "category": "Formula 1",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528568"
+            "Processing_Time": "2025-07-25T02:45:28.164888"
         },
         {
             "category": "Formula 1",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528575"
+            "Processing_Time": "2025-07-25T02:45:28.164892"
         },
         {
             "category": "Motorsports",
@@ -142,41 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528582"
+            "Processing_Time": "2025-07-25T02:45:28.164895"
         },
         {
             "category": "Cricket",
             "title": "Amo Sharks Vs Speen Ghar Tigers",
             "tournament": "Shpageeza Cricket League, 2025",
             "short_name": "Shpageeza Cricket League",
-            "match_id": 130798,
-            "status": "COMPLETED",
-            "startTime": "24 July 2025 10:00 AM",
+            "match_id": 130805,
+            "status": "NOT_STARTED",
+            "startTime": "26 July 2025 03:00 PM",
             "startDate": "19 July 2025 05:30 AM",
             "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130798_5425_AM_SG_fc-App.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130805_5425_AM_SG_fc-App.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528589"
-        },
-        {
-            "category": "Cricket",
-            "title": "Fatemi Resources Cricket Club Vs Utkal Cricket Club",
-            "tournament": "Malaysia T10 Bash, 2025",
-            "short_name": "Malaysia T10 Bash",
-            "match_id": 131876,
-            "status": "STARTED",
-            "startTime": "25 July 2025 06:30 AM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/131876_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131876_english_hls_13119ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/8DtFqUmpREuxNEDwal6Xdw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528596"
+            "Processing_Time": "2025-07-25T02:45:28.164904"
         },
         {
             "category": "Baseball",
@@ -193,7 +176,24 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:40:30.528603"
+            "Processing_Time": "2025-07-25T02:45:28.164907"
+        },
+        {
+            "category": "Cricket",
+            "title": "Fatemi Resources Cricket Club Vs Utkal Cricket Club",
+            "tournament": "Malaysia T10 Bash, 2025",
+            "short_name": "Malaysia T10 Bash",
+            "match_id": 131876,
+            "status": "COMPLETED",
+            "startTime": "25 July 2025 06:30 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/131876_CASACARDS_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-25T02:45:28.164911"
         }
     ],
     "status": "active"
