@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:40:32 AM 25-07-2025",
-    "total_matches": 9,
-    "live_matches": 0,
+    "last_updated": "12:45:31 AM 25-07-2025",
+    "total_matches": 10,
+    "live_matches": 1,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418327"
+            "Processing_Time": "2025-07-25T00:45:31.451156"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418338"
+            "Processing_Time": "2025-07-25T00:45:31.451172"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418342"
+            "Processing_Time": "2025-07-25T00:45:31.451180"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418346"
+            "Processing_Time": "2025-07-25T00:45:31.451186"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418351"
+            "Processing_Time": "2025-07-25T00:45:31.451192"
         },
         {
             "category": "Formula 1",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418355"
+            "Processing_Time": "2025-07-25T00:45:31.451198"
         },
         {
             "category": "Formula 1",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418358"
+            "Processing_Time": "2025-07-25T00:45:31.451205"
         },
         {
             "category": "Motorsports",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418362"
+            "Processing_Time": "2025-07-25T00:45:31.451211"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T00:40:32.418366"
+            "Processing_Time": "2025-07-25T00:45:31.451217"
+        },
+        {
+            "category": "Cricket",
+            "title": "Fatemi Resources Cricket Club Vs Utkal Cricket Club",
+            "tournament": "Malaysia T10 Bash, 2025",
+            "short_name": "Malaysia T10 Bash",
+            "match_id": 131876,
+            "status": "STARTED",
+            "startTime": "25 July 2025 06:30 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131876_english_hls_13119ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/8DtFqUmpREuxNEDwal6Xdw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-25T00:45:31.451224"
         }
     ],
     "status": "active"
