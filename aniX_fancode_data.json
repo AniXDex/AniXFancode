@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:25:24 AM 25-07-2025",
-    "total_matches": 10,
-    "live_matches": 1,
+    "last_updated": "01:30:39 AM 25-07-2025",
+    "total_matches": 11,
+    "live_matches": 2,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540289"
+            "Processing_Time": "2025-07-25T01:30:39.318161"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540299"
+            "Processing_Time": "2025-07-25T01:30:39.318183"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540304"
+            "Processing_Time": "2025-07-25T01:30:39.318190"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540308"
+            "Processing_Time": "2025-07-25T01:30:39.318196"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540312"
+            "Processing_Time": "2025-07-25T01:30:39.318203"
         },
         {
             "category": "Formula 1",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540315"
+            "Processing_Time": "2025-07-25T01:30:39.318209"
         },
         {
             "category": "Formula 1",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540319"
+            "Processing_Time": "2025-07-25T01:30:39.318215"
         },
         {
             "category": "Motorsports",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540322"
+            "Processing_Time": "2025-07-25T01:30:39.318221"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540326"
+            "Processing_Time": "2025-07-25T01:30:39.318227"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/8DtFqUmpREuxNEDwal6Xdw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T01:25:24.540330"
+            "Processing_Time": "2025-07-25T01:30:39.318234"
+        },
+        {
+            "category": "Baseball",
+            "title": "Los Angeles Angels Vs Seattle Mariners",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130275,
+            "status": "STARTED",
+            "startTime": "25 July 2025 07:08 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v2/130275_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130275_english_hls_35597ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-25T01:30:39.318240"
         }
     ],
     "status": "active"
