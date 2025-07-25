@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "02:55:24 AM 25-07-2025",
-    "total_matches": 10,
-    "live_matches": 1,
+    "last_updated": "03:00:47 AM 25-07-2025",
+    "total_matches": 11,
+    "live_matches": 2,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700285"
+            "Processing_Time": "2025-07-25T03:00:47.704039"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700302"
+            "Processing_Time": "2025-07-25T03:00:47.704050"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700309"
+            "Processing_Time": "2025-07-25T03:00:47.704054"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700317"
+            "Processing_Time": "2025-07-25T03:00:47.704058"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700323"
+            "Processing_Time": "2025-07-25T03:00:47.704062"
         },
         {
             "category": "Formula 1",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700331"
+            "Processing_Time": "2025-07-25T03:00:47.704066"
         },
         {
             "category": "Formula 1",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700338"
+            "Processing_Time": "2025-07-25T03:00:47.704069"
         },
         {
             "category": "Motorsports",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700345"
+            "Processing_Time": "2025-07-25T03:00:47.704073"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700352"
+            "Processing_Time": "2025-07-25T03:00:47.704077"
+        },
+        {
+            "category": "Cricket",
+            "title": "Jb Kings Vs Mr Kb Putrajaya Cc",
+            "tournament": "Malaysia T10 Bash, 2025",
+            "short_name": "Malaysia T10 Bash",
+            "match_id": 131877,
+            "status": "STARTED",
+            "startTime": "25 July 2025 08:40 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/131877_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131877_english_hls_6951ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/dxK1Y9uQSSaROEYWPbXFfw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-25T03:00:47.704080"
         },
         {
             "category": "Baseball",
@@ -176,7 +193,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-25T02:55:24.700360"
+            "Processing_Time": "2025-07-25T03:00:47.704084"
         }
     ],
     "status": "active"
