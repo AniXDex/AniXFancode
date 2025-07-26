@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "03:00:45 PM 26-07-2025",
-    "total_matches": 23,
-    "live_matches": 17,
-    "upcoming_matches": 5,
+    "last_updated": "03:05:27 PM 26-07-2025",
+    "total_matches": 24,
+    "live_matches": 19,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/k_I0K7LDSnuMYGv6WeE-3A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380052"
+            "Processing_Time": "2025-07-26T15:05:27.777325"
         },
         {
             "category": "Cricket",
@@ -40,24 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/WbpWCe6QST-Joe4fRKEeYg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380066"
-        },
-        {
-            "category": "Cricket",
-            "title": "New Zealand Vs South Africa",
-            "tournament": "Zimbabwe T20I Tri Series, 2025",
-            "short_name": "NZ vs ZIM vs SA",
-            "match_id": 128759,
-            "status": "COMPLETED",
-            "startTime": "26 July 2025 04:30 PM",
-            "startDate": "14 July 2025 05:30 AM",
-            "endDate": "26 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380072"
+            "Processing_Time": "2025-07-26T15:05:27.777336"
         },
         {
             "category": "Formula 1",
@@ -74,7 +57,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380078"
+            "Processing_Time": "2025-07-26T15:05:27.777340"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5OTkDGVETmq27gnhfv9_qw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380083"
+            "Processing_Time": "2025-07-26T15:05:27.777344"
         },
         {
             "category": "Cricket",
@@ -99,16 +82,50 @@
             "tournament": "World Championship of Legends, 2025",
             "short_name": "WCL",
             "match_id": 129728,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "26 July 2025 09:00 PM",
             "startDate": "18 July 2025 05:30 AM",
             "endDate": "02 August 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/129728_5370_PNC_WIC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129728_english_hls_61663ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/8-q8V3wTTeu2er8x5x0-Cw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T15:05:27.777348"
+        },
+        {
+            "category": "Cricket",
+            "title": "Pakistan Champions Vs West Indies Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129728,
+            "status": "STARTED",
+            "startTime": "26 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129728_5370_PNC_WIC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129728_hindi_hls_41527ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/NyoBJVRoSMyZvTCKjP79fA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T15:05:27.777352"
+        },
+        {
+            "category": "Cricket",
+            "title": "New Zealand Vs South Africa",
+            "tournament": "Zimbabwe T20I Tri Series, 2025",
+            "short_name": "NZ vs ZIM vs SA",
+            "match_id": 128759,
+            "status": "COMPLETED",
+            "startTime": "26 July 2025 04:30 PM",
+            "startDate": "14 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_Sporty.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380089"
+            "Processing_Time": "2025-07-26T15:05:27.777355"
         },
         {
             "category": "Cricket",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380094"
+            "Processing_Time": "2025-07-26T15:05:27.777359"
         },
         {
             "category": "Cricket",
@@ -142,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380099"
+            "Processing_Time": "2025-07-26T15:05:27.777362"
         },
         {
             "category": "Cricket",
@@ -159,7 +176,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380107"
+            "Processing_Time": "2025-07-26T15:05:27.777365"
         },
         {
             "category": "Cricket",
@@ -176,7 +193,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380113"
+            "Processing_Time": "2025-07-26T15:05:27.777372"
         },
         {
             "category": "Cricket",
@@ -193,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ee1t2hAwTMaY4k8FyqNwTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380118"
+            "Processing_Time": "2025-07-26T15:05:27.777375"
         },
         {
             "category": "Cricket",
@@ -210,24 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Eca1xpFjQbG3PRnKcrRmDQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380124"
-        },
-        {
-            "category": "Cricket",
-            "title": "Cameroon Women Vs Mozambique Women",
-            "tournament": "ICC Women's Africa T20 WC Qualifier 2 2025",
-            "short_name": "ICC-W Africa Qualifier",
-            "match_id": 129877,
-            "status": "STARTED",
-            "startTime": "26 July 2025 05:30 PM",
-            "startDate": "20 July 2025 05:30 AM",
-            "endDate": "26 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/129877_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129877_english_hls_47048ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/L7QW13VmT_OpDtdarvlRpg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380129"
+            "Processing_Time": "2025-07-26T15:05:27.777379"
         },
         {
             "category": "Cricket",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5Pn2F0CbRmiCZR0MekIUsw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380134"
+            "Processing_Time": "2025-07-26T15:05:27.777382"
         },
         {
             "category": "Cricket",
@@ -261,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/aKT4JCaXTA6dOTgCsHsQ9Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380139"
+            "Processing_Time": "2025-07-26T15:05:27.777385"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/gNGDD1DqQ0CnmC4scXKTuw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380145"
+            "Processing_Time": "2025-07-26T15:05:27.777389"
         },
         {
             "category": "Golf",
@@ -295,7 +295,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eVGDT6kpQYezy8jNTYLDWw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380153"
+            "Processing_Time": "2025-07-26T15:05:27.777392"
         },
         {
             "category": "Golf",
@@ -312,7 +312,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KhbJGSdsTS-5NgxzxjtNkA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380158"
+            "Processing_Time": "2025-07-26T15:05:27.777395"
         },
         {
             "category": "Golf",
@@ -329,7 +329,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Ela9vFMbS_2j1-IXDU6WfQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380164"
+            "Processing_Time": "2025-07-26T15:05:27.777398"
         },
         {
             "category": "Golf",
@@ -346,7 +346,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/6WxpA2jgSmuV9EzT3YEPyg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380169"
+            "Processing_Time": "2025-07-26T15:05:27.777402"
         },
         {
             "category": "Golf",
@@ -363,7 +363,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CIMKrbLQSQG2a439eYDTSg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380175"
+            "Processing_Time": "2025-07-26T15:05:27.777405"
         },
         {
             "category": "Golf",
@@ -380,7 +380,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/IkViDk3pQ_6wvZ50v6QjYw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380180"
+            "Processing_Time": "2025-07-26T15:05:27.777408"
         },
         {
             "category": "Horse Racing",
@@ -397,7 +397,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/iZqHlQSXRKiwNR4ra86WiQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T15:00:45.380185"
+            "Processing_Time": "2025-07-26T15:05:27.777412"
+        },
+        {
+            "category": "Cricket",
+            "title": "Cameroon Women Vs Mozambique Women",
+            "tournament": "ICC Women's Africa T20 WC Qualifier 2 2025",
+            "short_name": "ICC-W Africa Qualifier",
+            "match_id": 129877,
+            "status": "STARTED",
+            "startTime": "26 July 2025 05:30 PM",
+            "startDate": "20 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/129877_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129877_english_hls_47048ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/L7QW13VmT_OpDtdarvlRpg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T15:05:27.777415"
         }
     ],
     "status": "active"
