@@ -3,27 +3,27 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "09:10:35 AM 26-07-2025",
-    "total_matches": 16,
-    "live_matches": 9,
+    "last_updated": "09:15:29 AM 26-07-2025",
+    "total_matches": 17,
+    "live_matches": 10,
     "upcoming_matches": 7,
     "matches": [
         {
-            "category": "Motorsports",
-            "title": "Porsche Mobil 1 Supercup",
-            "tournament": "Porsche Mobil 1 Super Cup",
-            "short_name": "Porsche Super Cup",
-            "match_id": 131640,
+            "category": "Cricket",
+            "title": "Amo Sharks Vs Speen Ghar Tigers",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130805,
             "status": "STARTED",
-            "startTime": "26 July 2025 01:55 PM",
-            "startDate": "16 May 2025 05:30 AM",
-            "endDate": "07 September 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_Sporty-(1).jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131640_english_hls_68690adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "startTime": "26 July 2025 03:00 PM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130805_5425_AM_SG_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130805_english_hls_44230ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Oj2o6MdiQ6ai5K_rZiSn1g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128840"
+            "Processing_Time": "2025-07-26T09:15:29.942946"
         },
         {
             "category": "Formula 1",
@@ -40,24 +40,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128852"
-        },
-        {
-            "category": "Cricket",
-            "title": "Amo Sharks Vs Speen Ghar Tigers",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130805,
-            "status": "NOT_STARTED",
-            "startTime": "26 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130805_5425_AM_SG_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128856"
+            "Processing_Time": "2025-07-26T09:15:29.942955"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128861"
+            "Processing_Time": "2025-07-26T09:15:29.942959"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128864"
+            "Processing_Time": "2025-07-26T09:15:29.942963"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128868"
+            "Processing_Time": "2025-07-26T09:15:29.942967"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128872"
+            "Processing_Time": "2025-07-26T09:15:29.942971"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128876"
+            "Processing_Time": "2025-07-26T09:15:29.942975"
         },
         {
             "category": "Football",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128879"
+            "Processing_Time": "2025-07-26T09:15:29.942978"
+        },
+        {
+            "category": "Cricket",
+            "title": "The Blaze Vs Warwickshire Women",
+            "tournament": "Women's Vitality Blast T20, 2025",
+            "short_name": "Women's Vitality Blast T20",
+            "match_id": 125883,
+            "status": "NOT_STARTED",
+            "startTime": "27 July 2025 05:00 PM",
+            "startDate": "30 May 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T09:15:29.942982"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/jAHkfplfR6SbKGRVMTQo2w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128883"
+            "Processing_Time": "2025-07-26T09:15:29.942986"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KNYOIJZ3SUqZLyAeZ40sFw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128887"
+            "Processing_Time": "2025-07-26T09:15:29.942989"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5Ho3slcwR-ugsHVMrNgcfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128890"
+            "Processing_Time": "2025-07-26T09:15:29.942993"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/kLUyJruKTQWZ8OjQan_82w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128894"
+            "Processing_Time": "2025-07-26T09:15:29.942996"
         },
         {
             "category": "Cricket",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Z_kypWwLSgOvp-nX6PSVzQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128898"
+            "Processing_Time": "2025-07-26T09:15:29.943000"
         },
         {
             "category": "Cricket",
@@ -261,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/pOTRq7R9Qd-FaKkYhLDyFQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128901"
+            "Processing_Time": "2025-07-26T09:15:29.943004"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/qlindGOaROa4SCk58Vw1TQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T09:10:35.128905"
+            "Processing_Time": "2025-07-26T09:15:29.943007"
+        },
+        {
+            "category": "Cricket",
+            "title": "Hungary Vs Austria",
+            "tournament": "ECN Budapest Cup T20I, 2025",
+            "short_name": "ECN Budapest Cup T20I",
+            "match_id": 131972,
+            "status": "STARTED",
+            "startTime": "26 July 2025 03:00 PM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131972_english_hls_19456ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/hLDkLMG3QDGZ1gvH9IWgyA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T09:15:29.943011"
         }
     ],
     "status": "active"
