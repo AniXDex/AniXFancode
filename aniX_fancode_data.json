@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "08:56:48 PM 26-07-2025",
-    "total_matches": 15,
-    "live_matches": 6,
+    "last_updated": "09:00:44 PM 26-07-2025",
+    "total_matches": 13,
+    "live_matches": 3,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452410"
+            "Processing_Time": "2025-07-26T21:00:44.603746"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452421"
+            "Processing_Time": "2025-07-26T21:00:44.603758"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452425"
+            "Processing_Time": "2025-07-26T21:00:44.603762"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452429"
+            "Processing_Time": "2025-07-26T21:00:44.603766"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452433"
+            "Processing_Time": "2025-07-26T21:00:44.603770"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452437"
+            "Processing_Time": "2025-07-26T21:00:44.603774"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452440"
+            "Processing_Time": "2025-07-26T21:00:44.603778"
         },
         {
             "category": "Motorsports",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452444"
+            "Processing_Time": "2025-07-26T21:00:44.603781"
         },
         {
             "category": "Formula 1",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452447"
+            "Processing_Time": "2025-07-26T21:00:44.603785"
         },
         {
             "category": "Golf",
@@ -167,16 +167,16 @@
             "tournament": "3M Open",
             "short_name": "3M Open",
             "match_id": 131600,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "26 July 2025 05:30 PM",
             "startDate": "24 July 2025 05:30 AM",
             "endDate": "27 July 2025 11:30 PM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-old-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131600_english_hls_91429ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/eVGDT6kpQYezy8jNTYLDWw/master.m3u8",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452451"
+            "Processing_Time": "2025-07-26T21:00:44.603789"
         },
         {
             "category": "Golf",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KhbJGSdsTS-5NgxzxjtNkA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452455"
+            "Processing_Time": "2025-07-26T21:00:44.603792"
         },
         {
             "category": "Golf",
@@ -210,24 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CIMKrbLQSQG2a439eYDTSg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452458"
-        },
-        {
-            "category": "Golf",
-            "title": "Marquee Group   Day 3",
-            "tournament": "3M Open",
-            "short_name": "3M Open",
-            "match_id": 131597,
-            "status": "STARTED",
-            "startTime": "26 July 2025 06:30 PM",
-            "startDate": "24 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-old-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131597_english_hls_26427ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/IkViDk3pQ_6wvZ50v6QjYw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452464"
+            "Processing_Time": "2025-07-26T21:00:44.603796"
         },
         {
             "category": "Golf",
@@ -244,24 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eJrKd8yDSUuyzeSdIVqGSQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452468"
-        },
-        {
-            "category": "Baseball",
-            "title": "New York Yankees Vs Philadelphia Phillies",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 130278,
-            "status": "STARTED",
-            "startTime": "26 July 2025 10:35 PM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/130278_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130278_english_hls_912ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T20:56:48.452471"
+            "Processing_Time": "2025-07-26T21:00:44.603799"
         }
     ],
     "status": "active"
