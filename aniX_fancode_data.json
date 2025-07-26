@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "05:41:09 AM 26-07-2025",
-    "total_matches": 10,
-    "live_matches": 2,
+    "last_updated": "05:45:28 AM 26-07-2025",
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/HQfhDF6VRKytu7FaIYFOmQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043219"
+            "Processing_Time": "2025-07-26T05:45:28.017740"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043232"
+            "Processing_Time": "2025-07-26T05:45:28.017751"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043238"
+            "Processing_Time": "2025-07-26T05:45:28.017758"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043243"
+            "Processing_Time": "2025-07-26T05:45:28.017765"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043248"
+            "Processing_Time": "2025-07-26T05:45:28.017772"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043252"
+            "Processing_Time": "2025-07-26T05:45:28.017779"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043257"
+            "Processing_Time": "2025-07-26T05:45:28.017785"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043261"
+            "Processing_Time": "2025-07-26T05:45:28.017795"
         },
         {
             "category": "Motorsports",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043266"
+            "Processing_Time": "2025-07-26T05:45:28.017801"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,41 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3QOjsORqSumSdXkUm_adnQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T05:41:09.043270"
+            "Processing_Time": "2025-07-26T05:45:28.017807"
+        },
+        {
+            "category": "Cricket",
+            "title": "Malaysia Vs Hong Kong, China",
+            "tournament": "Asia-Pacific Cricket Champions Trophy, 2025",
+            "short_name": "Asia-Pacific Cricket Champions",
+            "match_id": 130788,
+            "status": "STARTED",
+            "startTime": "26 July 2025 11:30 AM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130776_5424_MAS_HK_fc-web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130788_english_hls_81678ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/jAHkfplfR6SbKGRVMTQo2w/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T05:45:28.017813"
+        },
+        {
+            "category": "Cricket",
+            "title": "Romania Vs Luxembourg",
+            "tournament": "ECN Budapest Cup T20I, 2025",
+            "short_name": "ECN Budapest Cup T20I",
+            "match_id": 131971,
+            "status": "STARTED",
+            "startTime": "26 July 2025 11:30 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131971_english_hls_29700ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/KNYOIJZ3SUqZLyAeZ40sFw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T05:45:28.017819"
         }
     ],
     "status": "active"
