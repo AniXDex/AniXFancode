@@ -3,8 +3,8 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "02:10:36 PM 26-07-2025",
-    "total_matches": 24,
+    "last_updated": "02:15:30 PM 26-07-2025",
+    "total_matches": 23,
     "live_matches": 18,
     "upcoming_matches": 5,
     "matches": [
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/k_I0K7LDSnuMYGv6WeE-3A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387746"
+            "Processing_Time": "2025-07-26T14:15:30.347302"
         },
         {
             "category": "Cricket",
@@ -40,41 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/WbpWCe6QST-Joe4fRKEeYg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387754"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Qualifying",
-            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
-            "short_name": "Belgian GP",
-            "match_id": 118444,
-            "status": "STARTED",
-            "startTime": "26 July 2025 07:30 PM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Qualifying_Sporty.jpg",
-            "adfree_stream": "https://d37nxc6d3532w4.cloudfront.net/out/v1/260a0d55c721493b9a09c76e738a5254/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387758"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs Zimbabwe Women",
-            "tournament": "Zimbabwe Women tour of Ireland, 2025",
-            "short_name": "IRE-w vs ZIM-w",
-            "match_id": 128765,
-            "status": "STARTED",
-            "startTime": "26 July 2025 03:15 PM",
-            "startDate": "20 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/128765_english_hls_49067ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/5OTkDGVETmq27gnhfv9_qw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387762"
+            "Processing_Time": "2025-07-26T14:15:30.347319"
         },
         {
             "category": "Cricket",
@@ -91,7 +57,41 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CnidfemQQ4yVBn9s89T9hQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387766"
+            "Processing_Time": "2025-07-26T14:15:30.347326"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Qualifying",
+            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
+            "short_name": "Belgian GP",
+            "match_id": 118444,
+            "status": "STARTED",
+            "startTime": "26 July 2025 07:30 PM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Qualifying_Sporty.jpg",
+            "adfree_stream": "https://d37nxc6d3532w4.cloudfront.net/out/v1/260a0d55c721493b9a09c76e738a5254/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T14:15:30.347333"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Women Vs Zimbabwe Women",
+            "tournament": "Zimbabwe Women tour of Ireland, 2025",
+            "short_name": "IRE-w vs ZIM-w",
+            "match_id": 128765,
+            "status": "STARTED",
+            "startTime": "26 July 2025 03:15 PM",
+            "startDate": "20 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/128765_english_hls_49067ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/5OTkDGVETmq27gnhfv9_qw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T14:15:30.347340"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387769"
+            "Processing_Time": "2025-07-26T14:15:30.347347"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387773"
+            "Processing_Time": "2025-07-26T14:15:30.347354"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387776"
+            "Processing_Time": "2025-07-26T14:15:30.347361"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387780"
+            "Processing_Time": "2025-07-26T14:15:30.347367"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387783"
+            "Processing_Time": "2025-07-26T14:15:30.347374"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ee1t2hAwTMaY4k8FyqNwTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387787"
+            "Processing_Time": "2025-07-26T14:15:30.347381"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Eca1xpFjQbG3PRnKcrRmDQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387793"
+            "Processing_Time": "2025-07-26T14:15:30.347387"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/L7QW13VmT_OpDtdarvlRpg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387797"
+            "Processing_Time": "2025-07-26T14:15:30.347395"
         },
         {
             "category": "Cricket",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YEGvltaFQ3O6UZYdK2Q_Jg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387800"
+            "Processing_Time": "2025-07-26T14:15:30.347401"
         },
         {
             "category": "Cricket",
@@ -261,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5Pn2F0CbRmiCZR0MekIUsw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387804"
+            "Processing_Time": "2025-07-26T14:15:30.347408"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/aKT4JCaXTA6dOTgCsHsQ9Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387807"
+            "Processing_Time": "2025-07-26T14:15:30.347419"
         },
         {
             "category": "Golf",
@@ -295,7 +295,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eVGDT6kpQYezy8jNTYLDWw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387811"
+            "Processing_Time": "2025-07-26T14:15:30.347426"
         },
         {
             "category": "Golf",
@@ -312,7 +312,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KhbJGSdsTS-5NgxzxjtNkA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387814"
+            "Processing_Time": "2025-07-26T14:15:30.347433"
         },
         {
             "category": "Golf",
@@ -329,7 +329,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Ela9vFMbS_2j1-IXDU6WfQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387817"
+            "Processing_Time": "2025-07-26T14:15:30.347440"
         },
         {
             "category": "Golf",
@@ -346,7 +346,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/6WxpA2jgSmuV9EzT3YEPyg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387821"
+            "Processing_Time": "2025-07-26T14:15:30.347446"
         },
         {
             "category": "Golf",
@@ -363,7 +363,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CIMKrbLQSQG2a439eYDTSg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387824"
+            "Processing_Time": "2025-07-26T14:15:30.347453"
         },
         {
             "category": "Golf",
@@ -380,7 +380,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/IkViDk3pQ_6wvZ50v6QjYw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387828"
+            "Processing_Time": "2025-07-26T14:15:30.347460"
         },
         {
             "category": "Horse Racing",
@@ -397,24 +397,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/iZqHlQSXRKiwNR4ra86WiQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387831"
-        },
-        {
-            "category": "Cricket",
-            "title": "Kenya Vs Namibia A",
-            "tournament": "Pearl of Africa T20, 2025",
-            "short_name": "Pearl of Africa T20",
-            "match_id": 130773,
-            "status": "COMPLETED",
-            "startTime": "26 July 2025 04:00 PM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T14:10:36.387834"
+            "Processing_Time": "2025-07-26T14:15:30.347467"
         }
     ],
     "status": "active"
