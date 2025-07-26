@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:10:31 PM 26-07-2025",
+    "last_updated": "01:15:28 PM 26-07-2025",
     "total_matches": 22,
-    "live_matches": 19,
-    "upcoming_matches": 3,
+    "live_matches": 18,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/k_I0K7LDSnuMYGv6WeE-3A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149367"
+            "Processing_Time": "2025-07-26T13:15:28.586766"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/WbpWCe6QST-Joe4fRKEeYg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149378"
+            "Processing_Time": "2025-07-26T13:15:28.586778"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CnidfemQQ4yVBn9s89T9hQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149382"
+            "Processing_Time": "2025-07-26T13:15:28.586782"
         },
         {
             "category": "Football",
@@ -74,7 +74,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/MJ-0LTJRSkint1HwBALuiA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149386"
+            "Processing_Time": "2025-07-26T13:15:28.586786"
         },
         {
             "category": "Formula 1",
@@ -91,7 +91,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149389"
+            "Processing_Time": "2025-07-26T13:15:28.586790"
         },
         {
             "category": "Cricket",
@@ -108,24 +108,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5OTkDGVETmq27gnhfv9_qw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149393"
-        },
-        {
-            "category": "Cricket",
-            "title": "Amo Sharks Vs Speen Ghar Tigers",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130805,
-            "status": "STARTED",
-            "startTime": "26 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130805_5425_AM_SG_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130805_english_hls_44230ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Oj2o6MdiQ6ai5K_rZiSn1g/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149396"
+            "Processing_Time": "2025-07-26T13:15:28.586794"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149402"
+            "Processing_Time": "2025-07-26T13:15:28.586797"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149406"
+            "Processing_Time": "2025-07-26T13:15:28.586801"
         },
         {
             "category": "Cricket",
@@ -176,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149410"
+            "Processing_Time": "2025-07-26T13:15:28.586804"
+        },
+        {
+            "category": "Cricket",
+            "title": "South Africa Champions Vs Australia Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129729,
+            "status": "NOT_STARTED",
+            "startTime": "27 July 2025 05:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T13:15:28.586808"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3to8ayQQSK29v6jbhnldmw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149413"
+            "Processing_Time": "2025-07-26T13:15:28.586812"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ee1t2hAwTMaY4k8FyqNwTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149416"
+            "Processing_Time": "2025-07-26T13:15:28.586815"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Eca1xpFjQbG3PRnKcrRmDQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149420"
+            "Processing_Time": "2025-07-26T13:15:28.586819"
         },
         {
             "category": "Cricket",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/L7QW13VmT_OpDtdarvlRpg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149423"
+            "Processing_Time": "2025-07-26T13:15:28.586822"
         },
         {
             "category": "Cricket",
@@ -261,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YEGvltaFQ3O6UZYdK2Q_Jg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149426"
+            "Processing_Time": "2025-07-26T13:15:28.586826"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5Pn2F0CbRmiCZR0MekIUsw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149430"
+            "Processing_Time": "2025-07-26T13:15:28.586830"
         },
         {
             "category": "Golf",
@@ -295,7 +295,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eVGDT6kpQYezy8jNTYLDWw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149433"
+            "Processing_Time": "2025-07-26T13:15:28.586836"
         },
         {
             "category": "Golf",
@@ -312,7 +312,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KhbJGSdsTS-5NgxzxjtNkA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149437"
+            "Processing_Time": "2025-07-26T13:15:28.586840"
         },
         {
             "category": "Golf",
@@ -329,7 +329,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Ela9vFMbS_2j1-IXDU6WfQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149440"
+            "Processing_Time": "2025-07-26T13:15:28.586844"
         },
         {
             "category": "Golf",
@@ -346,7 +346,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/6WxpA2jgSmuV9EzT3YEPyg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149444"
+            "Processing_Time": "2025-07-26T13:15:28.586847"
         },
         {
             "category": "Golf",
@@ -363,7 +363,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CIMKrbLQSQG2a439eYDTSg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149449"
+            "Processing_Time": "2025-07-26T13:15:28.586853"
         },
         {
             "category": "Golf",
@@ -380,7 +380,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/IkViDk3pQ_6wvZ50v6QjYw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T13:10:31.149453"
+            "Processing_Time": "2025-07-26T13:15:28.586856"
         }
     ],
     "status": "active"
