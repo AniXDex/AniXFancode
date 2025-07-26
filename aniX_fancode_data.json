@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "10:25:26 AM 26-07-2025",
-    "total_matches": 13,
-    "live_matches": 7,
-    "upcoming_matches": 6,
+    "last_updated": "10:30:37 AM 26-07-2025",
+    "total_matches": 14,
+    "live_matches": 8,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Formula 1",
@@ -23,7 +23,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250500"
+            "Processing_Time": "2025-07-26T10:30:37.798110"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5OTkDGVETmq27gnhfv9_qw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250515"
+            "Processing_Time": "2025-07-26T10:30:37.798121"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Oj2o6MdiQ6ai5K_rZiSn1g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250523"
+            "Processing_Time": "2025-07-26T10:30:37.798125"
         },
         {
             "category": "Cricket",
@@ -65,16 +65,16 @@
             "tournament": "Zimbabwe T20I Tri Series, 2025",
             "short_name": "NZ vs ZIM vs SA",
             "match_id": 128759,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "26 July 2025 04:30 PM",
             "startDate": "14 July 2025 05:30 AM",
             "endDate": "26 July 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/128759_english_hls_77746ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/CnidfemQQ4yVBn9s89T9hQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250530"
+            "Processing_Time": "2025-07-26T10:30:37.798129"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250536"
+            "Processing_Time": "2025-07-26T10:30:37.798132"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250543"
+            "Processing_Time": "2025-07-26T10:30:37.798136"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250549"
+            "Processing_Time": "2025-07-26T10:30:37.798142"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250556"
+            "Processing_Time": "2025-07-26T10:30:37.798146"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250562"
+            "Processing_Time": "2025-07-26T10:30:37.798149"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/kLUyJruKTQWZ8OjQan_82w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250568"
+            "Processing_Time": "2025-07-26T10:30:37.798153"
         },
         {
             "category": "Cricket",
@@ -184,16 +184,16 @@
             "tournament": "ECS Sweden, Stockholm, 2025",
             "short_name": "ECS Sweden, Stockholm",
             "match_id": 131917,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "26 July 2025 02:15 PM",
             "startDate": "23 July 2025 05:30 AM",
             "endDate": "27 July 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131917_english_hls_1799ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/qlindGOaROa4SCk58Vw1TQ/master.m3u8",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250574"
+            "Processing_Time": "2025-07-26T10:30:37.798156"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/hLDkLMG3QDGZ1gvH9IWgyA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250581"
+            "Processing_Time": "2025-07-26T10:30:37.798159"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3to8ayQQSK29v6jbhnldmw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T10:25:26.250591"
+            "Processing_Time": "2025-07-26T10:30:37.798163"
+        },
+        {
+            "category": "Cricket",
+            "title": "Jinnah Cc Stockholm Vs Alby Zalmi",
+            "tournament": "ECS Sweden, Stockholm, 2025",
+            "short_name": "ECS Sweden, Stockholm",
+            "match_id": 131918,
+            "status": "STARTED",
+            "startTime": "26 July 2025 04:15 PM",
+            "startDate": "23 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131918_english_hls_22444ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/F6w1ubvhQBKypR3PuRl-6Q/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T10:30:37.798166"
         }
     ],
     "status": "active"
