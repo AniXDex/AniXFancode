@@ -3,45 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:30:34 PM 26-07-2025",
-    "total_matches": 17,
-    "live_matches": 9,
+    "last_updated": "07:35:23 PM 26-07-2025",
+    "total_matches": 16,
+    "live_matches": 7,
     "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Pakistan Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129728,
-            "status": "STARTED",
-            "startTime": "26 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129728_5370_PNC_WIC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129728_english_hls_61663ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/8-q8V3wTTeu2er8x5x0-Cw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.702995"
-        },
-        {
-            "category": "Cricket",
-            "title": "Pakistan Champions Vs West Indies Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129728,
-            "status": "STARTED",
-            "startTime": "26 July 2025 09:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129728_5370_PNC_WIC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129728_hindi_hls_41527ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/NyoBJVRoSMyZvTCKjP79fA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703003"
-        },
         {
             "category": "Cricket",
             "title": "West Indies Vs Australia",
@@ -57,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703007"
+            "Processing_Time": "2025-07-26T19:35:23.850336"
         },
         {
             "category": "Cricket",
@@ -74,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703011"
+            "Processing_Time": "2025-07-26T19:35:23.850351"
         },
         {
             "category": "Cricket",
@@ -91,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703015"
+            "Processing_Time": "2025-07-26T19:35:23.850358"
         },
         {
             "category": "Cricket",
@@ -108,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703018"
+            "Processing_Time": "2025-07-26T19:35:23.850364"
         },
         {
             "category": "Cricket",
@@ -125,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703022"
+            "Processing_Time": "2025-07-26T19:35:23.850371"
         },
         {
             "category": "Football",
@@ -142,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703025"
+            "Processing_Time": "2025-07-26T19:35:23.850377"
         },
         {
             "category": "Football",
@@ -159,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703029"
+            "Processing_Time": "2025-07-26T19:35:23.850383"
         },
         {
             "category": "Motorsports",
@@ -176,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703032"
+            "Processing_Time": "2025-07-26T19:35:23.850389"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Vs Australia",
+            "tournament": "Australia Tour of West Indies, 2025",
+            "short_name": "WI vs AUS",
+            "match_id": 127555,
+            "status": "COMPLETED",
+            "startTime": "26 July 2025 04:30 AM",
+            "startDate": "25 June 2025 05:30 AM",
+            "endDate": "29 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_Sporty_1753438652171.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T19:35:23.850395"
         },
         {
             "category": "Cricket",
@@ -193,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/R75Xx0CiQqSFvR_xis6w4Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703036"
+            "Processing_Time": "2025-07-26T19:35:23.850401"
         },
         {
             "category": "Golf",
@@ -210,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eVGDT6kpQYezy8jNTYLDWw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703039"
+            "Processing_Time": "2025-07-26T19:35:23.850408"
         },
         {
             "category": "Golf",
@@ -227,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KhbJGSdsTS-5NgxzxjtNkA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703043"
+            "Processing_Time": "2025-07-26T19:35:23.850414"
         },
         {
             "category": "Golf",
@@ -244,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CIMKrbLQSQG2a439eYDTSg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703046"
+            "Processing_Time": "2025-07-26T19:35:23.850420"
         },
         {
             "category": "Golf",
@@ -261,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/IkViDk3pQ_6wvZ50v6QjYw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703049"
+            "Processing_Time": "2025-07-26T19:35:23.850426"
         },
         {
             "category": "Golf",
@@ -278,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eJrKd8yDSUuyzeSdIVqGSQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703053"
+            "Processing_Time": "2025-07-26T19:35:23.850432"
         },
         {
             "category": "Baseball",
@@ -295,7 +278,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T19:30:34.703056"
+            "Processing_Time": "2025-07-26T19:35:23.850438"
         }
     ],
     "status": "active"
