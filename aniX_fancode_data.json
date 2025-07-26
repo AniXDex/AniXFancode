@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:15:30 AM 26-07-2025",
+    "last_updated": "11:20:30 AM 26-07-2025",
     "total_matches": 13,
-    "live_matches": 9,
-    "upcoming_matches": 4,
+    "live_matches": 10,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/CnidfemQQ4yVBn9s89T9hQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557203"
+            "Processing_Time": "2025-07-26T11:20:30.426547"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Oj2o6MdiQ6ai5K_rZiSn1g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557215"
+            "Processing_Time": "2025-07-26T11:20:30.426557"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5OTkDGVETmq27gnhfv9_qw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557220"
+            "Processing_Time": "2025-07-26T11:20:30.426562"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/k_I0K7LDSnuMYGv6WeE-3A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557225"
+            "Processing_Time": "2025-07-26T11:20:30.426566"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/WbpWCe6QST-Joe4fRKEeYg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557229"
+            "Processing_Time": "2025-07-26T11:20:30.426570"
+        },
+        {
+            "category": "Football",
+            "title": "Liverpool Vs Milan",
+            "tournament": "Club Friendlies 2025",
+            "short_name": "Club Friendlies",
+            "match_id": 129902,
+            "status": "STARTED",
+            "startTime": "26 July 2025 05:00 PM",
+            "startDate": "12 July 2025 05:30 AM",
+            "endDate": "10 August 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Milan_Sporty.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129902_english_hls_95733ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/MJ-0LTJRSkint1HwBALuiA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T11:20:30.426574"
         },
         {
             "category": "Formula 1",
@@ -108,7 +125,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557233"
+            "Processing_Time": "2025-07-26T11:20:30.426578"
         },
         {
             "category": "Cricket",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557237"
+            "Processing_Time": "2025-07-26T11:20:30.426583"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557241"
-        },
-        {
-            "category": "Football",
-            "title": "Liverpool Vs Milan",
-            "tournament": "Club Friendlies 2025",
-            "short_name": "Club Friendlies",
-            "match_id": 129902,
-            "status": "NOT_STARTED",
-            "startTime": "26 July 2025 05:00 PM",
-            "startDate": "12 July 2025 05:30 AM",
-            "endDate": "10 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Milan_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557245"
+            "Processing_Time": "2025-07-26T11:20:30.426586"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557249"
+            "Processing_Time": "2025-07-26T11:20:30.426590"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/hLDkLMG3QDGZ1gvH9IWgyA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557253"
+            "Processing_Time": "2025-07-26T11:20:30.426594"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3to8ayQQSK29v6jbhnldmw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557257"
+            "Processing_Time": "2025-07-26T11:20:30.426598"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/F6w1ubvhQBKypR3PuRl-6Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T11:15:30.557261"
+            "Processing_Time": "2025-07-26T11:20:30.426602"
         }
     ],
     "status": "active"
