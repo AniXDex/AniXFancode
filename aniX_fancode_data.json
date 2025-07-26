@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:45:26 AM 26-07-2025",
-    "total_matches": 9,
-    "live_matches": 1,
+    "last_updated": "12:50:26 AM 26-07-2025",
+    "total_matches": 10,
+    "live_matches": 2,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/GKlorOzHRZGr8TJPoHFJtw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351135"
+            "Processing_Time": "2025-07-26T00:50:26.528059"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351144"
+            "Processing_Time": "2025-07-26T00:50:26.528069"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351149"
+            "Processing_Time": "2025-07-26T00:50:26.528075"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351153"
+            "Processing_Time": "2025-07-26T00:50:26.528081"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351156"
+            "Processing_Time": "2025-07-26T00:50:26.528086"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351160"
+            "Processing_Time": "2025-07-26T00:50:26.528092"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351163"
+            "Processing_Time": "2025-07-26T00:50:26.528097"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351167"
+            "Processing_Time": "2025-07-26T00:50:26.528118"
         },
         {
             "category": "Football",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-26T00:45:26.351171"
+            "Processing_Time": "2025-07-26T00:50:26.528124"
+        },
+        {
+            "category": "Cricket",
+            "title": "Fatemi Resources Cricket Club Vs Kl Gladiators",
+            "tournament": "Malaysia T10 Bash, 2025",
+            "short_name": "Malaysia T10 Bash",
+            "match_id": 131880,
+            "status": "STARTED",
+            "startTime": "26 July 2025 06:30 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131880_5477_FRC_KLG_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131880_english_hls_38327ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/00ri_KOhSLqBA4pIm3CQJQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-26T00:50:26.528130"
         }
     ],
     "status": "active"
