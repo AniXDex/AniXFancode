@@ -3,62 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "03:05:26 PM 27-07-2025",
-    "total_matches": 24,
-    "live_matches": 18,
+    "last_updated": "03:10:33 PM 27-07-2025",
+    "total_matches": 23,
+    "live_matches": 17,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
-            "short_name": "Belgian GP",
-            "match_id": 118445,
-            "status": "STARTED",
-            "startTime": "27 July 2025 06:30 PM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Race_Sporty.jpg",
-            "adfree_stream": "https://d3vci48a06272z.cloudfront.net/out/v1/bc9def07e1b54c2fad90eba9154941bc/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025031"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
-            "short_name": "Belgian GP",
-            "match_id": 118445,
-            "status": "STARTED",
-            "startTime": "27 July 2025 06:30 PM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Race_Sporty.jpg",
-            "adfree_stream": "https://d2id4ndcwvcpgr.cloudfront.net/out/v1/4d53fced9fcc4f71a3726008715c9ccf/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025040"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
-            "short_name": "Belgian GP",
-            "match_id": 118445,
-            "status": "STARTED",
-            "startTime": "27 July 2025 06:30 PM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Race_Sporty.jpg",
-            "adfree_stream": "https://d1srw14cmrpszh.cloudfront.net/out/v1/1f3309ed7d5f49ef886517efa22e253a/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025044"
-        },
         {
             "category": "Cricket",
             "title": "India Champions Vs England Champions",
@@ -74,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/HG6piZpESW-ki8pTrtPw1g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025048"
+            "Processing_Time": "2025-07-27T15:10:33.689657"
         },
         {
             "category": "Cricket",
@@ -91,7 +40,58 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/nOGQXUaySZG2HItufzHeSg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025051"
+            "Processing_Time": "2025-07-27T15:10:33.689673"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Race",
+            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
+            "short_name": "Belgian GP",
+            "match_id": 118445,
+            "status": "STARTED",
+            "startTime": "27 July 2025 06:30 PM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Race_Sporty.jpg",
+            "adfree_stream": "https://d3vci48a06272z.cloudfront.net/out/v1/bc9def07e1b54c2fad90eba9154941bc/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T15:10:33.689681"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Race",
+            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
+            "short_name": "Belgian GP",
+            "match_id": 118445,
+            "status": "STARTED",
+            "startTime": "27 July 2025 06:30 PM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Race_Sporty.jpg",
+            "adfree_stream": "https://d2id4ndcwvcpgr.cloudfront.net/out/v1/4d53fced9fcc4f71a3726008715c9ccf/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T15:10:33.689688"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Race",
+            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
+            "short_name": "Belgian GP",
+            "match_id": 118445,
+            "status": "STARTED",
+            "startTime": "27 July 2025 06:30 PM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Race_Sporty.jpg",
+            "adfree_stream": "https://d1srw14cmrpszh.cloudfront.net/out/v1/1f3309ed7d5f49ef886517efa22e253a/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T15:10:33.689694"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025055"
+            "Processing_Time": "2025-07-27T15:10:33.689701"
         },
         {
             "category": "Cricket",
@@ -120,12 +120,12 @@
             "startTime": "27 July 2025 09:00 PM",
             "startDate": "30 May 2025 05:30 AM",
             "endDate": "27 July 2025 05:30 AM",
-            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Surrey_vs_Warwickshire_Womens-Vitality-Blast-Sporty-match-cad-.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025058"
+            "Processing_Time": "2025-07-27T15:10:33.689708"
         },
         {
             "category": "Cricket",
@@ -142,41 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025062"
-        },
-        {
-            "category": "Cricket",
-            "title": "Speen Ghar Tigers Vs Mis E Ainak Knights",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130803,
-            "status": "NOT_STARTED",
-            "startTime": "28 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130803_5425_SG_MAK_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025065"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs Zimbabwe Women",
-            "tournament": "Zimbabwe Women tour of Ireland, 2025",
-            "short_name": "IRE-w vs ZIM-w",
-            "match_id": 128766,
-            "status": "NOT_STARTED",
-            "startTime": "28 July 2025 03:15 PM",
-            "startDate": "20 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025069"
+            "Processing_Time": "2025-07-27T15:10:33.689715"
         },
         {
             "category": "Football",
@@ -193,7 +159,41 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025072"
+            "Processing_Time": "2025-07-27T15:10:33.689722"
+        },
+        {
+            "category": "Cricket",
+            "title": "Speen Ghar Tigers Vs Mis E Ainak Knights",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130803,
+            "status": "NOT_STARTED",
+            "startTime": "28 July 2025 03:00 PM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130803_5425_SG_MAK_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T15:10:33.689730"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Women Vs Zimbabwe Women",
+            "tournament": "Zimbabwe Women tour of Ireland, 2025",
+            "short_name": "IRE-w vs ZIM-w",
+            "match_id": 128766,
+            "status": "NOT_STARTED",
+            "startTime": "28 July 2025 03:15 PM",
+            "startDate": "20 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T15:10:33.689736"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025076"
+            "Processing_Time": "2025-07-27T15:10:33.689743"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/sSWjCF_1QiyqmoCZBoFFEg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025079"
+            "Processing_Time": "2025-07-27T15:10:33.689749"
         },
         {
             "category": "Cricket",
@@ -244,24 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Ra8khiqgSyWfMEnuSTJawA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025083"
-        },
-        {
-            "category": "Cricket",
-            "title": "Gauhati Town Club Vs Guwahati Giants",
-            "tournament": "Guwahati Sixes, 2025",
-            "short_name": "Gauhati Town Club Sixes",
-            "match_id": 132386,
-            "status": "STARTED",
-            "startTime": "27 July 2025 07:15 PM",
-            "startDate": "27 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132386_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132386_english_hls_14125ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/UTUHatmWTUKxrrD4rX4vZQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025086"
+            "Processing_Time": "2025-07-27T15:10:33.689755"
         },
         {
             "category": "Cricket",
@@ -278,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/POqmV-_1TNGgx5cu3eVvJA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025090"
+            "Processing_Time": "2025-07-27T15:10:33.689761"
         },
         {
             "category": "Cricket",
@@ -295,24 +278,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/JqyRfymxR9-ZGWNWN6Ye7Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025096"
-        },
-        {
-            "category": "Golf",
-            "title": "Day 4",
-            "tournament": "ISPS Handa Women’s Scottish Open",
-            "short_name": "ISPS Handa Women Scottish Open",
-            "match_id": 132130,
-            "status": "STARTED",
-            "startTime": "27 July 2025 04:30 PM",
-            "startDate": "24 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132130_english_hls_91210ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/1fKHYM5MSdiip2Q5CGnKvg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025100"
+            "Processing_Time": "2025-07-27T15:10:33.689767"
         },
         {
             "category": "Golf",
@@ -329,7 +295,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4MSNvuRiSvOtBjfznnKA0Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025103"
+            "Processing_Time": "2025-07-27T15:10:33.689777"
         },
         {
             "category": "Golf",
@@ -346,7 +312,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/GGN8c6CNRA-1pQ5W6rJKhg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025107"
+            "Processing_Time": "2025-07-27T15:10:33.689785"
         },
         {
             "category": "Golf",
@@ -363,7 +329,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ISVOXNBsTKKv0WLb8TIxvQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025110"
+            "Processing_Time": "2025-07-27T15:10:33.689792"
         },
         {
             "category": "Golf",
@@ -380,7 +346,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/xEdPIrAhSUmfw9kpmOSRiw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025113"
+            "Processing_Time": "2025-07-27T15:10:33.689800"
         },
         {
             "category": "Golf",
@@ -397,7 +363,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/T0ccljF7TxSuWGl7krB2QQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025117"
+            "Processing_Time": "2025-07-27T15:10:33.689806"
         },
         {
             "category": "Cricket",
@@ -414,7 +380,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4hX55aq9RKC0qLGCvYmrKg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T15:05:26.025120"
+            "Processing_Time": "2025-07-27T15:10:33.689814"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gauhati Town Club Vs Guwahati Giants",
+            "tournament": "Guwahati Sixes, 2025",
+            "short_name": "Gauhati Town Club Sixes",
+            "match_id": 132386,
+            "status": "STARTED",
+            "startTime": "27 July 2025 07:15 PM",
+            "startDate": "27 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132386_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132386_english_hls_14125ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/UTUHatmWTUKxrrD4rX4vZQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T15:10:33.689821"
         }
     ],
     "status": "active"
