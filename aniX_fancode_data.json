@@ -3,11 +3,28 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "09:40:32 AM 27-07-2025",
-    "total_matches": 13,
-    "live_matches": 4,
-    "upcoming_matches": 9,
+    "last_updated": "09:45:30 AM 27-07-2025",
+    "total_matches": 14,
+    "live_matches": 6,
+    "upcoming_matches": 8,
     "matches": [
+        {
+            "category": "Motorsports",
+            "title": "Porsche Mobil 1 Supercup",
+            "tournament": "Porsche Mobil 1 Super Cup",
+            "short_name": "Porsche Super Cup",
+            "match_id": 131641,
+            "status": "STARTED",
+            "startTime": "27 July 2025 03:15 PM",
+            "startDate": "16 May 2025 05:30 AM",
+            "endDate": "07 September 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_Sporty-(1).jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131641_english_hls_62252adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T09:45:30.420500"
+        },
         {
             "category": "Cricket",
             "title": "The Blaze Vs Warwickshire Women",
@@ -23,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365547"
+            "Processing_Time": "2025-07-27T09:45:30.420507"
         },
         {
             "category": "Cricket",
@@ -40,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365555"
+            "Processing_Time": "2025-07-27T09:45:30.420511"
         },
         {
             "category": "Cricket",
@@ -57,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365559"
+            "Processing_Time": "2025-07-27T09:45:30.420515"
         },
         {
             "category": "Cricket",
@@ -74,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365563"
+            "Processing_Time": "2025-07-27T09:45:30.420521"
         },
         {
             "category": "Cricket",
@@ -91,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365566"
+            "Processing_Time": "2025-07-27T09:45:30.420525"
         },
         {
             "category": "Football",
@@ -108,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365570"
+            "Processing_Time": "2025-07-27T09:45:30.420528"
         },
         {
             "category": "Football",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365573"
+            "Processing_Time": "2025-07-27T09:45:30.420532"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365577"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs Zimbabwe Women",
-            "tournament": "Zimbabwe Women tour of Ireland, 2025",
-            "short_name": "IRE-w vs ZIM-w",
-            "match_id": 128766,
-            "status": "NOT_STARTED",
-            "startTime": "28 July 2025 03:15 PM",
-            "startDate": "20 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365583"
+            "Processing_Time": "2025-07-27T09:45:30.420536"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/w1J3YzgfSqq6BiINm95NzA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365587"
+            "Processing_Time": "2025-07-27T09:45:30.420539"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/PolosknUQoqOrU6dnVHJug/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365590"
+            "Processing_Time": "2025-07-27T09:45:30.420543"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/7H3rKKkqTs2KuhoRPv3Uvg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365594"
+            "Processing_Time": "2025-07-27T09:45:30.420546"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Hyd-yqbRRjyO3A7j_FEq_A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T09:40:32.365597"
+            "Processing_Time": "2025-07-27T09:45:30.420549"
+        },
+        {
+            "category": "Football",
+            "title": "Urawa Red Diamonds Vs Avispa Fukuoka",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 126268,
+            "status": "STARTED",
+            "startTime": "27 July 2025 03:30 PM",
+            "startDate": "08 February 2025 05:30 AM",
+            "endDate": "06 December 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/126268_4795_URW_FKK_fc-web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/126268_english_hls_98402ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T09:45:30.420552"
         }
     ],
     "status": "active"
