@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:15:28 AM 27-07-2025",
-    "total_matches": 10,
-    "live_matches": 3,
+    "last_updated": "06:20:32 AM 27-07-2025",
+    "total_matches": 11,
+    "live_matches": 4,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/578esKU8RsWuxKoJ9FzyTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834511"
+            "Processing_Time": "2025-07-27T06:20:32.092675"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/lVbk1f-XSZu4ykmOKUuXfQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834520"
+            "Processing_Time": "2025-07-27T06:20:32.092692"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834524"
+            "Processing_Time": "2025-07-27T06:20:32.092700"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834527"
+            "Processing_Time": "2025-07-27T06:20:32.092707"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834531"
+            "Processing_Time": "2025-07-27T06:20:32.092715"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834534"
+            "Processing_Time": "2025-07-27T06:20:32.092722"
         },
         {
             "category": "Football",
@@ -125,24 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834538"
-        },
-        {
-            "category": "Football",
-            "title": "England Women Vs Spain Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123374,
-            "status": "NOT_STARTED",
-            "startTime": "27 July 2025 09:30 PM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/England-Women-VS-Spain-Women_Sporty-(1).jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834541"
+            "Processing_Time": "2025-07-27T06:20:32.092728"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834544"
+            "Processing_Time": "2025-07-27T06:20:32.092735"
+        },
+        {
+            "category": "Football",
+            "title": "England Women Vs Spain Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123374,
+            "status": "NOT_STARTED",
+            "startTime": "27 July 2025 09:30 PM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/England-Women-VS-Spain-Women_Sporty-(1).jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T06:20:32.092741"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ZxZLI_nbRQie4VFMGzzBOw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:15:28.834548"
+            "Processing_Time": "2025-07-27T06:20:32.092749"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kenya Vs Nigeria",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130774,
+            "status": "STARTED",
+            "startTime": "27 July 2025 12:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130774_english_hls_92474ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/w1J3YzgfSqq6BiINm95NzA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T06:20:32.092755"
         }
     ],
     "status": "active"
