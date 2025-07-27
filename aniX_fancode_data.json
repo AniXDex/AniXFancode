@@ -3,45 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:25:24 AM 27-07-2025",
-    "total_matches": 12,
+    "last_updated": "07:30:40 AM 27-07-2025",
+    "total_matches": 14,
     "live_matches": 5,
-    "upcoming_matches": 7,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Hungary Vs Luxembourg",
-            "tournament": "ECN Budapest Cup T20I, 2025",
-            "short_name": "ECN Budapest Cup T20I",
-            "match_id": 131974,
-            "status": "STARTED",
-            "startTime": "27 July 2025 11:30 AM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_Sporty_Match_card_.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131974_english_hls_43592ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ZxZLI_nbRQie4VFMGzzBOw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911459"
-        },
-        {
-            "category": "Cricket",
-            "title": "Kenya Vs Nigeria",
-            "tournament": "Pearl of Africa T20, 2025",
-            "short_name": "Pearl of Africa T20",
-            "match_id": 130774,
-            "status": "STARTED",
-            "startTime": "27 July 2025 12:00 PM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-sporty.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130774_english_hls_92474ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/w1J3YzgfSqq6BiINm95NzA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911468"
-        },
         {
             "category": "Cricket",
             "title": "The Blaze Vs Warwickshire Women",
@@ -57,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911472"
+            "Processing_Time": "2025-07-27T07:30:40.226907"
         },
         {
             "category": "Cricket",
@@ -74,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911476"
+            "Processing_Time": "2025-07-27T07:30:40.226923"
         },
         {
             "category": "Cricket",
@@ -91,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911479"
+            "Processing_Time": "2025-07-27T07:30:40.226930"
         },
         {
             "category": "Cricket",
@@ -108,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911483"
+            "Processing_Time": "2025-07-27T07:30:40.226937"
         },
         {
             "category": "Cricket",
@@ -125,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911487"
+            "Processing_Time": "2025-07-27T07:30:40.226945"
         },
         {
             "category": "Football",
@@ -142,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911490"
+            "Processing_Time": "2025-07-27T07:30:40.226952"
         },
         {
             "category": "Football",
@@ -159,7 +125,75 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911493"
+            "Processing_Time": "2025-07-27T07:30:40.226959"
+        },
+        {
+            "category": "Cricket",
+            "title": "Speen Ghar Tigers Vs Mis E Ainak Knights",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130803,
+            "status": "NOT_STARTED",
+            "startTime": "28 July 2025 03:00 PM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130803_5425_SG_MAK_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T07:30:40.226967"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Women Vs Zimbabwe Women",
+            "tournament": "Zimbabwe Women tour of Ireland, 2025",
+            "short_name": "IRE-w vs ZIM-w",
+            "match_id": 128766,
+            "status": "NOT_STARTED",
+            "startTime": "28 July 2025 03:15 PM",
+            "startDate": "20 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T07:30:40.226975"
+        },
+        {
+            "category": "Cricket",
+            "title": "Hungary Vs Luxembourg",
+            "tournament": "ECN Budapest Cup T20I, 2025",
+            "short_name": "ECN Budapest Cup T20I",
+            "match_id": 131974,
+            "status": "STARTED",
+            "startTime": "27 July 2025 11:30 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Budapest-Cup-T20I,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131974_english_hls_43592ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ZxZLI_nbRQie4VFMGzzBOw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T07:30:40.226987"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kenya Vs Nigeria",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130774,
+            "status": "STARTED",
+            "startTime": "27 July 2025 12:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130774_english_hls_92474ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/w1J3YzgfSqq6BiINm95NzA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T07:30:40.226995"
         },
         {
             "category": "Cricket",
@@ -176,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/cw8eJ0KpQzmLmMOBvvOtsw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911497"
+            "Processing_Time": "2025-07-27T07:30:40.227002"
         },
         {
             "category": "Cricket",
@@ -193,24 +227,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/X8lG0kZnTaStF11XO9aBpw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911500"
+            "Processing_Time": "2025-07-27T07:30:40.227010"
         },
         {
-            "category": "Motorsports",
-            "title": "Formula 3",
-            "tournament": "F3 BELGIUM 2025",
-            "short_name": "F3 Belgium",
-            "match_id": 119103,
+            "category": "Cricket",
+            "title": "Mr Kb Putrajaya Cc Vs Sky Warrior",
+            "tournament": "Malaysia T10 Bash, 2025",
+            "short_name": "Malaysia T10 Bash",
+            "match_id": 131887,
             "status": "STARTED",
-            "startTime": "27 July 2025 12:00 PM",
+            "startTime": "27 July 2025 01:15 PM",
             "startDate": "25 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/119103_english_hls_89937adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131887_5477_MKP_SWC_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131887_english_hls_60043ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/208ysvxuS1ufMXloerTgmw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T07:25:24.911504"
+            "Processing_Time": "2025-07-27T07:30:40.227017"
         }
     ],
     "status": "active"
