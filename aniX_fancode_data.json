@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:57:26 AM 27-07-2025",
-    "total_matches": 13,
-    "live_matches": 6,
+    "last_updated": "07:00:44 AM 27-07-2025",
+    "total_matches": 12,
+    "live_matches": 5,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Utkal Cricket Club Vs Kl Gladiators",
-            "tournament": "Malaysia T10 Bash, 2025",
-            "short_name": "Malaysia T10 Bash",
-            "match_id": 131886,
-            "status": "STARTED",
-            "startTime": "27 July 2025 10:50 AM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131886_5477_UTC_KLG_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131886_english_hls_89929ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/578esKU8RsWuxKoJ9FzyTQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113269"
-        },
         {
             "category": "Cricket",
             "title": "Hungary Vs Luxembourg",
@@ -40,7 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ZxZLI_nbRQie4VFMGzzBOw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113280"
+            "Processing_Time": "2025-07-27T07:00:44.841081"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kenya Vs Nigeria",
+            "tournament": "Pearl of Africa T20, 2025",
+            "short_name": "Pearl of Africa T20",
+            "match_id": 130774,
+            "status": "STARTED",
+            "startTime": "27 July 2025 12:00 PM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-sporty.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130774_english_hls_92474ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/w1J3YzgfSqq6BiINm95NzA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T07:00:44.841092"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113284"
+            "Processing_Time": "2025-07-27T07:00:44.841097"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113288"
+            "Processing_Time": "2025-07-27T07:00:44.841102"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113292"
+            "Processing_Time": "2025-07-27T07:00:44.841106"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113296"
+            "Processing_Time": "2025-07-27T07:00:44.841113"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113302"
+            "Processing_Time": "2025-07-27T07:00:44.841118"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113306"
+            "Processing_Time": "2025-07-27T07:00:44.841122"
         },
         {
             "category": "Football",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113309"
-        },
-        {
-            "category": "Cricket",
-            "title": "Kenya Vs Nigeria",
-            "tournament": "Pearl of Africa T20, 2025",
-            "short_name": "Pearl of Africa T20",
-            "match_id": 130774,
-            "status": "STARTED",
-            "startTime": "27 July 2025 12:00 PM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130774_english_hls_92474ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/w1J3YzgfSqq6BiINm95NzA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113313"
+            "Processing_Time": "2025-07-27T07:00:44.841126"
         },
         {
             "category": "Cricket",
@@ -193,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/cw8eJ0KpQzmLmMOBvvOtsw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113317"
+            "Processing_Time": "2025-07-27T07:00:44.841131"
         },
         {
             "category": "Cricket",
@@ -210,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/X8lG0kZnTaStF11XO9aBpw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113320"
+            "Processing_Time": "2025-07-27T07:00:44.841136"
         },
         {
             "category": "Motorsports",
@@ -227,7 +210,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T06:57:26.113324"
+            "Processing_Time": "2025-07-27T07:00:44.841140"
         }
     ],
     "status": "active"
