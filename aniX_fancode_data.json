@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "05:30:37 AM 27-07-2025",
-    "total_matches": 9,
-    "live_matches": 2,
+    "last_updated": "05:34:11 AM 27-07-2025",
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/RmY4IP1FTHW4ieVbB2ujyQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283117"
+            "Processing_Time": "2025-07-27T05:34:11.405900"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/578esKU8RsWuxKoJ9FzyTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283126"
+            "Processing_Time": "2025-07-27T05:34:11.405911"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283131"
+            "Processing_Time": "2025-07-27T05:34:11.405916"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283135"
+            "Processing_Time": "2025-07-27T05:34:11.405920"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283139"
+            "Processing_Time": "2025-07-27T05:34:11.405924"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283143"
+            "Processing_Time": "2025-07-27T05:34:11.405927"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283147"
+            "Processing_Time": "2025-07-27T05:34:11.405931"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283151"
+            "Processing_Time": "2025-07-27T05:34:11.405935"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:30:37.283155"
+            "Processing_Time": "2025-07-27T05:34:11.405939"
+        },
+        {
+            "category": "Cricket",
+            "title": "Guwahati Giants Vs Navarang Club",
+            "tournament": "Guwahati Sixes, 2025",
+            "short_name": "Gauhati Town Club Sixes",
+            "match_id": 132381,
+            "status": "STARTED",
+            "startTime": "27 July 2025 11:15 AM",
+            "startDate": "27 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132381_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132381_english_hls_27616ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/lVbk1f-XSZu4ykmOKUuXfQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T05:34:11.405943"
         }
     ],
     "status": "active"
