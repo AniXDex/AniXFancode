@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "05:35:26 AM 27-07-2025",
-    "total_matches": 10,
-    "live_matches": 3,
+    "last_updated": "05:40:27 AM 27-07-2025",
+    "total_matches": 9,
+    "live_matches": 2,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Gauhati Town Club Vs 91 Yards Club",
-            "tournament": "Guwahati Sixes, 2025",
-            "short_name": "Gauhati Town Club Sixes",
-            "match_id": 132380,
-            "status": "STARTED",
-            "startTime": "27 July 2025 10:00 AM",
-            "startDate": "27 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132380_CASACARDS_SPORTY_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132380_english_hls_82833ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/RmY4IP1FTHW4ieVbB2ujyQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566164"
-        },
         {
             "category": "Cricket",
             "title": "Utkal Cricket Club Vs Kl Gladiators",
@@ -40,7 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/578esKU8RsWuxKoJ9FzyTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566172"
+            "Processing_Time": "2025-07-27T05:40:27.686729"
+        },
+        {
+            "category": "Cricket",
+            "title": "Guwahati Giants Vs Navarang Club",
+            "tournament": "Guwahati Sixes, 2025",
+            "short_name": "Gauhati Town Club Sixes",
+            "match_id": 132381,
+            "status": "STARTED",
+            "startTime": "27 July 2025 11:15 AM",
+            "startDate": "27 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132381_CASACARDS_SPORTY_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132381_english_hls_27616ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/lVbk1f-XSZu4ykmOKUuXfQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T05:40:27.686740"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566177"
+            "Processing_Time": "2025-07-27T05:40:27.686744"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566181"
+            "Processing_Time": "2025-07-27T05:40:27.686748"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566185"
+            "Processing_Time": "2025-07-27T05:40:27.686751"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566188"
+            "Processing_Time": "2025-07-27T05:40:27.686754"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566192"
+            "Processing_Time": "2025-07-27T05:40:27.686758"
         },
         {
             "category": "Football",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566195"
+            "Processing_Time": "2025-07-27T05:40:27.686761"
         },
         {
             "category": "Cricket",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566199"
-        },
-        {
-            "category": "Cricket",
-            "title": "Guwahati Giants Vs Navarang Club",
-            "tournament": "Guwahati Sixes, 2025",
-            "short_name": "Gauhati Town Club Sixes",
-            "match_id": 132381,
-            "status": "STARTED",
-            "startTime": "27 July 2025 11:15 AM",
-            "startDate": "27 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132381_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132381_english_hls_27616ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/lVbk1f-XSZu4ykmOKUuXfQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T05:35:26.566202"
+            "Processing_Time": "2025-07-27T05:40:27.686765"
         }
     ],
     "status": "active"
