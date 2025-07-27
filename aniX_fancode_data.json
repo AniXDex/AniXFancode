@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:45:24 AM 27-07-2025",
-    "total_matches": 9,
-    "live_matches": 1,
+    "last_updated": "12:50:28 AM 27-07-2025",
+    "total_matches": 11,
+    "live_matches": 3,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/JYlrrJHVTZyrOCzhq-S1Iw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379519"
+            "Processing_Time": "2025-07-27T00:50:28.311190"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379527"
+            "Processing_Time": "2025-07-27T00:50:28.311206"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379532"
+            "Processing_Time": "2025-07-27T00:50:28.311213"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379535"
+            "Processing_Time": "2025-07-27T00:50:28.311219"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379539"
+            "Processing_Time": "2025-07-27T00:50:28.311226"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379542"
+            "Processing_Time": "2025-07-27T00:50:28.311232"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379546"
+            "Processing_Time": "2025-07-27T00:50:28.311239"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379549"
+            "Processing_Time": "2025-07-27T00:50:28.311245"
         },
         {
             "category": "Motorsports",
@@ -159,7 +159,41 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T00:45:24.379553"
+            "Processing_Time": "2025-07-27T00:50:28.311251"
+        },
+        {
+            "category": "Cricket",
+            "title": "Fatemi Resources Cricket Club Vs Maxx Cricket Club",
+            "tournament": "Malaysia T10 Bash, 2025",
+            "short_name": "Malaysia T10 Bash",
+            "match_id": 131884,
+            "status": "STARTED",
+            "startTime": "27 July 2025 06:30 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131884_5477_FRC_MXC_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131884_english_hls_99130ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/GcYvmDfDSaqdjYThqeTM0A/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T00:50:28.311258"
+        },
+        {
+            "category": "Baseball",
+            "title": "San Francisco Giants Vs New York Mets",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130279,
+            "status": "STARTED",
+            "startTime": "27 July 2025 06:35 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/130279_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130279_english_hls_62433ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T00:50:28.311264"
         }
     ],
     "status": "active"
