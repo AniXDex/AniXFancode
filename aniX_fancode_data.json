@@ -3,79 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:05:25 PM 27-07-2025",
+    "last_updated": "12:10:30 PM 27-07-2025",
     "total_matches": 21,
     "live_matches": 16,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "South Africa Champions Vs Australia Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129729,
-            "status": "STARTED",
-            "startTime": "27 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129729_english_hls_47681ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/5M42EtPVSQKoHX_YI0ZjoQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738747"
-        },
-        {
-            "category": "Cricket",
-            "title": "South Africa Champions Vs Australia Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129729,
-            "status": "STARTED",
-            "startTime": "27 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129729_hindi_hls_45087ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/9qCtg65qSH69wWcRPIFybw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738756"
-        },
-        {
-            "category": "Football",
-            "title": "Arsenal Vs Newcastle United",
-            "tournament": "Club Friendlies 2025",
-            "short_name": "Club Friendlies",
-            "match_id": 129905,
-            "status": "STARTED",
-            "startTime": "27 July 2025 05:00 PM",
-            "startDate": "12 July 2025 05:30 AM",
-            "endDate": "10 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Newcastle-United_Sporty_1753428071783.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129905_english_hls_81722ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2NEfZEFiTHKb04ijN2ERkQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738760"
-        },
-        {
-            "category": "Cricket",
-            "title": "The Blaze Vs Warwickshire Women",
-            "tournament": "Women's Vitality Blast T20, 2025",
-            "short_name": "Women's Vitality Blast T20",
-            "match_id": 125883,
-            "status": "STARTED",
-            "startTime": "27 July 2025 05:00 PM",
-            "startDate": "30 May 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Blaze_vs_Warwickshire_Womens-Vitality-Blast-Sporty-match-cad-.jpg",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738764"
-        },
         {
             "category": "Formula 1",
             "title": "Race",
@@ -91,7 +23,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738768"
+            "Processing_Time": "2025-07-27T12:10:30.814530"
         },
         {
             "category": "Formula 1",
@@ -108,7 +40,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738771"
+            "Processing_Time": "2025-07-27T12:10:30.814546"
         },
         {
             "category": "Formula 1",
@@ -125,7 +57,75 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738775"
+            "Processing_Time": "2025-07-27T12:10:30.814553"
+        },
+        {
+            "category": "Cricket",
+            "title": "South Africa Champions Vs Australia Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129729,
+            "status": "STARTED",
+            "startTime": "27 July 2025 05:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129729_english_hls_47681ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/5M42EtPVSQKoHX_YI0ZjoQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T12:10:30.814559"
+        },
+        {
+            "category": "Cricket",
+            "title": "South Africa Champions Vs Australia Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129729,
+            "status": "STARTED",
+            "startTime": "27 July 2025 05:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129729_hindi_hls_45087ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/9qCtg65qSH69wWcRPIFybw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T12:10:30.814566"
+        },
+        {
+            "category": "Football",
+            "title": "Arsenal Vs Newcastle United",
+            "tournament": "Club Friendlies 2025",
+            "short_name": "Club Friendlies",
+            "match_id": 129905,
+            "status": "STARTED",
+            "startTime": "27 July 2025 05:00 PM",
+            "startDate": "12 July 2025 05:30 AM",
+            "endDate": "10 August 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Newcastle-United_Sporty_1753428071783.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129905_english_hls_81722ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/2NEfZEFiTHKb04ijN2ERkQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T12:10:30.814572"
+        },
+        {
+            "category": "Cricket",
+            "title": "The Blaze Vs Warwickshire Women",
+            "tournament": "Women's Vitality Blast T20, 2025",
+            "short_name": "Women's Vitality Blast T20",
+            "match_id": 125883,
+            "status": "STARTED",
+            "startTime": "27 July 2025 05:00 PM",
+            "startDate": "30 May 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Blaze_vs_Warwickshire_Womens-Vitality-Blast-Sporty-match-cad-.jpg",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T12:10:30.814578"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738778"
+            "Processing_Time": "2025-07-27T12:10:30.814584"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738781"
+            "Processing_Time": "2025-07-27T12:10:30.814591"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738785"
+            "Processing_Time": "2025-07-27T12:10:30.814598"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738788"
+            "Processing_Time": "2025-07-27T12:10:30.814604"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738791"
+            "Processing_Time": "2025-07-27T12:10:30.814610"
         },
         {
             "category": "Cricket",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Su7JdV98SF-Z21qLcd_JAA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738795"
+            "Processing_Time": "2025-07-27T12:10:30.814617"
         },
         {
             "category": "Cricket",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4hX55aq9RKC0qLGCvYmrKg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738798"
+            "Processing_Time": "2025-07-27T12:10:30.814624"
         },
         {
             "category": "Cricket",
@@ -261,7 +261,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/BTLelt-tQly2iDsX9tnHwA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738801"
+            "Processing_Time": "2025-07-27T12:10:30.814631"
         },
         {
             "category": "Cricket",
@@ -278,24 +278,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/jY5PcRL4QU6oHx6NhKKAOw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738805"
-        },
-        {
-            "category": "Football",
-            "title": "Urawa Red Diamonds Vs Avispa Fukuoka",
-            "tournament": "J League 2025",
-            "short_name": "J League",
-            "match_id": 126268,
-            "status": "STARTED",
-            "startTime": "27 July 2025 03:30 PM",
-            "startDate": "08 February 2025 05:30 AM",
-            "endDate": "06 December 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/126268_4795_URW_FKK_fc-web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/126268_english_hls_98402ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738808"
+            "Processing_Time": "2025-07-27T12:10:30.814637"
         },
         {
             "category": "Golf",
@@ -312,7 +295,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/1fKHYM5MSdiip2Q5CGnKvg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738811"
+            "Processing_Time": "2025-07-27T12:10:30.814644"
         },
         {
             "category": "Golf",
@@ -329,7 +312,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4MSNvuRiSvOtBjfznnKA0Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738815"
+            "Processing_Time": "2025-07-27T12:10:30.814650"
         },
         {
             "category": "Golf",
@@ -346,7 +329,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/GGN8c6CNRA-1pQ5W6rJKhg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738818"
+            "Processing_Time": "2025-07-27T12:10:30.814656"
         },
         {
             "category": "Golf",
@@ -363,7 +346,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ISVOXNBsTKKv0WLb8TIxvQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T12:05:25.738821"
+            "Processing_Time": "2025-07-27T12:10:30.814663"
+        },
+        {
+            "category": "Football",
+            "title": "Urawa Red Diamonds Vs Avispa Fukuoka",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 126268,
+            "status": "STARTED",
+            "startTime": "27 July 2025 03:30 PM",
+            "startDate": "08 February 2025 05:30 AM",
+            "endDate": "06 December 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/126268_4795_URW_FKK_fc-web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/126268_english_hls_98402ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T12:10:30.814669"
         }
     ],
     "status": "active"
