@@ -1,10 +1,10 @@
 # FanCode Live Matches API - AniXFancode
 
 
-[![Total Matches](https://img.shields.io/badge/Total%20Matches-24-blue)](https://github.com/AniketSainiOp/AniXFancode)
-[![Live Matches](https://img.shields.io/badge/Live%20Matches-18-red)](https://github.com/AniketSainiOp/AniXFancode)
+[![Total Matches](https://img.shields.io/badge/Total%20Matches-25-blue)](https://github.com/AniketSainiOp/AniXFancode)
+[![Live Matches](https://img.shields.io/badge/Live%20Matches-19-red)](https://github.com/AniketSainiOp/AniXFancode)
 [![Upcoming Matches](https://img.shields.io/badge/Upcoming%20Matches-6-green)](https://github.com/AniketSainiOp/AniXFancode)
-[![Last Update](https://img.shields.io/badge/Last%20Update-02%3A25%3A25%20PM%2027-07-2025-orange)](https://github.com/AniketSainiOp/AniXFancode)
+[![Last Update](https://img.shields.io/badge/Last%20Update-02%3A30%3A39%20PM%2027-07-2025-orange)](https://github.com/AniketSainiOp/AniXFancode)
 
 
 ## 📋 About
@@ -16,9 +16,9 @@ FanCode Live Matches API is an automated sports data fetching service that provi
 ## 📊 Current Status
 
 
-- **🔄 Last Updated**: 02:25:25 PM 27-07-2025
-- **🏆 Total Matches**: 24
-- **🔴 Live Matches**: 18
+- **🔄 Last Updated**: 02:30:39 PM 27-07-2025
+- **🏆 Total Matches**: 25
+- **🔴 Live Matches**: 19
 - **🟢 Upcoming Matches**: 6
 - **📡 Status**: Active & Running
 - **⏰ Update Frequency**: Every 5 minutes
@@ -106,4 +106,4 @@ By using this service, you acknowledge that:
 
 
 
-**Last Updated**: 02:25:25 PM 27-07-2025 • **Status**: Active • **Version**: 2.0 • **Powered by Aniket Saini**
+**Last Updated**: 02:30:39 PM 27-07-2025 • **Status**: Active • **Version**: 2.0 • **Powered by Aniket Saini**
