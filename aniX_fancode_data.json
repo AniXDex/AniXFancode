@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "03:45:26 AM 27-07-2025",
-    "total_matches": 11,
-    "live_matches": 3,
+    "last_updated": "03:50:28 AM 27-07-2025",
+    "total_matches": 10,
+    "live_matches": 2,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/JYlrrJHVTZyrOCzhq-S1Iw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279186"
+            "Processing_Time": "2025-07-27T03:50:28.678068"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279195"
+            "Processing_Time": "2025-07-27T03:50:28.678083"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279199"
+            "Processing_Time": "2025-07-27T03:50:28.678091"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279203"
+            "Processing_Time": "2025-07-27T03:50:28.678098"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279207"
+            "Processing_Time": "2025-07-27T03:50:28.678104"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279210"
+            "Processing_Time": "2025-07-27T03:50:28.678111"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279214"
+            "Processing_Time": "2025-07-27T03:50:28.678117"
         },
         {
             "category": "Cricket",
@@ -142,24 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279217"
+            "Processing_Time": "2025-07-27T03:50:28.678124"
         },
         {
-            "category": "Motorsports",
-            "title": "Porsche Mobil 1 Supercup",
-            "tournament": "Porsche Mobil 1 Super Cup",
-            "short_name": "Porsche Super Cup",
-            "match_id": 131641,
+            "category": "Cricket",
+            "title": "Speen Ghar Tigers Vs Mis E Ainak Knights",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130803,
             "status": "NOT_STARTED",
-            "startTime": "27 July 2025 03:15 PM",
-            "startDate": "16 May 2025 05:30 AM",
-            "endDate": "07 September 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_Sporty-(1).jpg",
+            "startTime": "28 July 2025 03:00 PM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130803_5425_SG_MAK_fc-App.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279220"
+            "Processing_Time": "2025-07-27T03:50:28.678130"
         },
         {
             "category": "Cricket",
@@ -176,24 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Af7H1JD7QlGwx16mNr3LWA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279224"
-        },
-        {
-            "category": "Baseball",
-            "title": "San Francisco Giants Vs New York Mets",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 130279,
-            "status": "STARTED",
-            "startTime": "27 July 2025 06:35 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/130279_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130279_english_hls_62433ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T03:45:26.279227"
+            "Processing_Time": "2025-07-27T03:50:28.678136"
         }
     ],
     "status": "active"
