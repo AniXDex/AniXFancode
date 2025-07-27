@@ -3,27 +3,44 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:10:27 AM 27-07-2025",
-    "total_matches": 10,
+    "last_updated": "04:15:26 AM 27-07-2025",
+    "total_matches": 9,
     "live_matches": 2,
-    "upcoming_matches": 8,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
-            "title": "West Indies Vs Australia",
-            "tournament": "Australia Tour of West Indies, 2025",
-            "short_name": "WI vs AUS",
-            "match_id": 127556,
+            "title": "Jb Kings Vs Mb Malik",
+            "tournament": "Malaysia T10 Bash, 2025",
+            "short_name": "Malaysia T10 Bash",
+            "match_id": 131885,
             "status": "STARTED",
-            "startTime": "27 July 2025 04:30 AM",
-            "startDate": "25 June 2025 05:30 AM",
-            "endDate": "29 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_Sporty_1753438652171.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/127556_english_hls_63883ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/JYlrrJHVTZyrOCzhq-S1Iw/master.m3u8",
+            "startTime": "27 July 2025 08:40 AM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131885_5477_JBK_MBM_fc-App.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131885_english_hls_55373ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Af7H1JD7QlGwx16mNr3LWA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881261"
+            "Processing_Time": "2025-07-27T04:15:26.018262"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gauhati Town Club Vs 91 Yards Club",
+            "tournament": "Guwahati Sixes, 2025",
+            "short_name": "Gauhati Town Club Sixes",
+            "match_id": 132380,
+            "status": "STARTED",
+            "startTime": "27 July 2025 10:00 AM",
+            "startDate": "27 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132380_CASACARDS_SPORTY_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132380_english_hls_82833ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/RmY4IP1FTHW4ieVbB2ujyQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-27T04:15:26.018279"
         },
         {
             "category": "Cricket",
@@ -40,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881277"
+            "Processing_Time": "2025-07-27T04:15:26.018287"
         },
         {
             "category": "Cricket",
@@ -57,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881286"
+            "Processing_Time": "2025-07-27T04:15:26.018295"
         },
         {
             "category": "Cricket",
@@ -74,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881292"
+            "Processing_Time": "2025-07-27T04:15:26.018302"
         },
         {
             "category": "Cricket",
@@ -91,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881298"
+            "Processing_Time": "2025-07-27T04:15:26.018309"
         },
         {
             "category": "Football",
@@ -108,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881305"
+            "Processing_Time": "2025-07-27T04:15:26.018316"
         },
         {
             "category": "Football",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881311"
+            "Processing_Time": "2025-07-27T04:15:26.018324"
         },
         {
             "category": "Cricket",
@@ -142,41 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881317"
-        },
-        {
-            "category": "Cricket",
-            "title": "Speen Ghar Tigers Vs Mis E Ainak Knights",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130803,
-            "status": "NOT_STARTED",
-            "startTime": "28 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130803_5425_SG_MAK_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881323"
-        },
-        {
-            "category": "Cricket",
-            "title": "Jb Kings Vs Mb Malik",
-            "tournament": "Malaysia T10 Bash, 2025",
-            "short_name": "Malaysia T10 Bash",
-            "match_id": 131885,
-            "status": "STARTED",
-            "startTime": "27 July 2025 08:40 AM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131885_5477_JBK_MBM_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131885_english_hls_55373ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Af7H1JD7QlGwx16mNr3LWA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-27T04:10:27.881330"
+            "Processing_Time": "2025-07-27T04:15:26.018331"
         }
     ],
     "status": "active"
