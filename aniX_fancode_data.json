@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:55:07 PM 28-07-2025",
+    "last_updated": "07:00:33 PM 28-07-2025",
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 5,
+    "live_matches": 0,
+    "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Twickenham Vs East Molesey",
-            "tournament": "ECS England, Wimbledon, 2025",
-            "short_name": "ECS England, Wimbledon",
-            "match_id": 132031,
-            "status": "STARTED",
-            "startTime": "28 July 2025 10:45 PM",
-            "startDate": "28 July 2025 05:30 AM",
-            "endDate": "08 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-Sporty-match-card.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132031_english_hls_14466ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/tB1HjZRTRFqLyOu-5T8o3A/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425375"
-        },
         {
             "category": "Cricket",
             "title": "West Indies Vs Australia",
@@ -40,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425389"
+            "Processing_Time": "2025-07-28T19:00:33.042328"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425400"
+            "Processing_Time": "2025-07-28T19:00:33.042343"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425410"
+            "Processing_Time": "2025-07-28T19:00:33.042353"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425421"
+            "Processing_Time": "2025-07-28T19:00:33.042365"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425432"
+            "Processing_Time": "2025-07-28T19:00:33.042377"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425443"
+            "Processing_Time": "2025-07-28T19:00:33.042387"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425454"
+            "Processing_Time": "2025-07-28T19:00:33.042399"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T18:55:07.425464"
+            "Processing_Time": "2025-07-28T19:00:33.042410"
+        },
+        {
+            "category": "Cricket",
+            "title": "Band E Amir Dragons Vs Amo Sharks",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130807,
+            "status": "NOT_STARTED",
+            "startTime": "30 July 2025 10:00 AM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130807_5425_BD_AM_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-28T19:00:33.042420"
         }
     ],
     "status": "active"
