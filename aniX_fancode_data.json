@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:35:06 PM 28-07-2025",
+    "last_updated": "01:40:16 PM 28-07-2025",
     "total_matches": 10,
-    "live_matches": 3,
+    "live_matches": 2,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,24 +23,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129203"
-        },
-        {
-            "category": "Cricket",
-            "title": "Speen Ghar Tigers Vs Mis E Ainak Knights",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130803,
-            "status": "STARTED",
-            "startTime": "28 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130803_5425_SG_MAK_fc-App.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130803_english_hls_21440ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/fwVaiOndSO-t3d-bvVHyPQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129221"
+            "Processing_Time": "2025-07-28T13:40:16.770064"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129233"
+            "Processing_Time": "2025-07-28T13:40:16.770079"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129243"
+            "Processing_Time": "2025-07-28T13:40:16.770088"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129253"
+            "Processing_Time": "2025-07-28T13:40:16.770096"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129277"
+            "Processing_Time": "2025-07-28T13:40:16.770104"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129287"
+            "Processing_Time": "2025-07-28T13:40:16.770113"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129297"
+            "Processing_Time": "2025-07-28T13:40:16.770121"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129307"
+            "Processing_Time": "2025-07-28T13:40:16.770129"
+        },
+        {
+            "category": "Cricket",
+            "title": "Surrey Women Vs Warwickshire Women",
+            "tournament": "Women's Vitality Blast T20, 2025",
+            "short_name": "Women's Vitality Blast T20",
+            "match_id": 125884,
+            "status": "COMPLETED",
+            "startTime": "27 July 2025 09:00 PM",
+            "startDate": "30 May 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Surrey_vs_Warwickshire_Womens-Vitality-Blast-Sporty-match-cad-.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-28T13:40:16.770137"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/iy5it9clTayN4BtXA2fTUg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-28T13:35:06.129316"
+            "Processing_Time": "2025-07-28T13:40:16.770145"
         }
     ],
     "status": "active"
