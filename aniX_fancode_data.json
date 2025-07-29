@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "02:45:09 PM 29-07-2025",
+    "last_updated": "02:50:14 PM 29-07-2025",
     "total_matches": 10,
-    "live_matches": 1,
-    "upcoming_matches": 5,
+    "live_matches": 2,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -14,16 +14,16 @@
             "tournament": "World Championship of Legends, 2025",
             "short_name": "WCL",
             "match_id": 129732,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "29 July 2025 09:00 PM",
             "startDate": "18 July 2025 05:30 AM",
             "endDate": "02 August 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/129732_5370_IAC_WIC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129732_english_hls_65834ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ffgZeUvbTpudU2K2zuioLQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771064"
+            "Processing_Time": "2025-07-29T14:50:14.232690"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771101"
+            "Processing_Time": "2025-07-29T14:50:14.232713"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771113"
+            "Processing_Time": "2025-07-29T14:50:14.232724"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771121"
+            "Processing_Time": "2025-07-29T14:50:14.232734"
         },
         {
             "category": "Football",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771132"
+            "Processing_Time": "2025-07-29T14:50:14.232743"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771141"
+            "Processing_Time": "2025-07-29T14:50:14.232754"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771148"
+            "Processing_Time": "2025-07-29T14:50:14.232768"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771156"
+            "Processing_Time": "2025-07-29T14:50:14.232778"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771164"
+            "Processing_Time": "2025-07-29T14:50:14.232789"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/EuLEX6WcRjO03UJanyDWhQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T14:45:09.771175"
+            "Processing_Time": "2025-07-29T14:50:14.232800"
         }
     ],
     "status": "active"
