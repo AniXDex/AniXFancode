@@ -3,7 +3,7 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:25:07 AM 29-07-2025",
+    "last_updated": "11:30:17 AM 29-07-2025",
     "total_matches": 11,
     "live_matches": 4,
     "upcoming_matches": 5,
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/cVKBW53FSfuwU_AzJvUb5w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003337"
+            "Processing_Time": "2025-07-29T11:30:17.675273"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/x7zNTqsLSHewQhvRrGoFuw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003356"
+            "Processing_Time": "2025-07-29T11:30:17.675297"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003480"
+            "Processing_Time": "2025-07-29T11:30:17.675307"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003494"
+            "Processing_Time": "2025-07-29T11:30:17.675316"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003506"
+            "Processing_Time": "2025-07-29T11:30:17.675340"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003517"
+            "Processing_Time": "2025-07-29T11:30:17.675352"
         },
         {
             "category": "Football",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003529"
+            "Processing_Time": "2025-07-29T11:30:17.675366"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003541"
+            "Processing_Time": "2025-07-29T11:30:17.675377"
         },
         {
             "category": "Cricket",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003551"
-        },
-        {
-            "category": "Cricket",
-            "title": "City Cricket Club Vs Gauhati Town Club",
-            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "short_name": "GTC Spring T20 Cup",
-            "match_id": 132390,
-            "status": "STARTED",
-            "startTime": "29 July 2025 01:15 PM",
-            "startDate": "28 July 2025 05:30 AM",
-            "endDate": "13 August 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132390_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132390_english_hls_65962ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/k-YdhKdtRc22cgO2d-zSGA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003561"
+            "Processing_Time": "2025-07-29T11:30:17.675388"
         },
         {
             "category": "Cricket",
@@ -193,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/C1XDk9ezTZycoorcMm0njQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T11:25:07.003571"
+            "Processing_Time": "2025-07-29T11:30:17.675397"
+        },
+        {
+            "category": "Cricket",
+            "title": "City Cricket Club Vs Gauhati Town Club",
+            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "short_name": "GTC Spring T20 Cup",
+            "match_id": 132390,
+            "status": "STARTED",
+            "startTime": "29 July 2025 01:15 PM",
+            "startDate": "28 July 2025 05:30 AM",
+            "endDate": "13 August 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132390_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132390_english_hls_65962ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/k-YdhKdtRc22cgO2d-zSGA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-29T11:30:17.675407"
         }
     ],
     "status": "active"
