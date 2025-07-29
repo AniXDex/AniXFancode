@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:25:07 PM 29-07-2025",
+    "last_updated": "01:30:18 PM 29-07-2025",
     "total_matches": 10,
-    "live_matches": 3,
+    "live_matches": 2,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,24 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/cVKBW53FSfuwU_AzJvUb5w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080792"
-        },
-        {
-            "category": "Cricket",
-            "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130806,
-            "status": "STARTED",
-            "startTime": "29 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130806_5425_BD_MAK_fc-App.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/130806_english_hls_67606ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/x7zNTqsLSHewQhvRrGoFuw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080811"
+            "Processing_Time": "2025-07-29T13:30:18.981898"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080823"
+            "Processing_Time": "2025-07-29T13:30:18.981918"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080836"
+            "Processing_Time": "2025-07-29T13:30:18.981932"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080847"
+            "Processing_Time": "2025-07-29T13:30:18.981943"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080858"
+            "Processing_Time": "2025-07-29T13:30:18.981953"
         },
         {
             "category": "Football",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080870"
+            "Processing_Time": "2025-07-29T13:30:18.981963"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080880"
+            "Processing_Time": "2025-07-29T13:30:18.981973"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080890"
+            "Processing_Time": "2025-07-29T13:30:18.981983"
+        },
+        {
+            "category": "Cricket",
+            "title": "Amo Sharks Vs Boost Defenders",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130802,
+            "status": "COMPLETED",
+            "startTime": "29 July 2025 10:00 AM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130802_5425_AM_BOS_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-29T13:30:18.981993"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/tpFJ7zxdSZm6ojjzO_6BJw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T13:25:07.080904"
+            "Processing_Time": "2025-07-29T13:30:18.982003"
         }
     ],
     "status": "active"
