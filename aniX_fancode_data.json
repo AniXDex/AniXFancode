@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:15:10 AM 29-07-2025",
+    "last_updated": "04:20:17 AM 29-07-2025",
     "total_matches": 11,
-    "live_matches": 2,
-    "upcoming_matches": 7,
+    "live_matches": 3,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -14,16 +14,16 @@
             "tournament": "Shpageeza Cricket League, 2025",
             "short_name": "Shpageeza Cricket League",
             "match_id": 130802,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "29 July 2025 10:00 AM",
             "startDate": "19 July 2025 05:30 AM",
             "endDate": "01 August 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/130802_5425_AM_BOS_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/130802_english_hls_66663ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/CtheO-TgTb6-ysEKp04mkw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185052"
+            "Processing_Time": "2025-07-29T04:20:17.319815"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185070"
+            "Processing_Time": "2025-07-29T04:20:17.319835"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185081"
+            "Processing_Time": "2025-07-29T04:20:17.319845"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185091"
+            "Processing_Time": "2025-07-29T04:20:17.319854"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185101"
+            "Processing_Time": "2025-07-29T04:20:17.319864"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185111"
+            "Processing_Time": "2025-07-29T04:20:17.319874"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185125"
+            "Processing_Time": "2025-07-29T04:20:17.319883"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185135"
+            "Processing_Time": "2025-07-29T04:20:17.319915"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185145"
+            "Processing_Time": "2025-07-29T04:20:17.319925"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/5pGjEHYLQOCiYBKykO3YZA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185155"
+            "Processing_Time": "2025-07-29T04:20:17.319936"
         },
         {
             "category": "Baseball",
@@ -193,7 +193,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T04:15:10.185165"
+            "Processing_Time": "2025-07-29T04:20:17.319946"
         }
     ],
     "status": "active"
