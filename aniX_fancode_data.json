@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:55:07 PM 29-07-2025",
+    "last_updated": "08:00:23 PM 29-07-2025",
     "total_matches": 9,
-    "live_matches": 2,
+    "live_matches": 1,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -23,24 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/g0m7rqBoRwGYnOryIGdwJQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073171"
-        },
-        {
-            "category": "Baseball",
-            "title": "Baltimore Orioles Vs Toronto Blue Jays",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 130283,
-            "status": "STARTED",
-            "startTime": "29 July 2025 10:05 PM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v2/130283_CASACARDS_SPORTY_APP.png",
-            "adfree_stream": "https://in-mc-plive.fancode.com/mumbai/130283_english_hls_88401ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073184"
+            "Processing_Time": "2025-07-29T20:00:23.945986"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073191"
+            "Processing_Time": "2025-07-29T20:00:23.946010"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073196"
+            "Processing_Time": "2025-07-29T20:00:23.946020"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073202"
+            "Processing_Time": "2025-07-29T20:00:23.946031"
         },
         {
             "category": "Football",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073207"
+            "Processing_Time": "2025-07-29T20:00:23.946041"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073213"
+            "Processing_Time": "2025-07-29T20:00:23.946052"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073218"
+            "Processing_Time": "2025-07-29T20:00:23.946062"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T19:55:07.073224"
+            "Processing_Time": "2025-07-29T20:00:23.946073"
+        },
+        {
+            "category": "Cricket",
+            "title": "Australia Champions Vs Pakistan Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129731,
+            "status": "COMPLETED",
+            "startTime": "29 July 2025 05:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129731_5370_AAC_PNC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-29T20:00:23.946083"
         }
     ],
     "status": "active"
