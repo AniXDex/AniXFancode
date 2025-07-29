@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:15:09 AM 29-07-2025",
+    "last_updated": "01:20:15 AM 29-07-2025",
     "total_matches": 9,
     "live_matches": 1,
-    "upcoming_matches": 5,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3iRz-jV5TSefAQTQkRCfEQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455335"
+            "Processing_Time": "2025-07-29T01:20:15.183004"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455356"
+            "Processing_Time": "2025-07-29T01:20:15.183023"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455367"
+            "Processing_Time": "2025-07-29T01:20:15.183033"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455379"
+            "Processing_Time": "2025-07-29T01:20:15.183043"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455389"
+            "Processing_Time": "2025-07-29T01:20:15.183066"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455399"
+            "Processing_Time": "2025-07-29T01:20:15.183076"
+        },
+        {
+            "category": "Cricket",
+            "title": "Zimbabwe Vs New Zealand",
+            "tournament": "New Zealand tour of Zimbabwe, 2025",
+            "short_name": "ZIM vs NZ",
+            "match_id": 128760,
+            "status": "NOT_STARTED",
+            "startTime": "30 July 2025 01:30 PM",
+            "startDate": "30 July 2025 05:30 AM",
+            "endDate": "11 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)Sporty-match-card-.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-29T01:20:15.183291"
         },
         {
             "category": "Cricket",
@@ -125,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455409"
+            "Processing_Time": "2025-07-29T01:20:15.183312"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455420"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs Zimbabwe Women",
-            "tournament": "Zimbabwe Women tour of Ireland, 2025",
-            "short_name": "IRE-w vs ZIM-w",
-            "match_id": 128766,
-            "status": "COMPLETED",
-            "startTime": "28 July 2025 03:15 PM",
-            "startDate": "20 July 2025 05:30 AM",
-            "endDate": "28 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T01:15:09.455430"
+            "Processing_Time": "2025-07-29T01:20:15.183347"
         }
     ],
     "status": "active"
