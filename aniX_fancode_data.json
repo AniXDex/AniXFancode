@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "08:15:09 AM 29-07-2025",
-    "total_matches": 10,
+    "last_updated": "08:20:13 AM 29-07-2025",
+    "total_matches": 11,
     "live_matches": 2,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Live events",
-            "title": "Maharani Trophy Ksca T20 Auction",
-            "tournament": "Maharani Trophy KSCA T20 Auction",
-            "short_name": "Maharani Trophy KSCA T20 Auction",
-            "match_id": 132721,
-            "status": "STARTED",
-            "startTime": "29 July 2025 10:00 AM",
-            "startDate": "29 July 2025 05:30 AM",
-            "endDate": "29 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy-KSCA-T20-Auction_Sporty_match-card_02.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132721_english_hls_3219ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/HHFnuxWqSxG0SG7QDInNWA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962024"
-        },
         {
             "category": "Cricket",
             "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
@@ -40,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962042"
+            "Processing_Time": "2025-07-29T08:20:13.675769"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962056"
+            "Processing_Time": "2025-07-29T08:20:13.675789"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962066"
+            "Processing_Time": "2025-07-29T08:20:13.675800"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962076"
+            "Processing_Time": "2025-07-29T08:20:13.675811"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962087"
+            "Processing_Time": "2025-07-29T08:20:13.675822"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962097"
+            "Processing_Time": "2025-07-29T08:20:13.675835"
         },
         {
             "category": "Football",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962113"
+            "Processing_Time": "2025-07-29T08:20:13.675845"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962123"
+            "Processing_Time": "2025-07-29T08:20:13.675951"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Women Vs Zimbabwe Women",
+            "tournament": "Zimbabwe Women tour of Ireland, 2025",
+            "short_name": "IRE-w vs ZIM-w",
+            "match_id": 128766,
+            "status": "COMPLETED",
+            "startTime": "28 July 2025 03:15 PM",
+            "startDate": "20 July 2025 05:30 AM",
+            "endDate": "28 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-sporty-match-card.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-29T08:20:13.675962"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/k-YdhKdtRc22cgO2d-zSGA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T08:15:09.962133"
+            "Processing_Time": "2025-07-29T08:20:13.675972"
+        },
+        {
+            "category": "Live events",
+            "title": "Maharani Trophy Ksca T20 Auction",
+            "tournament": "Maharani Trophy KSCA T20 Auction",
+            "short_name": "Maharani Trophy KSCA T20 Auction",
+            "match_id": 132721,
+            "status": "STARTED",
+            "startTime": "29 July 2025 10:00 AM",
+            "startDate": "29 July 2025 05:30 AM",
+            "endDate": "29 July 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy-KSCA-T20-Auction_Old_match-card.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132721_english_hls_3219ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HHFnuxWqSxG0SG7QDInNWA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-29T08:20:13.675981"
         }
     ],
     "status": "active"
