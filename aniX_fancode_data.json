@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "03:05:06 AM 29-07-2025",
+    "last_updated": "03:10:15 AM 29-07-2025",
     "total_matches": 10,
-    "live_matches": 2,
+    "live_matches": 1,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -14,16 +14,16 @@
             "tournament": "Australia Tour of West Indies, 2025",
             "short_name": "WI vs AUS",
             "match_id": 127557,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "29 July 2025 04:30 AM",
             "startDate": "25 June 2025 05:30 AM",
             "endDate": "29 July 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_Sporty_1753438652171.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/127557_english_hls_64956ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3iRz-jV5TSefAQTQkRCfEQ/master.m3u8",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041900"
+            "Processing_Time": "2025-07-29T03:10:15.498036"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041916"
+            "Processing_Time": "2025-07-29T03:10:15.498054"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041927"
+            "Processing_Time": "2025-07-29T03:10:15.498064"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041938"
+            "Processing_Time": "2025-07-29T03:10:15.498074"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041947"
+            "Processing_Time": "2025-07-29T03:10:15.498083"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041957"
+            "Processing_Time": "2025-07-29T03:10:15.498094"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041967"
+            "Processing_Time": "2025-07-29T03:10:15.498108"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041976"
+            "Processing_Time": "2025-07-29T03:10:15.498118"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041989"
+            "Processing_Time": "2025-07-29T03:10:15.498128"
         },
         {
             "category": "Baseball",
@@ -176,7 +176,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T03:05:06.041999"
+            "Processing_Time": "2025-07-29T03:10:15.498140"
         }
     ],
     "status": "active"
