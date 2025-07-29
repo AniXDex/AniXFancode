@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:45:10 AM 29-07-2025",
+    "last_updated": "07:50:16 AM 29-07-2025",
     "total_matches": 10,
-    "live_matches": 3,
+    "live_matches": 2,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Amo Sharks Vs Boost Defenders",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130802,
-            "status": "STARTED",
-            "startTime": "29 July 2025 10:00 AM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130802_5425_AM_BOS_fc-App.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/130802_english_hls_66663ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/CtheO-TgTb6-ysEKp04mkw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.303970"
-        },
         {
             "category": "Live events",
             "title": "Maharani Trophy Ksca T20 Auction",
@@ -40,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/HHFnuxWqSxG0SG7QDInNWA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.303990"
+            "Processing_Time": "2025-07-29T07:50:16.025881"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.304008"
+            "Processing_Time": "2025-07-29T07:50:16.025900"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.304018"
+            "Processing_Time": "2025-07-29T07:50:16.025913"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.304028"
+            "Processing_Time": "2025-07-29T07:50:16.025923"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.304039"
+            "Processing_Time": "2025-07-29T07:50:16.025936"
         },
         {
             "category": "Cricket",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.304052"
+            "Processing_Time": "2025-07-29T07:50:16.025947"
         },
         {
             "category": "Cricket",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.304062"
+            "Processing_Time": "2025-07-29T07:50:16.025956"
         },
         {
             "category": "Football",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.304074"
+            "Processing_Time": "2025-07-29T07:50:16.025971"
+        },
+        {
+            "category": "Cricket",
+            "title": "Speen Ghar Tigers Vs Mis E Ainak Knights",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130803,
+            "status": "COMPLETED",
+            "startTime": "28 July 2025 03:00 PM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130803_5425_SG_MAK_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-29T07:50:16.025980"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/k-YdhKdtRc22cgO2d-zSGA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T07:45:10.304084"
+            "Processing_Time": "2025-07-29T07:50:16.025990"
         }
     ],
     "status": "active"
