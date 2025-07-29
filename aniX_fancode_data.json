@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:35:06 PM 29-07-2025",
-    "total_matches": 11,
-    "live_matches": 3,
+    "last_updated": "06:40:15 PM 29-07-2025",
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ffgZeUvbTpudU2K2zuioLQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126800"
+            "Processing_Time": "2025-07-29T18:40:15.944598"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126817"
+            "Processing_Time": "2025-07-29T18:40:15.944629"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126829"
+            "Processing_Time": "2025-07-29T18:40:15.944640"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126839"
+            "Processing_Time": "2025-07-29T18:40:15.944650"
         },
         {
             "category": "Football",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126850"
+            "Processing_Time": "2025-07-29T18:40:15.944661"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126860"
+            "Processing_Time": "2025-07-29T18:40:15.944671"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126871"
+            "Processing_Time": "2025-07-29T18:40:15.944680"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126882"
+            "Processing_Time": "2025-07-29T18:40:15.944691"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126892"
+            "Processing_Time": "2025-07-29T18:40:15.944700"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/FK0quqfiTE2HmcD0vGTyRA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126902"
+            "Processing_Time": "2025-07-29T18:40:15.944711"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gujrat Cc Vs Khan Zalmi Kings",
+            "tournament": "KCC T10 Summer League, 2025",
+            "short_name": "KCC T10 Summer League",
+            "match_id": 132132,
+            "status": "STARTED",
+            "startTime": "30 July 2025 12:15 AM",
+            "startDate": "29 July 2025 05:30 AM",
+            "endDate": "29 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132132_english_hls_39637ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/g0m7rqBoRwGYnOryIGdwJQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-29T18:40:15.944721"
         },
         {
             "category": "Baseball",
@@ -193,7 +210,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-29T18:35:06.126913"
+            "Processing_Time": "2025-07-29T18:40:15.944731"
         }
     ],
     "status": "active"
