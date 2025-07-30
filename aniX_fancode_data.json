@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:05:05 AM 30-07-2025",
-    "total_matches": 10,
-    "live_matches": 2,
-    "upcoming_matches": 5,
+    "last_updated": "07:10:10 AM 30-07-2025",
+    "total_matches": 9,
+    "live_matches": 1,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/l5oD9uFfRke6Jjh3SdSr2w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826492"
+            "Processing_Time": "2025-07-30T07:10:10.997625"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826511"
+            "Processing_Time": "2025-07-30T07:10:10.997643"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826522"
+            "Processing_Time": "2025-07-30T07:10:10.997653"
         },
         {
             "category": "Football",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826533"
+            "Processing_Time": "2025-07-30T07:10:10.997663"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826544"
+            "Processing_Time": "2025-07-30T07:10:10.997673"
         },
         {
             "category": "Cricket",
@@ -108,24 +108,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826555"
+            "Processing_Time": "2025-07-30T07:10:10.997684"
         },
         {
-            "category": "Cricket",
-            "title": "Amo Sharks Vs Boost Defenders",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130802,
-            "status": "COMPLETED",
-            "startTime": "29 July 2025 10:00 AM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130802_5425_AM_BOS_fc-App.jpg",
+            "category": "Football",
+            "title": "Seoul Vs Barcelona",
+            "tournament": "Club Friendlies 2025",
+            "short_name": "Club Friendlies",
+            "match_id": 129908,
+            "status": "NOT_STARTED",
+            "startTime": "31 July 2025 04:30 PM",
+            "startDate": "12 July 2025 05:30 AM",
+            "endDate": "10 August 2025 11:30 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826565"
+            "Processing_Time": "2025-07-30T07:10:10.997695"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826576"
+            "Processing_Time": "2025-07-30T07:10:10.997706"
         },
         {
             "category": "Cricket",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826588"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bud Cricket Club Vs 91 Yards Club",
-            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "short_name": "GTC Spring T20 Cup",
-            "match_id": 132391,
-            "status": "STARTED",
-            "startTime": "30 July 2025 09:00 AM",
-            "startDate": "28 July 2025 05:30 AM",
-            "endDate": "13 August 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132391_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132391_english_hls_40463ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/BESixlHOSTui-jTIGLsjdA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:05:05.826599"
+            "Processing_Time": "2025-07-30T07:10:10.997717"
         }
     ],
     "status": "active"
