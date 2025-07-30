@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:35:05 AM 30-07-2025",
-    "total_matches": 9,
-    "live_matches": 1,
+    "last_updated": "07:40:10 AM 30-07-2025",
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -14,16 +14,16 @@
             "tournament": "New Zealand tour of Zimbabwe, 2025",
             "short_name": "ZIM vs NZ",
             "match_id": 128760,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "30 July 2025 01:30 PM",
             "startDate": "30 July 2025 05:30 AM",
             "endDate": "11 August 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)Sporty-match-card-.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/128760_english_hls_67071ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/3_N5M2CJTpy72whMWV3Y1A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737028"
+            "Processing_Time": "2025-07-30T07:40:10.669985"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/l5oD9uFfRke6Jjh3SdSr2w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737047"
+            "Processing_Time": "2025-07-30T07:40:10.669997"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737058"
+            "Processing_Time": "2025-07-30T07:40:10.670003"
         },
         {
             "category": "Football",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737069"
+            "Processing_Time": "2025-07-30T07:40:10.670009"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737079"
+            "Processing_Time": "2025-07-30T07:40:10.670015"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737090"
+            "Processing_Time": "2025-07-30T07:40:10.670021"
         },
         {
             "category": "Football",
@@ -125,7 +125,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737101"
+            "Processing_Time": "2025-07-30T07:40:10.670029"
+        },
+        {
+            "category": "Football",
+            "title": "Arsenal Vs Tottenham Hotspur",
+            "tournament": "Club Friendlies 2025",
+            "short_name": "Club Friendlies",
+            "match_id": 129903,
+            "status": "NOT_STARTED",
+            "startTime": "31 July 2025 05:00 PM",
+            "startDate": "12 July 2025 05:30 AM",
+            "endDate": "10 August 2025 11:30 PM",
+            "image": "https://images.fancode.com/aig/match/v1/129903_CASACARDS_SPORTY_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T07:40:10.670035"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737111"
+            "Processing_Time": "2025-07-30T07:40:10.670041"
         },
         {
             "category": "Cricket",
-            "title": "Australia Champions Vs Pakistan Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129731,
-            "status": "COMPLETED",
-            "startTime": "29 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129731_5370_AAC_PNC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "title": "Nabajyoti Club Vs Guwahati Giants",
+            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "short_name": "GTC Spring T20 Cup",
+            "match_id": 132392,
+            "status": "STARTED",
+            "startTime": "30 July 2025 01:15 PM",
+            "startDate": "28 July 2025 05:30 AM",
+            "endDate": "13 August 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132392_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132392_english_hls_90807ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/A7kSUyNCSECEYMIwtURQsQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T07:35:05.737122"
+            "Processing_Time": "2025-07-30T07:40:10.670047"
         }
     ],
     "status": "active"
