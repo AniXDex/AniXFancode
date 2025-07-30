@@ -3,44 +3,44 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "05:35:06 PM 30-07-2025",
-    "total_matches": 9,
-    "live_matches": 2,
+    "last_updated": "05:40:15 PM 30-07-2025",
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
-            "title": "West Indies Women Under 19 Vs Usa Women Under 19",
-            "tournament": "USA Women U19 tour of West Indies, 2025",
-            "short_name": "WI-W vs USA-W U19",
-            "match_id": 131671,
+            "title": "Royal Trivianz Vs Keraniganj Challengers",
+            "tournament": "KCC T10 Summer League, 2025",
+            "short_name": "KCC T10 Summer League",
+            "match_id": 132133,
             "status": "STARTED",
-            "startTime": "30 July 2025 07:30 PM",
-            "startDate": "26 July 2025 05:30 AM",
-            "endDate": "03 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/USA-Women-U19-tour-of-West-India,-2025_Sporty_Match_card.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131671_english_hls_41432ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/AdMMwtvQSwG6Ujo-G2ZJ6w/master.m3u8",
+            "startTime": "30 July 2025 10:15 PM",
+            "startDate": "29 July 2025 05:30 AM",
+            "endDate": "29 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132133_english_hls_75792ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/4sjC4wOTTGOI4trRC2YUFg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429307"
+            "Processing_Time": "2025-07-30T17:40:15.351072"
         },
         {
             "category": "Cricket",
-            "title": "Weybridge Vs Twickenham",
+            "title": "East Molesey Vs Twickenham",
             "tournament": "ECS England, Wimbledon, 2025",
             "short_name": "ECS England, Wimbledon",
-            "match_id": 132040,
+            "match_id": 132041,
             "status": "STARTED",
-            "startTime": "30 July 2025 08:45 PM",
+            "startTime": "30 July 2025 10:45 PM",
             "startDate": "28 July 2025 05:30 AM",
             "endDate": "08 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-Sporty-match-card-op-2.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132040_english_hls_15410ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/eTTOKV1bThirhlGonpOF_A/master.m3u8",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-Sporty-match-card.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132041_english_hls_30482ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/LcTTey53SVic-SwGqxmDRQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429321"
+            "Processing_Time": "2025-07-30T17:40:15.351089"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429331"
+            "Processing_Time": "2025-07-30T17:40:15.351100"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429341"
+            "Processing_Time": "2025-07-30T17:40:15.351109"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429350"
+            "Processing_Time": "2025-07-30T17:40:15.351119"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429360"
+            "Processing_Time": "2025-07-30T17:40:15.351129"
         },
         {
             "category": "Football",
@@ -125,7 +125,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429370"
+            "Processing_Time": "2025-07-30T17:40:15.351139"
+        },
+        {
+            "category": "Cricket",
+            "title": "Pakistan Champions Vs India Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129733,
+            "status": "COMPLETED",
+            "startTime": "31 July 2025 05:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129721_5370_IAC_PNC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T17:40:15.351152"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429379"
+            "Processing_Time": "2025-07-30T17:40:15.351162"
         },
         {
-            "category": "Cricket",
-            "title": "Band E Amir Dragons Vs Amo Sharks",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130807,
-            "status": "COMPLETED",
-            "startTime": "30 July 2025 10:00 AM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130807_5425_BD_AM_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "category": "Baseball",
+            "title": "Baltimore Orioles Vs Toronto Blue Jays",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130285,
+            "status": "STARTED",
+            "startTime": "30 July 2025 10:05 PM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/130285_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130285_english_hls_7522ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T17:35:06.429389"
+            "Processing_Time": "2025-07-30T17:40:15.351172"
         }
     ],
     "status": "active"
