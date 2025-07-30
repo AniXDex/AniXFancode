@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:45:10 PM 30-07-2025",
-    "total_matches": 11,
-    "live_matches": 3,
+    "last_updated": "01:50:13 PM 30-07-2025",
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3_N5M2CJTpy72whMWV3Y1A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389550"
+            "Processing_Time": "2025-07-30T13:50:13.100780"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389574"
+            "Processing_Time": "2025-07-30T13:50:13.100796"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389586"
+            "Processing_Time": "2025-07-30T13:50:13.100805"
         },
         {
             "category": "Football",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389596"
+            "Processing_Time": "2025-07-30T13:50:13.100815"
         },
         {
             "category": "Football",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389605"
+            "Processing_Time": "2025-07-30T13:50:13.100824"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389615"
+            "Processing_Time": "2025-07-30T13:50:13.100833"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389625"
+            "Processing_Time": "2025-07-30T13:50:13.100842"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389635"
+            "Processing_Time": "2025-07-30T13:50:13.100852"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389645"
+            "Processing_Time": "2025-07-30T13:50:13.100860"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/6IXsDhI3THGsYS4TXIaYbA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389657"
+            "Processing_Time": "2025-07-30T13:50:13.100871"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Women Under 19 Vs Usa Women Under 19",
+            "tournament": "USA Women U19 tour of West Indies, 2025",
+            "short_name": "WI-W vs USA-W U19",
+            "match_id": 131671,
+            "status": "STARTED",
+            "startTime": "30 July 2025 07:30 PM",
+            "startDate": "26 July 2025 05:30 AM",
+            "endDate": "03 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/USA-Women-U19-tour-of-West-India,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131671_english_hls_41432ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/AdMMwtvQSwG6Ujo-G2ZJ6w/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T13:50:13.100881"
         },
         {
             "category": "Horse Racing",
@@ -193,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/227LKfhwREKHhw763CODUA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:45:10.389667"
+            "Processing_Time": "2025-07-30T13:50:13.100889"
         }
     ],
     "status": "active"
