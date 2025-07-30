@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:35:07 PM 30-07-2025",
+    "last_updated": "01:40:12 PM 30-07-2025",
     "total_matches": 11,
-    "live_matches": 4,
+    "live_matches": 3,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,24 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3_N5M2CJTpy72whMWV3Y1A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298671"
-        },
-        {
-            "category": "Football",
-            "title": "Team K League Vs Newcastle United",
-            "tournament": "Club Friendlies 2025",
-            "short_name": "Club Friendlies",
-            "match_id": 131253,
-            "status": "STARTED",
-            "startTime": "30 July 2025 04:30 PM",
-            "startDate": "12 July 2025 05:30 AM",
-            "endDate": "10 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Team-K-League-vs-Newcastle-United_Sporty.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131253_english_hls_65758ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/OspdV8BCReSm3EOedBORYA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298688"
+            "Processing_Time": "2025-07-30T13:40:12.796003"
         },
         {
             "category": "Cricket",
@@ -57,24 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298699"
-        },
-        {
-            "category": "Cricket",
-            "title": "Pakistan Champions Vs India Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129733,
-            "status": "NOT_STARTED",
-            "startTime": "31 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129721_5370_IAC_PNC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298709"
+            "Processing_Time": "2025-07-30T13:40:12.796021"
         },
         {
             "category": "Cricket",
@@ -91,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298720"
+            "Processing_Time": "2025-07-30T13:40:12.796032"
         },
         {
             "category": "Football",
@@ -108,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298730"
+            "Processing_Time": "2025-07-30T13:40:12.796040"
         },
         {
             "category": "Football",
@@ -125,24 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298742"
-        },
-        {
-            "category": "Cricket",
-            "title": "Australia Champions Vs Pakistan Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129731,
-            "status": "COMPLETED",
-            "startTime": "29 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129731_5370_AAC_PNC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298752"
+            "Processing_Time": "2025-07-30T13:40:12.796050"
         },
         {
             "category": "Cricket",
@@ -159,7 +108,58 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298764"
+            "Processing_Time": "2025-07-30T13:40:12.796059"
+        },
+        {
+            "category": "Cricket",
+            "title": "Band E Amir Dragons Vs Amo Sharks",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130807,
+            "status": "COMPLETED",
+            "startTime": "30 July 2025 10:00 AM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130807_5425_BD_AM_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T13:40:12.796068"
+        },
+        {
+            "category": "Cricket",
+            "title": "Speen Ghar Tigers Vs Boost Defenders",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130808,
+            "status": "COMPLETED",
+            "startTime": "30 July 2025 03:00 PM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130808_5425_SG_BOS_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T13:40:12.796156"
+        },
+        {
+            "category": "Cricket",
+            "title": "Pakistan Champions Vs India Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129733,
+            "status": "NOT_STARTED",
+            "startTime": "31 July 2025 05:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129721_5370_IAC_PNC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T13:40:12.796171"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/6IXsDhI3THGsYS4TXIaYbA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298776"
+            "Processing_Time": "2025-07-30T13:40:12.796181"
         },
         {
             "category": "Horse Racing",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/227LKfhwREKHhw763CODUA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:35:07.298786"
+            "Processing_Time": "2025-07-30T13:40:12.796191"
         }
     ],
     "status": "active"
