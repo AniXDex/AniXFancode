@@ -3,27 +3,61 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "03:55:06 PM 30-07-2025",
-    "total_matches": 12,
-    "live_matches": 4,
+    "last_updated": "04:00:30 PM 30-07-2025",
+    "total_matches": 9,
+    "live_matches": 2,
     "upcoming_matches": 4,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "West Indies Women Under 19 Vs Usa Women Under 19",
+            "tournament": "USA Women U19 tour of West Indies, 2025",
+            "short_name": "WI-W vs USA-W U19",
+            "match_id": 131671,
+            "status": "STARTED",
+            "startTime": "30 July 2025 07:30 PM",
+            "startDate": "26 July 2025 05:30 AM",
+            "endDate": "03 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/USA-Women-U19-tour-of-West-India,-2025_Sporty_Match_card.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131671_english_hls_41432ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/AdMMwtvQSwG6Ujo-G2ZJ6w/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T16:00:30.359306"
+        },
+        {
+            "category": "Cricket",
+            "title": "Weybridge Vs Twickenham",
+            "tournament": "ECS England, Wimbledon, 2025",
+            "short_name": "ECS England, Wimbledon",
+            "match_id": 132040,
+            "status": "STARTED",
+            "startTime": "30 July 2025 08:45 PM",
+            "startDate": "28 July 2025 05:30 AM",
+            "endDate": "08 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-Sporty-match-card-op-2.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132040_english_hls_15410ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/eTTOKV1bThirhlGonpOF_A/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T16:00:30.359328"
+        },
         {
             "category": "Cricket",
             "title": "Zimbabwe Vs New Zealand",
             "tournament": "New Zealand tour of Zimbabwe, 2025",
             "short_name": "ZIM vs NZ",
             "match_id": 128760,
-            "status": "STARTED",
+            "status": "PAUSED",
             "startTime": "30 July 2025 01:30 PM",
             "startDate": "30 July 2025 05:30 AM",
             "endDate": "11 August 2025 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)Sporty-match-card-.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/128760_english_hls_67071ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3_N5M2CJTpy72whMWV3Y1A/master.m3u8",
+            "adfree_stream": null,
+            "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347029"
+            "Processing_Time": "2025-07-30T16:00:30.359340"
         },
         {
             "category": "Cricket",
@@ -40,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347046"
+            "Processing_Time": "2025-07-30T16:00:30.359352"
         },
         {
             "category": "Cricket",
@@ -57,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347055"
+            "Processing_Time": "2025-07-30T16:00:30.359363"
         },
         {
             "category": "Football",
@@ -74,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347064"
+            "Processing_Time": "2025-07-30T16:00:30.359373"
         },
         {
             "category": "Football",
@@ -91,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347073"
+            "Processing_Time": "2025-07-30T16:00:30.359384"
         },
         {
             "category": "Cricket",
@@ -108,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347081"
+            "Processing_Time": "2025-07-30T16:00:30.359394"
         },
         {
             "category": "Cricket",
@@ -125,92 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347090"
-        },
-        {
-            "category": "Cricket",
-            "title": "Speen Ghar Tigers Vs Boost Defenders",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130808,
-            "status": "COMPLETED",
-            "startTime": "30 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130808_5425_SG_BOS_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347099"
-        },
-        {
-            "category": "Cricket",
-            "title": "Pakistan Champions Vs India Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129733,
-            "status": "COMPLETED",
-            "startTime": "31 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129721_5370_IAC_PNC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347109"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies Women Under 19 Vs Usa Women Under 19",
-            "tournament": "USA Women U19 tour of West Indies, 2025",
-            "short_name": "WI-W vs USA-W U19",
-            "match_id": 131671,
-            "status": "STARTED",
-            "startTime": "30 July 2025 07:30 PM",
-            "startDate": "26 July 2025 05:30 AM",
-            "endDate": "03 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/USA-Women-U19-tour-of-West-India,-2025_match-card.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131671_english_hls_41432ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/AdMMwtvQSwG6Ujo-G2ZJ6w/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347118"
-        },
-        {
-            "category": "Cricket",
-            "title": "Weybridge Vs Twickenham",
-            "tournament": "ECS England, Wimbledon, 2025",
-            "short_name": "ECS England, Wimbledon",
-            "match_id": 132040,
-            "status": "STARTED",
-            "startTime": "30 July 2025 08:45 PM",
-            "startDate": "28 July 2025 05:30 AM",
-            "endDate": "08 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132040_english_hls_15410ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/uVgEMCZaSyGIYviCAXKFWg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347128"
-        },
-        {
-            "category": "Horse Racing",
-            "title": "Qatar Goodwood Festival: Sussex Stakes",
-            "tournament": "Qatar Goodwood Festival: Sussex Stakes",
-            "short_name": "Sussex Stakes",
-            "match_id": 131405,
-            "status": "STARTED",
-            "startTime": "30 July 2025 07:00 PM",
-            "startDate": "30 July 2025 05:30 AM",
-            "endDate": "30 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/goodwood-festival_Old_match-card.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131405_english_hls_29758ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/227LKfhwREKHhw763CODUA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T15:55:06.347137"
+            "Processing_Time": "2025-07-30T16:00:30.359402"
         }
     ],
     "status": "active"
