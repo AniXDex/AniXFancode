@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "08:45:10 AM 30-07-2025",
-    "total_matches": 10,
-    "live_matches": 2,
-    "upcoming_matches": 6,
+    "last_updated": "08:50:13 AM 30-07-2025",
+    "total_matches": 11,
+    "live_matches": 3,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3_N5M2CJTpy72whMWV3Y1A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220686"
+            "Processing_Time": "2025-07-30T08:50:13.774820"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220701"
+            "Processing_Time": "2025-07-30T08:50:13.774841"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220712"
+            "Processing_Time": "2025-07-30T08:50:13.774852"
         },
         {
             "category": "Football",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220722"
+            "Processing_Time": "2025-07-30T08:50:13.774864"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220733"
+            "Processing_Time": "2025-07-30T08:50:13.774877"
         },
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220746"
+            "Processing_Time": "2025-07-30T08:50:13.774888"
         },
         {
             "category": "Football",
@@ -125,7 +125,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220758"
+            "Processing_Time": "2025-07-30T08:50:13.774904"
+        },
+        {
+            "category": "Cricket",
+            "title": "South Africa Champions Vs Australia Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129734,
+            "status": "NOT_STARTED",
+            "startTime": "31 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T08:50:13.774917"
         },
         {
             "category": "Cricket",
@@ -142,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220768"
-        },
-        {
-            "category": "Cricket",
-            "title": "Australia Champions Vs Pakistan Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129731,
-            "status": "COMPLETED",
-            "startTime": "29 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129731_5370_AAC_PNC_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220777"
+            "Processing_Time": "2025-07-30T08:50:13.774928"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/A7kSUyNCSECEYMIwtURQsQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T08:45:10.220786"
+            "Processing_Time": "2025-07-30T08:50:13.775629"
+        },
+        {
+            "category": "Cricket",
+            "title": "East Molesey Vs Spencer",
+            "tournament": "ECS England, Wimbledon, 2025",
+            "short_name": "ECS England, Wimbledon",
+            "match_id": 132037,
+            "status": "STARTED",
+            "startTime": "30 July 2025 02:30 PM",
+            "startDate": "28 July 2025 05:30 AM",
+            "endDate": "08 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132037_english_hls_32698ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/EjjimgzwRjauaTLKmsydlg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T08:50:13.775653"
         }
     ],
     "status": "active"
