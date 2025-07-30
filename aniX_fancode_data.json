@@ -3,7 +3,7 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:25:06 PM 30-07-2025",
+    "last_updated": "01:30:22 PM 30-07-2025",
     "total_matches": 11,
     "live_matches": 4,
     "upcoming_matches": 5,
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3_N5M2CJTpy72whMWV3Y1A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308770"
+            "Processing_Time": "2025-07-30T13:30:22.804634"
         },
         {
             "category": "Football",
@@ -40,24 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/OspdV8BCReSm3EOedBORYA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308787"
-        },
-        {
-            "category": "Cricket",
-            "title": "Speen Ghar Tigers Vs Boost Defenders",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130808,
-            "status": "COMPLETED",
-            "startTime": "30 July 2025 03:00 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130808_5425_SG_BOS_fc-App.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308800"
+            "Processing_Time": "2025-07-30T13:30:22.804654"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308811"
+            "Processing_Time": "2025-07-30T13:30:22.804667"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308822"
+            "Processing_Time": "2025-07-30T13:30:22.804678"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308833"
+            "Processing_Time": "2025-07-30T13:30:22.804688"
         },
         {
             "category": "Football",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308845"
+            "Processing_Time": "2025-07-30T13:30:22.804698"
         },
         {
             "category": "Football",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308856"
+            "Processing_Time": "2025-07-30T13:30:22.804709"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308867"
+            "Processing_Time": "2025-07-30T13:30:22.804719"
+        },
+        {
+            "category": "Cricket",
+            "title": "India Champions Vs West Indies Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129732,
+            "status": "COMPLETED",
+            "startTime": "29 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129732_5370_IAC_WIC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-30T13:30:22.804729"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/6IXsDhI3THGsYS4TXIaYbA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308877"
+            "Processing_Time": "2025-07-30T13:30:22.804740"
         },
         {
             "category": "Horse Racing",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/227LKfhwREKHhw763CODUA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-30T13:25:06.308887"
+            "Processing_Time": "2025-07-30T13:30:22.804751"
         }
     ],
     "status": "active"
