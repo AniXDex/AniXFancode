@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:55:06 PM 31-07-2025",
-    "total_matches": 15,
-    "live_matches": 8,
+    "last_updated": "08:00:31 PM 31-07-2025",
+    "total_matches": 14,
+    "live_matches": 7,
     "upcoming_matches": 3,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Stack Cc Vs Fakhr E Kashmir",
-            "tournament": "KCC T20 Summer League, 2025",
-            "short_name": "KCC T20 Summer League",
-            "match_id": 130015,
-            "status": "STARTED",
-            "startTime": "31 July 2025 10:00 PM",
-            "startDate": "05 July 2025 05:30 AM",
-            "endDate": "08 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Summer-League_Sporty_01.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/130015_english_hls_29874ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/gYjTclKBT22q6uqW44ND4w/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511188"
-        },
         {
             "category": "Cricket",
             "title": "Al Mulla Exchange Vs Cecc",
@@ -40,7 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/mIlwgU83S5qpgyhZtYjB0Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511205"
+            "Processing_Time": "2025-07-31T20:00:31.628833"
+        },
+        {
+            "category": "Golf",
+            "title": "Main Feed   Day 1",
+            "tournament": "Wyndham Championship 2025",
+            "short_name": "Wyndham Championship 2025",
+            "match_id": 132200,
+            "status": "STARTED",
+            "startTime": "31 July 2025 04:15 PM",
+            "startDate": "31 July 2025 05:30 AM",
+            "endDate": "03 August 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-Sporty-match-card.png",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132200_english_hls_97521ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/D0bDLUXERGqB-Z-y38HXJA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-31T20:00:31.628851"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511216"
+            "Processing_Time": "2025-07-31T20:00:31.628861"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511226"
+            "Processing_Time": "2025-07-31T20:00:31.628871"
         },
         {
             "category": "Motorsports",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511236"
+            "Processing_Time": "2025-07-31T20:00:31.628881"
         },
         {
             "category": "Formula 1",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511247"
+            "Processing_Time": "2025-07-31T20:00:31.628892"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511257"
+            "Processing_Time": "2025-07-31T20:00:31.628902"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511267"
+            "Processing_Time": "2025-07-31T20:00:31.628913"
         },
         {
             "category": "Motorsports",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511280"
-        },
-        {
-            "category": "Golf",
-            "title": "Main Feed   Day 1",
-            "tournament": "Wyndham Championship 2025",
-            "short_name": "Wyndham Championship 2025",
-            "match_id": 132200,
-            "status": "STARTED",
-            "startTime": "31 July 2025 04:15 PM",
-            "startDate": "31 July 2025 05:30 AM",
-            "endDate": "03 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132200_english_hls_97521ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/D0bDLUXERGqB-Z-y38HXJA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511290"
+            "Processing_Time": "2025-07-31T20:00:31.628925"
         },
         {
             "category": "Golf",
@@ -193,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/iVNI_0E_RRajqhZdfbywYA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511302"
+            "Processing_Time": "2025-07-31T20:00:31.628935"
         },
         {
             "category": "Golf",
@@ -210,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Nvb4A1OlRO6vitthNwxIjw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511312"
+            "Processing_Time": "2025-07-31T20:00:31.628945"
         },
         {
             "category": "Golf",
@@ -227,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/B3JAtAfvTHeMQNPCShix3w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511322"
+            "Processing_Time": "2025-07-31T20:00:31.628955"
         },
         {
             "category": "Baseball",
@@ -244,7 +227,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511331"
+            "Processing_Time": "2025-07-31T20:00:31.628965"
         },
         {
             "category": "Golf",
@@ -261,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/qB4-meXpQhqWzo-vrhne0Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T19:55:06.511341"
+            "Processing_Time": "2025-07-31T20:00:31.628975"
         }
     ],
     "status": "active"
