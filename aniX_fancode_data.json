@@ -3,28 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:45:10 PM 31-07-2025",
+    "last_updated": "02:00:27 PM 31-07-2025",
     "total_matches": 14,
-    "live_matches": 7,
-    "upcoming_matches": 5,
+    "live_matches": 6,
+    "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Arsenal Vs Tottenham Hotspur",
-            "tournament": "Club Friendlies 2025",
-            "short_name": "Club Friendlies",
-            "match_id": 129903,
-            "status": "STARTED",
-            "startTime": "31 July 2025 05:00 PM",
-            "startDate": "12 July 2025 05:30 AM",
-            "endDate": "10 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Tottenham-Hotspur_Sporty-(1).jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129903_english_hls_12581ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Itx7wjBXSWyfJHsXBCKCbQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336816"
-        },
         {
             "category": "Cricket",
             "title": "Zimbabwe Vs New Zealand",
@@ -40,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/dfmePcUtQ6SBf0vAQ4UMRw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336831"
+            "Processing_Time": "2025-07-31T14:00:27.975837"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336839"
+            "Processing_Time": "2025-07-31T14:00:27.975856"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336848"
+            "Processing_Time": "2025-07-31T14:00:27.975867"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336857"
+            "Processing_Time": "2025-07-31T14:00:27.975878"
         },
         {
             "category": "Motorsports",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336866"
+            "Processing_Time": "2025-07-31T14:00:27.975889"
         },
         {
             "category": "Formula 1",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336874"
+            "Processing_Time": "2025-07-31T14:00:27.975899"
         },
         {
             "category": "Motorsports",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336883"
+            "Processing_Time": "2025-07-31T14:00:27.975909"
         },
         {
             "category": "Formula 1",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336894"
+            "Processing_Time": "2025-07-31T14:00:27.975919"
+        },
+        {
+            "category": "Motorsports",
+            "title": "Porsche Mobil 1 Supercup",
+            "tournament": "Porsche Mobil 1 Super Cup",
+            "short_name": "Porsche Super Cup",
+            "match_id": 132112,
+            "status": "NOT_STARTED",
+            "startTime": "01 August 2025 09:55 PM",
+            "startDate": "16 May 2025 05:30 AM",
+            "endDate": "07 September 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP_Sporty_Match_card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-31T14:00:27.976093"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/_S_XsKu-QjeAt7uPyveYyA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336903"
+            "Processing_Time": "2025-07-31T14:00:27.976110"
         },
         {
             "category": "Golf",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/D0bDLUXERGqB-Z-y38HXJA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336913"
+            "Processing_Time": "2025-07-31T14:00:27.976121"
         },
         {
             "category": "Golf",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/iVNI_0E_RRajqhZdfbywYA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336922"
+            "Processing_Time": "2025-07-31T14:00:27.977162"
         },
         {
             "category": "Golf",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Nvb4A1OlRO6vitthNwxIjw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336930"
+            "Processing_Time": "2025-07-31T14:00:27.977183"
         },
         {
             "category": "Golf",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/B3JAtAfvTHeMQNPCShix3w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:45:10.336938"
+            "Processing_Time": "2025-07-31T14:00:27.977194"
         }
     ],
     "status": "active"
