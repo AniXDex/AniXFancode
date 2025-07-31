@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:25:06 PM 31-07-2025",
+    "last_updated": "01:30:24 PM 31-07-2025",
     "total_matches": 14,
-    "live_matches": 8,
-    "upcoming_matches": 4,
+    "live_matches": 7,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/dfmePcUtQ6SBf0vAQ4UMRw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957148"
+            "Processing_Time": "2025-07-31T13:30:24.743362"
         },
         {
             "category": "Football",
@@ -40,24 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Itx7wjBXSWyfJHsXBCKCbQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957165"
-        },
-        {
-            "category": "Football",
-            "title": "Seoul Vs Barcelona",
-            "tournament": "Club Friendlies 2025",
-            "short_name": "Club Friendlies",
-            "match_id": 129908,
-            "status": "STARTED",
-            "startTime": "31 July 2025 04:30 PM",
-            "startDate": "12 July 2025 05:30 AM",
-            "endDate": "10 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Seoul-vs-Barcelona_Sporty.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129908_english_hls_63370ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/aCMq5MwuSBid76NWwZe__Q/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957175"
+            "Processing_Time": "2025-07-31T13:30:24.743381"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957185"
+            "Processing_Time": "2025-07-31T13:30:24.743391"
         },
         {
             "category": "Cricket",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957194"
+            "Processing_Time": "2025-07-31T13:30:24.743401"
         },
         {
             "category": "Cricket",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957205"
+            "Processing_Time": "2025-07-31T13:30:24.743410"
         },
         {
             "category": "Motorsports",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957215"
+            "Processing_Time": "2025-07-31T13:30:24.743421"
         },
         {
             "category": "Formula 1",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957225"
+            "Processing_Time": "2025-07-31T13:30:24.743431"
         },
         {
             "category": "Motorsports",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957234"
+            "Processing_Time": "2025-07-31T13:30:24.743440"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Practice 2",
+            "tournament": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
+            "short_name": "Hungarian GP",
+            "match_id": 118447,
+            "status": "NOT_STARTED",
+            "startTime": "01 August 2025 08:30 PM",
+            "startDate": "01 August 2025 05:30 AM",
+            "endDate": "03 August 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian_Practice-2_Sporty.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-31T13:30:24.743450"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/_S_XsKu-QjeAt7uPyveYyA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957244"
+            "Processing_Time": "2025-07-31T13:30:24.743459"
         },
         {
             "category": "Golf",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/D0bDLUXERGqB-Z-y38HXJA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957253"
+            "Processing_Time": "2025-07-31T13:30:24.743468"
         },
         {
             "category": "Golf",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/iVNI_0E_RRajqhZdfbywYA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957263"
+            "Processing_Time": "2025-07-31T13:30:24.743478"
         },
         {
             "category": "Golf",
@@ -227,7 +227,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Nvb4A1OlRO6vitthNwxIjw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957272"
+            "Processing_Time": "2025-07-31T13:30:24.743487"
         },
         {
             "category": "Golf",
@@ -244,7 +244,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/B3JAtAfvTHeMQNPCShix3w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T13:25:06.957281"
+            "Processing_Time": "2025-07-31T13:30:24.743497"
         }
     ],
     "status": "active"
