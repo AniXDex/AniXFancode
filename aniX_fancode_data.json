@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:05:06 AM 31-07-2025",
-    "total_matches": 10,
-    "live_matches": 1,
+    "last_updated": "04:10:11 AM 31-07-2025",
+    "total_matches": 11,
+    "live_matches": 2,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899150"
+            "Processing_Time": "2025-07-31T04:10:11.864070"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899167"
+            "Processing_Time": "2025-07-31T04:10:11.864089"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899177"
+            "Processing_Time": "2025-07-31T04:10:11.864102"
         },
         {
             "category": "Football",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899186"
+            "Processing_Time": "2025-07-31T04:10:11.864113"
         },
         {
             "category": "Football",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899196"
+            "Processing_Time": "2025-07-31T04:10:11.864123"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899205"
+            "Processing_Time": "2025-07-31T04:10:11.864133"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899214"
+            "Processing_Time": "2025-07-31T04:10:11.864143"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899223"
+            "Processing_Time": "2025-07-31T04:10:11.864153"
         },
         {
             "category": "Motorsports",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899235"
+            "Processing_Time": "2025-07-31T04:10:11.864163"
+        },
+        {
+            "category": "Cricket",
+            "title": "Navarang Club Vs City Cricket Club",
+            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "short_name": "GTC Spring T20 Cup",
+            "match_id": 132393,
+            "status": "STARTED",
+            "startTime": "31 July 2025 09:00 AM",
+            "startDate": "28 July 2025 05:30 AM",
+            "endDate": "13 August 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132393_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132393_english_hls_5546ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/6Mvd6uj8SgmaURsF2UekWQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-31T04:10:11.864172"
         },
         {
             "category": "Baseball",
@@ -176,7 +193,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T04:05:06.899243"
+            "Processing_Time": "2025-07-31T04:10:11.864182"
         }
     ],
     "status": "active"
