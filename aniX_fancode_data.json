@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:25:06 AM 31-07-2025",
+    "last_updated": "11:30:23 AM 31-07-2025",
     "total_matches": 13,
-    "live_matches": 7,
-    "upcoming_matches": 4,
+    "live_matches": 8,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Cricket",
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/dfmePcUtQ6SBf0vAQ4UMRw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702619"
+            "Processing_Time": "2025-07-31T11:30:23.815700"
         },
         {
             "category": "Football",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/aCMq5MwuSBid76NWwZe__Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702660"
+            "Processing_Time": "2025-07-31T11:30:23.815719"
         },
         {
             "category": "Football",
@@ -48,16 +48,16 @@
             "tournament": "Club Friendlies 2025",
             "short_name": "Club Friendlies",
             "match_id": 129903,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "31 July 2025 05:00 PM",
             "startDate": "12 July 2025 05:30 AM",
             "endDate": "10 August 2025 11:30 PM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-vs-Tottenham-Hotspur_Sporty-(1).jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129903_english_hls_12581ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Itx7wjBXSWyfJHsXBCKCbQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702671"
+            "Processing_Time": "2025-07-31T11:30:23.815731"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/9AehxzQeSAaQgOvg8Nl8NA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702682"
+            "Processing_Time": "2025-07-31T11:30:23.815742"
         },
         {
             "category": "Cricket",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702691"
+            "Processing_Time": "2025-07-31T11:30:23.815751"
         },
         {
             "category": "Cricket",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702752"
+            "Processing_Time": "2025-07-31T11:30:23.815763"
         },
         {
             "category": "Cricket",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702764"
+            "Processing_Time": "2025-07-31T11:30:23.815776"
         },
         {
             "category": "Motorsports",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702774"
+            "Processing_Time": "2025-07-31T11:30:23.815785"
         },
         {
             "category": "Formula 1",
@@ -159,24 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702785"
-        },
-        {
-            "category": "Cricket",
-            "title": "Guwahati Giants Vs 91 Yards Club",
-            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "short_name": "GTC Spring T20 Cup",
-            "match_id": 132394,
-            "status": "STARTED",
-            "startTime": "31 July 2025 01:15 PM",
-            "startDate": "28 July 2025 05:30 AM",
-            "endDate": "13 August 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132394_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132394_english_hls_63051ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/R9NRX5w5Q0SKbqT4i9KAqw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702805"
+            "Processing_Time": "2025-07-31T11:30:23.815796"
         },
         {
             "category": "Cricket",
@@ -193,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/FsfpCzq7T8Gqy4YJLFPq4Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702814"
+            "Processing_Time": "2025-07-31T11:30:23.815806"
         },
         {
             "category": "Golf",
@@ -210,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/D0bDLUXERGqB-Z-y38HXJA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702825"
+            "Processing_Time": "2025-07-31T11:30:23.815816"
         },
         {
             "category": "Golf",
@@ -227,7 +210,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/iVNI_0E_RRajqhZdfbywYA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-07-31T11:25:06.702834"
+            "Processing_Time": "2025-07-31T11:30:23.815825"
+        },
+        {
+            "category": "Golf",
+            "title": "Featured Group   Day 1",
+            "tournament": "Wyndham Championship 2025",
+            "short_name": "Wyndham Championship 2025",
+            "match_id": 132203,
+            "status": "STARTED",
+            "startTime": "31 July 2025 05:00 PM",
+            "startDate": "31 July 2025 05:30 AM",
+            "endDate": "03 August 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132203_english_hls_91242ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Nvb4A1OlRO6vitthNwxIjw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-07-31T11:30:23.815836"
         }
     ],
     "status": "active"
