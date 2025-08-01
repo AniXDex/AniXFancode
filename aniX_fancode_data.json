@@ -3,45 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "05:05:05 AM 01-08-2025",
-    "total_matches": 10,
+    "last_updated": "05:10:16 AM 01-08-2025",
+    "total_matches": 11,
     "live_matches": 2,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Selangor Vs Johor",
-            "tournament": "MCA Men's T20 Inter-State Championship, 2025",
-            "short_name": "MCA Men's T20 Inter-State Champi",
-            "match_id": 132606,
-            "status": "COMPLETED",
-            "startTime": "01 August 2025 07:00 AM",
-            "startDate": "01 August 2025 05:30 AM",
-            "endDate": "12 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132606_5524_SEL_JOH_fc-app.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815642"
-        },
-        {
-            "category": "Cricket",
-            "title": "Kelantan Vs Melaka",
-            "tournament": "MCA Men's T20 Inter-State Championship, 2025",
-            "short_name": "MCA Men's T20 Inter-State Champi",
-            "match_id": 132607,
-            "status": "STARTED",
-            "startTime": "01 August 2025 07:30 AM",
-            "startDate": "01 August 2025 05:30 AM",
-            "endDate": "12 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132607_5524_KEL_MEL_fc-app.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132607_english_hls_24557ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/zTv82Jh8SImyx6EEzLzXow/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815662"
-        },
         {
             "category": "Cricket",
             "title": "Zimbabwe Vs New Zealand",
@@ -57,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815674"
+            "Processing_Time": "2025-08-01T05:10:16.886182"
         },
         {
             "category": "Cricket",
@@ -74,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815685"
+            "Processing_Time": "2025-08-01T05:10:16.886204"
         },
         {
             "category": "Motorsports",
@@ -91,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815697"
+            "Processing_Time": "2025-08-01T05:10:16.886214"
         },
         {
             "category": "Formula 1",
@@ -108,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815707"
+            "Processing_Time": "2025-08-01T05:10:16.886224"
         },
         {
             "category": "Motorsports",
@@ -125,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815717"
+            "Processing_Time": "2025-08-01T05:10:16.886234"
         },
         {
             "category": "Formula 1",
@@ -142,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815726"
+            "Processing_Time": "2025-08-01T05:10:16.886244"
         },
         {
             "category": "Motorsports",
@@ -159,7 +125,58 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815736"
+            "Processing_Time": "2025-08-01T05:10:16.886255"
+        },
+        {
+            "category": "Cricket",
+            "title": "Amo Sharks Vs Mis E Ainak Knights",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130809,
+            "status": "COMPLETED",
+            "startTime": "31 July 2025 11:00 AM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130796_5425_AM_MAK_fc-App_1753867237835.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T05:10:16.886265"
+        },
+        {
+            "category": "Cricket",
+            "title": "South Africa Champions Vs Australia Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129734,
+            "status": "COMPLETED",
+            "startTime": "31 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T05:10:16.886275"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kelantan Vs Melaka",
+            "tournament": "MCA Men's T20 Inter-State Championship, 2025",
+            "short_name": "MCA Men's T20 Inter-State Champi",
+            "match_id": 132607,
+            "status": "STARTED",
+            "startTime": "01 August 2025 07:30 AM",
+            "startDate": "01 August 2025 05:30 AM",
+            "endDate": "12 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132607_5524_KEL_MEL_fc-web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132607_english_hls_24557ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/zTv82Jh8SImyx6EEzLzXow/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T05:10:16.886285"
         },
         {
             "category": "Cricket",
@@ -176,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/GDbJxuglSxyh571oiNhVDQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T05:05:05.815746"
+            "Processing_Time": "2025-08-01T05:10:16.886295"
         }
     ],
     "status": "active"
