@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "09:55:06 AM 01-08-2025",
-    "total_matches": 13,
-    "live_matches": 6,
+    "last_updated": "10:00:27 AM 01-08-2025",
+    "total_matches": 12,
+    "live_matches": 5,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/s2waRva9SwmtrHMIH6cQGw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690177"
+            "Processing_Time": "2025-08-01T10:00:27.019513"
         },
         {
             "category": "Motorsports",
@@ -40,7 +40,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690195"
+            "Processing_Time": "2025-08-01T10:00:27.019524"
         },
         {
             "category": "Cricket",
@@ -57,75 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690205"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Practice 1",
-            "tournament": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
-            "short_name": "Hungarian GP",
-            "match_id": 118446,
-            "status": "NOT_STARTED",
-            "startTime": "01 August 2025 05:00 PM",
-            "startDate": "01 August 2025 05:30 AM",
-            "endDate": "03 August 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian_Practice-1_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690215"
-        },
-        {
-            "category": "Motorsports",
-            "title": "Formula 2",
-            "tournament": "F2 HUNGARY 2025",
-            "short_name": "F2 HUNGARY",
-            "match_id": 119062,
-            "status": "NOT_STARTED",
-            "startTime": "01 August 2025 07:25 PM",
-            "startDate": "01 August 2025 05:30 AM",
-            "endDate": "03 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungary-Sporty-F2.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690224"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Practice 2",
-            "tournament": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
-            "short_name": "Hungarian GP",
-            "match_id": 118447,
-            "status": "NOT_STARTED",
-            "startTime": "01 August 2025 08:30 PM",
-            "startDate": "01 August 2025 05:30 AM",
-            "endDate": "03 August 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian_Practice-2_Sporty.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690234"
-        },
-        {
-            "category": "Motorsports",
-            "title": "Porsche Mobil 1 Supercup",
-            "tournament": "Porsche Mobil 1 Super Cup",
-            "short_name": "Porsche Super Cup",
-            "match_id": 132112,
-            "status": "NOT_STARTED",
-            "startTime": "01 August 2025 09:55 PM",
-            "startDate": "16 May 2025 05:30 AM",
-            "endDate": "07 September 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP_Sporty_Match_card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690244"
+            "Processing_Time": "2025-08-01T10:00:27.019530"
         },
         {
             "category": "Cricket",
@@ -142,7 +74,75 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690253"
+            "Processing_Time": "2025-08-01T10:00:27.019536"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Practice 1",
+            "tournament": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
+            "short_name": "Hungarian GP",
+            "match_id": 118446,
+            "status": "NOT_STARTED",
+            "startTime": "01 August 2025 05:00 PM",
+            "startDate": "01 August 2025 05:30 AM",
+            "endDate": "03 August 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian_Practice-1_Sporty.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T10:00:27.019542"
+        },
+        {
+            "category": "Motorsports",
+            "title": "Formula 2",
+            "tournament": "F2 HUNGARY 2025",
+            "short_name": "F2 HUNGARY",
+            "match_id": 119062,
+            "status": "NOT_STARTED",
+            "startTime": "01 August 2025 07:25 PM",
+            "startDate": "01 August 2025 05:30 AM",
+            "endDate": "03 August 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungary-Sporty-F2.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T10:00:27.019548"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Practice 2",
+            "tournament": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
+            "short_name": "Hungarian GP",
+            "match_id": 118447,
+            "status": "NOT_STARTED",
+            "startTime": "01 August 2025 08:30 PM",
+            "startDate": "01 August 2025 05:30 AM",
+            "endDate": "03 August 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian_Practice-2_Sporty.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T10:00:27.019554"
+        },
+        {
+            "category": "Motorsports",
+            "title": "Porsche Mobil 1 Supercup",
+            "tournament": "Porsche Mobil 1 Super Cup",
+            "short_name": "Porsche Super Cup",
+            "match_id": 132112,
+            "status": "NOT_STARTED",
+            "startTime": "01 August 2025 09:55 PM",
+            "startDate": "16 May 2025 05:30 AM",
+            "endDate": "07 September 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP_Sporty_Match_card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T10:00:27.019559"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690263"
+            "Processing_Time": "2025-08-01T10:00:27.019564"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/VsQ2Y2MVRRSrcerRLO-cAw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690272"
+            "Processing_Time": "2025-08-01T10:00:27.019570"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/NO50fYPYRQmEg_cp5AfX3g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690312"
+            "Processing_Time": "2025-08-01T10:00:27.019575"
         },
         {
             "category": "Cricket",
@@ -210,24 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/VJDqkTzqSFS1nqTl3l6UaA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690322"
-        },
-        {
-            "category": "Cricket",
-            "title": "Sarawak Vs Penang",
-            "tournament": "MCA Men's T20 Inter-State Championship, 2025",
-            "short_name": "MCA Men's T20 Inter-State Champi",
-            "match_id": 132609,
-            "status": "STARTED",
-            "startTime": "01 August 2025 12:00 PM",
-            "startDate": "01 August 2025 05:30 AM",
-            "endDate": "12 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132609_5524_SAR_PEN_fc-web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132609_english_hls_5920ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/DD1aJkAWQ36BKB6roJUzbQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T09:55:06.690332"
+            "Processing_Time": "2025-08-01T10:00:27.019580"
         }
     ],
     "status": "active"
