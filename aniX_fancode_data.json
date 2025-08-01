@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:25:05 AM 01-08-2025",
-    "total_matches": 9,
-    "live_matches": 2,
+    "last_updated": "01:30:23 AM 01-08-2025",
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/_OmAhKuqQmSbe4tR7HpA-A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721433"
+            "Processing_Time": "2025-08-01T01:30:23.077506"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/HDmOxnveTj2EJGxPDWSQYg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721453"
+            "Processing_Time": "2025-08-01T01:30:23.077667"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721464"
+            "Processing_Time": "2025-08-01T01:30:23.077686"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721475"
+            "Processing_Time": "2025-08-01T01:30:23.077697"
         },
         {
             "category": "Motorsports",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721488"
+            "Processing_Time": "2025-08-01T01:30:23.077709"
         },
         {
             "category": "Formula 1",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721499"
+            "Processing_Time": "2025-08-01T01:30:23.077720"
         },
         {
             "category": "Motorsports",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721509"
+            "Processing_Time": "2025-08-01T01:30:23.077731"
         },
         {
             "category": "Formula 1",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721520"
+            "Processing_Time": "2025-08-01T01:30:23.077742"
         },
         {
             "category": "Motorsports",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:25:05.721549"
+            "Processing_Time": "2025-08-01T01:30:23.077752"
+        },
+        {
+            "category": "Baseball",
+            "title": "Seattle Mariners Vs Texas Rangers",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 132833,
+            "status": "STARTED",
+            "startTime": "01 August 2025 07:10 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132833_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132833_english_hls_93855ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T01:30:23.077763"
         }
     ],
     "status": "active"
