@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "06:15:09 AM 01-08-2025",
-    "total_matches": 11,
-    "live_matches": 2,
+    "last_updated": "06:20:15 AM 01-08-2025",
+    "total_matches": 12,
+    "live_matches": 3,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339753"
+            "Processing_Time": "2025-08-01T06:20:15.243679"
         },
         {
             "category": "Cricket",
@@ -40,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339764"
+            "Processing_Time": "2025-08-01T06:20:15.243696"
         },
         {
             "category": "Motorsports",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339770"
+            "Processing_Time": "2025-08-01T06:20:15.243706"
         },
         {
             "category": "Formula 1",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339775"
+            "Processing_Time": "2025-08-01T06:20:15.243717"
         },
         {
             "category": "Motorsports",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339781"
+            "Processing_Time": "2025-08-01T06:20:15.243728"
         },
         {
             "category": "Formula 1",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339786"
+            "Processing_Time": "2025-08-01T06:20:15.243738"
         },
         {
             "category": "Motorsports",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339791"
+            "Processing_Time": "2025-08-01T06:20:15.243748"
         },
         {
             "category": "Cricket",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339798"
+            "Processing_Time": "2025-08-01T06:20:15.243782"
         },
         {
             "category": "Cricket",
@@ -159,7 +159,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339803"
+            "Processing_Time": "2025-08-01T06:20:15.243793"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/GDbJxuglSxyh571oiNhVDQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339808"
+            "Processing_Time": "2025-08-01T06:20:15.243803"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/i3TVF6o2S3mTaBvm2ZXIYg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T06:15:09.339813"
+            "Processing_Time": "2025-08-01T06:20:15.243824"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sarawak Vs Penang",
+            "tournament": "MCA Men's T20 Inter-State Championship, 2025",
+            "short_name": "MCA Men's T20 Inter-State Champi",
+            "match_id": 132609,
+            "status": "STARTED",
+            "startTime": "01 August 2025 12:00 PM",
+            "startDate": "01 August 2025 05:30 AM",
+            "endDate": "12 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132609_5524_SAR_PEN_fc-web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132609_english_hls_5920ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/DD1aJkAWQ36BKB6roJUzbQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T06:20:15.243834"
         }
     ],
     "status": "active"
