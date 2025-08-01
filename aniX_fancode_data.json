@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:55:06 AM 01-08-2025",
-    "total_matches": 10,
-    "live_matches": 3,
+    "last_updated": "02:00:24 AM 01-08-2025",
+    "total_matches": 11,
+    "live_matches": 4,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -23,24 +23,24 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/_OmAhKuqQmSbe4tR7HpA-A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869693"
+            "Processing_Time": "2025-08-01T02:00:24.819639"
         },
         {
             "category": "Cricket",
-            "title": "West Indies Vs Pakistan",
-            "tournament": "Pakistan tour of West Indies, 2025",
-            "short_name": "WI vs PAK",
-            "match_id": 131402,
+            "title": "Kelantan Vs Melaka",
+            "tournament": "MCA Men's T20 Inter-State Championship, 2025",
+            "short_name": "MCA Men's T20 Inter-State Champi",
+            "match_id": 132607,
             "status": "STARTED",
-            "startTime": "01 August 2025 05:30 AM",
-            "startDate": "31 July 2025 05:30 AM",
+            "startTime": "01 August 2025 07:30 AM",
+            "startDate": "01 August 2025 05:30 AM",
             "endDate": "12 August 2025 05:30 AM",
-            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131402_english_hls_83219ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/HDmOxnveTj2EJGxPDWSQYg/master.m3u8",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132607_5524_KEL_MEL_fc-app.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132607_english_hls_24557ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/zTv82Jh8SImyx6EEzLzXow/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869712"
+            "Processing_Time": "2025-08-01T02:00:24.819665"
         },
         {
             "category": "Cricket",
@@ -57,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869723"
+            "Processing_Time": "2025-08-01T02:00:24.819675"
         },
         {
             "category": "Cricket",
@@ -74,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869734"
+            "Processing_Time": "2025-08-01T02:00:24.819684"
         },
         {
             "category": "Motorsports",
@@ -91,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869743"
+            "Processing_Time": "2025-08-01T02:00:24.819694"
         },
         {
             "category": "Formula 1",
@@ -108,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869752"
+            "Processing_Time": "2025-08-01T02:00:24.819704"
         },
         {
             "category": "Motorsports",
@@ -125,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869761"
+            "Processing_Time": "2025-08-01T02:00:24.819714"
         },
         {
             "category": "Formula 1",
@@ -142,7 +142,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869771"
+            "Processing_Time": "2025-08-01T02:00:24.819725"
         },
         {
             "category": "Motorsports",
@@ -159,7 +159,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869780"
+            "Processing_Time": "2025-08-01T02:00:24.819735"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Vs Pakistan",
+            "tournament": "Pakistan tour of West Indies, 2025",
+            "short_name": "WI vs PAK",
+            "match_id": 131402,
+            "status": "STARTED",
+            "startTime": "01 August 2025 05:30 AM",
+            "startDate": "31 July 2025 05:30 AM",
+            "endDate": "12 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131402_english_hls_83219ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HDmOxnveTj2EJGxPDWSQYg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T02:00:24.819745"
         },
         {
             "category": "Baseball",
@@ -176,7 +193,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T01:55:06.869790"
+            "Processing_Time": "2025-08-01T02:00:24.819756"
         }
     ],
     "status": "active"
