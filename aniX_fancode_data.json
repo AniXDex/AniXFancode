@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "10:05:06 AM 01-08-2025",
+    "last_updated": "10:10:14 AM 01-08-2025",
     "total_matches": 12,
-    "live_matches": 5,
-    "upcoming_matches": 5,
+    "live_matches": 4,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -23,24 +23,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/s2waRva9SwmtrHMIH6cQGw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174763"
-        },
-        {
-            "category": "Motorsports",
-            "title": "Formula 2",
-            "tournament": "F2 HUNGARY 2025",
-            "short_name": "F2 HUNGARY",
-            "match_id": 119061,
-            "status": "STARTED",
-            "startTime": "01 August 2025 02:35 PM",
-            "startDate": "01 August 2025 05:30 AM",
-            "endDate": "03 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungary-Sporty-F2.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/119061_english_hls_84011adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174782"
+            "Processing_Time": "2025-08-01T10:10:14.940579"
         },
         {
             "category": "Cricket",
@@ -57,7 +40,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174792"
+            "Processing_Time": "2025-08-01T10:10:14.940591"
         },
         {
             "category": "Cricket",
@@ -74,7 +57,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174801"
+            "Processing_Time": "2025-08-01T10:10:14.940601"
         },
         {
             "category": "Formula 1",
@@ -91,7 +74,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174811"
+            "Processing_Time": "2025-08-01T10:10:14.940611"
         },
         {
             "category": "Motorsports",
@@ -108,7 +91,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174854"
+            "Processing_Time": "2025-08-01T10:10:14.940622"
         },
         {
             "category": "Formula 1",
@@ -125,7 +108,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174865"
+            "Processing_Time": "2025-08-01T10:10:14.940633"
         },
         {
             "category": "Motorsports",
@@ -142,7 +125,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174875"
+            "Processing_Time": "2025-08-01T10:10:14.940643"
         },
         {
             "category": "Cricket",
@@ -159,7 +142,24 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174884"
+            "Processing_Time": "2025-08-01T10:10:14.940653"
+        },
+        {
+            "category": "Motorsports",
+            "title": "Porsche Mobil 1 Supercup",
+            "tournament": "Porsche Mobil 1 Super Cup",
+            "short_name": "Porsche Super Cup",
+            "match_id": 132113,
+            "status": "NOT_STARTED",
+            "startTime": "02 August 2025 02:50 PM",
+            "startDate": "16 May 2025 05:30 AM",
+            "endDate": "07 September 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP_Sporty_Match_card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-01T10:10:14.940660"
         },
         {
             "category": "Cricket",
@@ -176,7 +176,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/VsQ2Y2MVRRSrcerRLO-cAw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174894"
+            "Processing_Time": "2025-08-01T10:10:14.940666"
         },
         {
             "category": "Cricket",
@@ -193,7 +193,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/NO50fYPYRQmEg_cp5AfX3g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174903"
+            "Processing_Time": "2025-08-01T10:10:14.940672"
         },
         {
             "category": "Cricket",
@@ -210,7 +210,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/VJDqkTzqSFS1nqTl3l6UaA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-01T10:05:06.174921"
+            "Processing_Time": "2025-08-01T10:10:14.940678"
         }
     ],
     "status": "active"
