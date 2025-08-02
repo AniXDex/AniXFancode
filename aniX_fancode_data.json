@@ -3,26 +3,26 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:15:09 PM 02-08-2025",
+    "last_updated": "01:20:13 PM 02-08-2025",
     "total_matches": 38,
-    "live_matches": 8,
-    "upcoming_matches": 30,
+    "live_matches": 9,
+    "upcoming_matches": 29,
     "matches": [
         {
             "category": "Formula 1",
             "title": "Qualifying",
             "tournament": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
             "match_id": 118449,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
             "startTime": "02 August 2025 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian-Grand-Prix_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://dfor4bzgv4slq.cloudfront.net/out/v1/daabf969ef33414fb99acc100bf006d8/index.m3u8",
+            "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314927"
+            "Processing_Time": "2025-08-02T13:20:13.874583"
         },
         {
             "category": "Cricket",
@@ -38,7 +38,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314938"
+            "Processing_Time": "2025-08-02T13:20:13.874600"
         },
         {
             "category": "Cricket",
@@ -54,7 +54,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314952"
+            "Processing_Time": "2025-08-02T13:20:13.874610"
         },
         {
             "category": "Cricket",
@@ -70,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/cq3EXEXHRtqCcaDYNIMWww/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314962"
+            "Processing_Time": "2025-08-02T13:20:13.874620"
         },
         {
             "category": "Football",
@@ -86,7 +86,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314971"
+            "Processing_Time": "2025-08-02T13:20:13.874663"
         },
         {
             "category": "Golf",
@@ -102,7 +102,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ujS5fZErRM6spTeEoa1Urg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314979"
+            "Processing_Time": "2025-08-02T13:20:13.874675"
         },
         {
             "category": "Golf",
@@ -118,7 +118,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/qpiJ0XHHSf65U6WGZYX9bA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314987"
+            "Processing_Time": "2025-08-02T13:20:13.874684"
         },
         {
             "category": "Golf",
@@ -134,7 +134,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/caObknRATqqi1jvD24ZTmw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314993"
+            "Processing_Time": "2025-08-02T13:20:13.874693"
         },
         {
             "category": "Golf",
@@ -150,7 +150,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/b0Pu_LMHQMSe1yTPpyZSuA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.314999"
+            "Processing_Time": "2025-08-02T13:20:13.874702"
         },
         {
             "category": "Motorsports",
@@ -166,7 +166,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315005"
+            "Processing_Time": "2025-08-02T13:20:13.874711"
         },
         {
             "category": "Cricket",
@@ -182,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315011"
+            "Processing_Time": "2025-08-02T13:20:13.874720"
         },
         {
             "category": "Football",
@@ -198,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315017"
+            "Processing_Time": "2025-08-02T13:20:13.874729"
         },
         {
             "category": "Football",
@@ -214,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315023"
+            "Processing_Time": "2025-08-02T13:20:13.874738"
         },
         {
             "category": "Cricket",
@@ -230,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315028"
+            "Processing_Time": "2025-08-02T13:20:13.874748"
         },
         {
             "category": "Cricket",
@@ -246,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315034"
+            "Processing_Time": "2025-08-02T13:20:13.874757"
         },
         {
             "category": "Cricket",
@@ -262,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315040"
+            "Processing_Time": "2025-08-02T13:20:13.874766"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315046"
+            "Processing_Time": "2025-08-02T13:20:13.874775"
         },
         {
             "category": "Cricket",
@@ -294,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315051"
+            "Processing_Time": "2025-08-02T13:20:13.874785"
         },
         {
             "category": "Cricket",
@@ -310,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315058"
+            "Processing_Time": "2025-08-02T13:20:13.874794"
         },
         {
             "category": "Cricket",
@@ -326,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315063"
+            "Processing_Time": "2025-08-02T13:20:13.874803"
         },
         {
             "category": "Cricket",
@@ -342,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315069"
+            "Processing_Time": "2025-08-02T13:20:13.874812"
         },
         {
             "category": "Cricket",
@@ -358,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315074"
+            "Processing_Time": "2025-08-02T13:20:13.874822"
         },
         {
             "category": "Cricket",
@@ -374,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315080"
+            "Processing_Time": "2025-08-02T13:20:13.874832"
         },
         {
             "category": "Cricket",
@@ -390,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315085"
+            "Processing_Time": "2025-08-02T13:20:13.874842"
         },
         {
             "category": "Cricket",
@@ -406,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315091"
+            "Processing_Time": "2025-08-02T13:20:13.874850"
         },
         {
             "category": "Cricket",
@@ -422,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315097"
+            "Processing_Time": "2025-08-02T13:20:13.874884"
         },
         {
             "category": "Cricket",
@@ -438,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315104"
+            "Processing_Time": "2025-08-02T13:20:13.874894"
         },
         {
             "category": "Cricket",
@@ -454,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315113"
+            "Processing_Time": "2025-08-02T13:20:13.874903"
         },
         {
             "category": "Cricket",
@@ -470,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315123"
+            "Processing_Time": "2025-08-02T13:20:13.874912"
         },
         {
             "category": "Cricket",
@@ -486,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315132"
+            "Processing_Time": "2025-08-02T13:20:13.874921"
         },
         {
             "category": "Cricket",
@@ -502,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315141"
+            "Processing_Time": "2025-08-02T13:20:13.874931"
         },
         {
             "category": "Football",
@@ -513,12 +513,12 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "03 August 2025 04:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "image": "https://images.fancode.com/aig/match/v1/131252_CASACARDS_APP.png",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315151"
+            "Processing_Time": "2025-08-02T13:20:13.874939"
         },
         {
             "category": "Cricket",
@@ -534,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315160"
+            "Processing_Time": "2025-08-02T13:20:13.874948"
         },
         {
             "category": "Football",
@@ -550,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315169"
+            "Processing_Time": "2025-08-02T13:20:13.874957"
         },
         {
             "category": "Cricket",
@@ -566,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315179"
+            "Processing_Time": "2025-08-02T13:20:13.874966"
         },
         {
             "category": "Cricket",
@@ -582,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315189"
+            "Processing_Time": "2025-08-02T13:20:13.874977"
         },
         {
             "category": "Football",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315198"
+            "Processing_Time": "2025-08-02T13:20:13.874987"
         },
         {
             "category": "Cricket",
@@ -614,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-02T13:15:09.315208"
+            "Processing_Time": "2025-08-02T13:20:13.874996"
         }
     ],
     "status": "active"
