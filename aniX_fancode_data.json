@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:55:05 AM 03-08-2025",
+    "last_updated": "02:00:28 AM 03-08-2025",
     "total_matches": 38,
-    "live_matches": 3,
-    "upcoming_matches": 35,
+    "live_matches": 5,
+    "upcoming_matches": 33,
     "matches": [
         {
             "category": "Cricket",
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/V5SDfZ0RTnSd9otDgwI4xA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904330"
+            "Processing_Time": "2025-08-03T02:00:28.442326"
         },
         {
             "category": "Cricket",
@@ -38,14 +38,14 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KHLwSlN8S0GCZskamzz0-g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904350"
+            "Processing_Time": "2025-08-03T02:00:28.442339"
         },
         {
             "category": "Cricket",
             "title": "Kelantan Vs Selangor",
             "tournament": "MCA Men's T20 Inter-State Championship, 2025",
             "match_id": 132624,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "03 August 2025 07:30 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -54,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KWyHgYXIR_KHpb_8I5HgCw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904362"
+            "Processing_Time": "2025-08-03T02:00:28.442345"
         },
         {
             "category": "Cricket",
@@ -70,7 +70,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/XFMd_f62THmMUFbK1dkEZg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904373"
+            "Processing_Time": "2025-08-03T02:00:28.442352"
+        },
+        {
+            "category": "Baseball",
+            "title": "San Diego Padres Vs St. Louis Cardinals",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132838,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "03 August 2025 07:40 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132838_CASACARDS_APP.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132838_english_hls_87845ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-03T02:00:28.442359"
         },
         {
             "category": "Cricket",
@@ -86,7 +102,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904383"
+            "Processing_Time": "2025-08-03T02:00:28.442367"
         },
         {
             "category": "Cricket",
@@ -102,7 +118,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904394"
+            "Processing_Time": "2025-08-03T02:00:28.442375"
         },
         {
             "category": "Cricket",
@@ -118,7 +134,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904404"
+            "Processing_Time": "2025-08-03T02:00:28.442385"
         },
         {
             "category": "Cricket",
@@ -134,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904415"
+            "Processing_Time": "2025-08-03T02:00:28.442394"
         },
         {
             "category": "Cricket",
@@ -150,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904425"
+            "Processing_Time": "2025-08-03T02:00:28.442405"
         },
         {
             "category": "Cricket",
@@ -166,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904435"
+            "Processing_Time": "2025-08-03T02:00:28.442415"
         },
         {
             "category": "Cricket",
@@ -182,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904445"
+            "Processing_Time": "2025-08-03T02:00:28.442424"
         },
         {
             "category": "Cricket",
@@ -198,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904457"
+            "Processing_Time": "2025-08-03T02:00:28.442433"
         },
         {
             "category": "Cricket",
@@ -214,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904468"
+            "Processing_Time": "2025-08-03T02:00:28.442443"
         },
         {
             "category": "Cricket",
@@ -230,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904477"
+            "Processing_Time": "2025-08-03T02:00:28.442460"
         },
         {
             "category": "Cricket",
@@ -246,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904486"
+            "Processing_Time": "2025-08-03T02:00:28.442469"
         },
         {
             "category": "Cricket",
@@ -262,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904496"
+            "Processing_Time": "2025-08-03T02:00:28.442485"
         },
         {
             "category": "Football",
@@ -278,23 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904505"
-        },
-        {
-            "category": "Football",
-            "title": "Ajax Vs Monaco",
-            "tournament": "Club Friendlies 2025",
-            "match_id": 131251,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "03 August 2025 05:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ajax-VS-Monaco_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904515"
+            "Processing_Time": "2025-08-03T02:00:28.442493"
         },
         {
             "category": "Cricket",
@@ -310,7 +310,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904525"
+            "Processing_Time": "2025-08-03T02:00:28.442499"
+        },
+        {
+            "category": "Football",
+            "title": "Ajax Vs Monaco",
+            "tournament": "Club Friendlies 2025",
+            "match_id": 131251,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "03 August 2025 05:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Ajax-VS-Monaco_old.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-03T02:00:28.442505"
         },
         {
             "category": "Cricket",
@@ -326,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904535"
+            "Processing_Time": "2025-08-03T02:00:28.442511"
         },
         {
             "category": "Cricket",
@@ -342,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904545"
+            "Processing_Time": "2025-08-03T02:00:28.442517"
         },
         {
             "category": "Cricket",
@@ -358,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904554"
+            "Processing_Time": "2025-08-03T02:00:28.442525"
         },
         {
             "category": "Football",
@@ -374,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904564"
+            "Processing_Time": "2025-08-03T02:00:28.442534"
         },
         {
             "category": "Football",
@@ -390,23 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904575"
-        },
-        {
-            "category": "Baseball",
-            "title": "San Diego Padres Vs St. Louis Cardinals",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 132838,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "03 August 2025 07:40 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132838_CASACARDS_APP.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904585"
+            "Processing_Time": "2025-08-03T02:00:28.442548"
         },
         {
             "category": "Cricket",
@@ -422,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904595"
+            "Processing_Time": "2025-08-03T02:00:28.442559"
         },
         {
             "category": "Cricket",
@@ -438,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904605"
+            "Processing_Time": "2025-08-03T02:00:28.442568"
         },
         {
             "category": "Cricket",
@@ -454,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904614"
+            "Processing_Time": "2025-08-03T02:00:28.442576"
         },
         {
             "category": "Motorsports",
@@ -470,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904628"
+            "Processing_Time": "2025-08-03T02:00:28.442582"
         },
         {
             "category": "Motorsports",
@@ -486,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904638"
+            "Processing_Time": "2025-08-03T02:00:28.442590"
         },
         {
             "category": "Cricket",
@@ -502,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904648"
+            "Processing_Time": "2025-08-03T02:00:28.442597"
         },
         {
             "category": "Motorsports",
@@ -518,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904657"
+            "Processing_Time": "2025-08-03T02:00:28.442603"
         },
         {
             "category": "Golf",
@@ -534,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904667"
+            "Processing_Time": "2025-08-03T02:00:28.442608"
         },
         {
             "category": "Golf",
@@ -550,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904676"
+            "Processing_Time": "2025-08-03T02:00:28.442614"
         },
         {
             "category": "Golf",
@@ -566,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904686"
+            "Processing_Time": "2025-08-03T02:00:28.442620"
         },
         {
             "category": "Golf",
@@ -582,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904695"
+            "Processing_Time": "2025-08-03T02:00:28.442625"
         },
         {
             "category": "Formula 1",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904705"
+            "Processing_Time": "2025-08-03T02:00:28.442634"
         },
         {
             "category": "Cricket",
@@ -614,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-03T01:55:05.904714"
+            "Processing_Time": "2025-08-03T02:00:28.442642"
         }
     ],
     "status": "active"
