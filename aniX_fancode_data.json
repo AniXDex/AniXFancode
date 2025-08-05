@@ -3,27 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:40:13 PM 05-08-2025",
+    "last_updated": "12:45:09 PM 05-08-2025",
     "total_matches": 39,
-    "live_matches": 4,
+    "live_matches": 3,
     "upcoming_matches": 33,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Cfs Pinnacle Pro Vs London County Cricket",
-            "tournament": "ECS England, Wimbledon, 2025",
-            "match_id": 132058,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "05 August 2025 04:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132058_english_hls_85780ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3uxtpHOZQJi5zi0m3sCCsw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048122"
-        },
         {
             "category": "Basketball",
             "title": "Jordan Vs India",
@@ -38,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/z81aeN8_Q_G6J-s0AKDSkQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048135"
+            "Processing_Time": "2025-08-05T12:45:09.967251"
         },
         {
             "category": "Arm Wrestling",
@@ -54,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/FhcZM7WgSo-gh4G2UPQ0lg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048141"
+            "Processing_Time": "2025-08-05T12:45:09.967268"
         },
         {
             "category": "Arm Wrestling",
@@ -70,7 +54,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/_bmZvPznS1GqaPNG6raXwQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048146"
+            "Processing_Time": "2025-08-05T12:45:09.967277"
+        },
+        {
+            "category": "Cricket",
+            "title": "Cfs Pinnacle Pro Vs London County Cricket",
+            "tournament": "ECS England, Wimbledon, 2025",
+            "match_id": 132058,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "05 August 2025 04:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132058_english_hls_85780ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/3uxtpHOZQJi5zi0m3sCCsw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-05T12:45:09.967286"
         },
         {
             "category": "Cricket",
@@ -86,7 +86,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048152"
+            "Processing_Time": "2025-08-05T12:45:09.967295"
         },
         {
             "category": "Cricket",
@@ -102,7 +102,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048157"
+            "Processing_Time": "2025-08-05T12:45:09.967305"
         },
         {
             "category": "Cricket",
@@ -118,7 +118,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048162"
+            "Processing_Time": "2025-08-05T12:45:09.967313"
         },
         {
             "category": "Cricket",
@@ -134,7 +134,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048168"
+            "Processing_Time": "2025-08-05T12:45:09.967323"
         },
         {
             "category": "Cricket",
@@ -150,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048173"
+            "Processing_Time": "2025-08-05T12:45:09.967331"
         },
         {
             "category": "Cricket",
@@ -166,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048178"
+            "Processing_Time": "2025-08-05T12:45:09.967340"
         },
         {
             "category": "Cricket",
@@ -182,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048184"
+            "Processing_Time": "2025-08-05T12:45:09.967348"
         },
         {
             "category": "Cricket",
@@ -198,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048189"
+            "Processing_Time": "2025-08-05T12:45:09.967358"
         },
         {
             "category": "Cricket",
@@ -214,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048194"
+            "Processing_Time": "2025-08-05T12:45:09.967366"
         },
         {
             "category": "Cricket",
@@ -230,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048199"
+            "Processing_Time": "2025-08-05T12:45:09.967377"
         },
         {
             "category": "Cricket",
@@ -246,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048204"
+            "Processing_Time": "2025-08-05T12:45:09.967385"
         },
         {
             "category": "Cricket",
@@ -262,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048209"
+            "Processing_Time": "2025-08-05T12:45:09.967395"
         },
         {
             "category": "Basketball",
@@ -278,23 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048215"
-        },
-        {
-            "category": "Basketball",
-            "title": "Chinese Taipei Vs Philippines",
-            "tournament": "FIBA Asia Cup, 2025",
-            "match_id": 133185,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "05 August 2025 11:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133185_5549_CT_PHP_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048220"
+            "Processing_Time": "2025-08-05T12:45:09.967403"
         },
         {
             "category": "Cricket",
@@ -310,7 +294,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048225"
+            "Processing_Time": "2025-08-05T12:45:09.967413"
+        },
+        {
+            "category": "Basketball",
+            "title": "Chinese Taipei Vs Philippines",
+            "tournament": "FIBA Asia Cup, 2025",
+            "match_id": 133185,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "05 August 2025 11:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133185_5549_CT_PHP_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-05T12:45:09.967422"
         },
         {
             "category": "Cricket",
@@ -326,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048231"
+            "Processing_Time": "2025-08-05T12:45:09.967430"
         },
         {
             "category": "Cricket",
@@ -342,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048236"
+            "Processing_Time": "2025-08-05T12:45:09.967439"
         },
         {
             "category": "Cricket",
@@ -358,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048241"
+            "Processing_Time": "2025-08-05T12:45:09.967448"
         },
         {
             "category": "Cricket",
@@ -374,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048246"
+            "Processing_Time": "2025-08-05T12:45:09.967456"
         },
         {
             "category": "Cricket",
@@ -390,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048252"
+            "Processing_Time": "2025-08-05T12:45:09.967465"
         },
         {
             "category": "Cricket",
@@ -406,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048257"
+            "Processing_Time": "2025-08-05T12:45:09.967474"
         },
         {
             "category": "Cricket",
@@ -422,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048262"
+            "Processing_Time": "2025-08-05T12:45:09.967483"
         },
         {
             "category": "Basketball",
@@ -438,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048267"
+            "Processing_Time": "2025-08-05T12:45:09.967491"
         },
         {
             "category": "Cricket",
@@ -454,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048272"
+            "Processing_Time": "2025-08-05T12:45:09.967501"
         },
         {
             "category": "Basketball",
@@ -470,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048277"
+            "Processing_Time": "2025-08-05T12:45:09.967510"
         },
         {
             "category": "Cricket",
@@ -486,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048282"
+            "Processing_Time": "2025-08-05T12:45:09.967518"
         },
         {
             "category": "Cricket",
@@ -502,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048287"
+            "Processing_Time": "2025-08-05T12:45:09.967527"
         },
         {
             "category": "Cricket",
@@ -518,23 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048291"
-        },
-        {
-            "category": "Baseball",
-            "title": "Seattle Mariners Vs Chicago White Sox",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 132843,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "06 August 2025 07:10 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132843_CASACARDS_APP.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048296"
+            "Processing_Time": "2025-08-05T12:45:09.967536"
         },
         {
             "category": "Basketball",
@@ -550,7 +534,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048301"
+            "Processing_Time": "2025-08-05T12:45:09.967547"
+        },
+        {
+            "category": "Baseball",
+            "title": "Seattle Mariners Vs Chicago White Sox",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132843,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "06 August 2025 07:10 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132843_CASACARDS_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-05T12:45:09.967557"
         },
         {
             "category": "Live events",
@@ -566,39 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048306"
-        },
-        {
-            "category": "Cricket",
-            "title": "New Delhi Tigers Vs Central Delhi Kings",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132468,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "04 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132468_5521_CDK_NDT_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048310"
-        },
-        {
-            "category": "Cricket",
-            "title": "Outer Delhi Warriors Vs Purani Delhi 6",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132469,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "05 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132469_5521_ODW_PD_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048315"
+            "Processing_Time": "2025-08-05T12:45:09.968098"
         },
         {
             "category": "Cricket",
@@ -614,7 +582,39 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048321"
+            "Processing_Time": "2025-08-05T12:45:09.968112"
+        },
+        {
+            "category": "Cricket",
+            "title": "New Delhi Tigers Vs Central Delhi Kings",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132468,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "04 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132468_5521_CDK_NDT_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-05T12:45:09.968122"
+        },
+        {
+            "category": "Cricket",
+            "title": "Outer Delhi Warriors Vs Purani Delhi 6",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132469,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "05 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132469_5521_ODW_PD_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-05T12:45:09.968130"
         },
         {
             "category": "Cricket",
@@ -630,7 +630,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-05T12:40:13.048326"
+            "Processing_Time": "2025-08-05T12:45:09.968139"
         }
     ],
     "status": "active"
