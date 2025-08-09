@@ -3,27 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "10:45:09 AM 09-08-2025",
+    "last_updated": "10:50:15 AM 09-08-2025",
     "total_matches": 38,
-    "live_matches": 11,
+    "live_matches": 10,
     "upcoming_matches": 27,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Zimbabwe Vs New Zealand",
-            "tournament": "New Zealand tour of Zimbabwe, 2025",
-            "match_id": 128761,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "07 August 2025 01:30 PM",
-            "startDate": "09 August 2025 01:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)old-match-card-.jpg",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/128761_english_hls_66924ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Gc14C1s4QJyGLGRE2iICPQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811008"
-        },
         {
             "category": "Cricket",
             "title": "Australia A Women Vs India A Women",
@@ -38,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eSgA-8KsTjSkIdQ4fOcT5A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811026"
+            "Processing_Time": "2025-08-09T10:50:15.361401"
         },
         {
             "category": "Cricket",
@@ -54,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/nda1FVWrRr6ZRFDsEwckDw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811037"
+            "Processing_Time": "2025-08-09T10:50:15.361417"
         },
         {
             "category": "Cricket",
@@ -70,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811046"
+            "Processing_Time": "2025-08-09T10:50:15.361427"
         },
         {
             "category": "Cricket",
@@ -86,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/vntV1Cu6R0qBPNjFRDvi8g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811056"
+            "Processing_Time": "2025-08-09T10:50:15.361436"
         },
         {
             "category": "Cricket",
@@ -102,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/oaHBXkFXS7mdRRGvp96H6Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811066"
+            "Processing_Time": "2025-08-09T10:50:15.361447"
         },
         {
             "category": "Cricket",
@@ -118,7 +102,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/JoaPOiZkR-C5K6FWtEGSpw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811077"
+            "Processing_Time": "2025-08-09T10:50:15.361457"
         },
         {
             "category": "Cricket",
@@ -134,7 +118,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/lLGOc894QPK_cA_0zn6CUQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811086"
+            "Processing_Time": "2025-08-09T10:50:15.361469"
         },
         {
             "category": "Cricket",
@@ -150,7 +134,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/rBBbw6zqT0CLALXwlHkdbQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811097"
+            "Processing_Time": "2025-08-09T10:50:15.361481"
         },
         {
             "category": "Football",
@@ -166,7 +150,23 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811105"
+            "Processing_Time": "2025-08-09T10:50:15.361491"
+        },
+        {
+            "category": "Basketball",
+            "title": "China Vs Jordan",
+            "tournament": "FIBA Asia Cup, 2025",
+            "match_id": 133195,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "09 August 2025 04:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133195_5549_CHN_JDN_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133195_english_hls_17747ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ggfczNTCRwW6OFuGllM9sA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T10:50:15.361502"
         },
         {
             "category": "Live events",
@@ -182,7 +182,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/PSz99XTrSsuxs-FS1ORaxw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811114"
+            "Processing_Time": "2025-08-09T10:50:15.361512"
+        },
+        {
+            "category": "Cricket",
+            "title": "Zimbabwe Vs New Zealand",
+            "tournament": "New Zealand tour of Zimbabwe, 2025",
+            "match_id": 128761,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "07 August 2025 01:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)old-match-card-.jpg",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/128761_english_hls_66924ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Gc14C1s4QJyGLGRE2iICPQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T10:50:15.361524"
         },
         {
             "category": "Cricket",
@@ -198,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811123"
+            "Processing_Time": "2025-08-09T10:50:15.361534"
         },
         {
             "category": "Cricket",
@@ -214,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811131"
+            "Processing_Time": "2025-08-09T10:50:15.361544"
         },
         {
             "category": "Cricket",
@@ -230,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811140"
+            "Processing_Time": "2025-08-09T10:50:15.361554"
         },
         {
             "category": "Cricket",
@@ -246,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811149"
+            "Processing_Time": "2025-08-09T10:50:15.361564"
         },
         {
             "category": "Cricket",
@@ -262,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811158"
+            "Processing_Time": "2025-08-09T10:50:15.361575"
         },
         {
             "category": "Football",
@@ -278,71 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811168"
-        },
-        {
-            "category": "Basketball",
-            "title": "China Vs Jordan",
-            "tournament": "FIBA Asia Cup, 2025",
-            "match_id": 133195,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 04:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133195_5549_CHN_JDN_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811178"
-        },
-        {
-            "category": "Cricket",
-            "title": "Npl Bears Vs Pupkewitz Motors Wildcats",
-            "tournament": "Namibia T20, 2025",
-            "match_id": 132442,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 05:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811187"
-        },
-        {
-            "category": "Cricket",
-            "title": "Tungabhadra Warriors Vs Simhadri Vizag Lions",
-            "tournament": "Andhra Premier League, 2025",
-            "match_id": 132762,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132762_5529_TBW_SVL_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811198"
-        },
-        {
-            "category": "Cricket",
-            "title": "Croatia Vs Cyprus",
-            "tournament": "ECI Croatia-Cyprus, 2025",
-            "match_id": 133391,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/133391_CASACARDS_APP.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811208"
+            "Processing_Time": "2025-08-09T10:50:15.361586"
         },
         {
             "category": "Cricket",
@@ -358,7 +310,55 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811218"
+            "Processing_Time": "2025-08-09T10:50:15.361595"
+        },
+        {
+            "category": "Cricket",
+            "title": "Npl Bears Vs Pupkewitz Motors Wildcats",
+            "tournament": "Namibia T20, 2025",
+            "match_id": 132442,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "09 August 2025 05:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T10:50:15.361606"
+        },
+        {
+            "category": "Cricket",
+            "title": "Tungabhadra Warriors Vs Simhadri Vizag Lions",
+            "tournament": "Andhra Premier League, 2025",
+            "match_id": 132762,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "09 August 2025 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132762_5529_TBW_SVL_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T10:50:15.361616"
+        },
+        {
+            "category": "Cricket",
+            "title": "Croatia Vs Cyprus",
+            "tournament": "ECI Croatia-Cyprus, 2025",
+            "match_id": 133391,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "09 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/133391_CASACARDS_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T10:50:15.361626"
         },
         {
             "category": "Cricket",
@@ -374,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811228"
+            "Processing_Time": "2025-08-09T10:50:15.361635"
         },
         {
             "category": "Cricket",
@@ -390,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811237"
+            "Processing_Time": "2025-08-09T10:50:15.361646"
         },
         {
             "category": "Football",
@@ -406,39 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811246"
-        },
-        {
-            "category": "Football",
-            "title": "Newcastle United Vs Atlético De Madrid",
-            "tournament": "Club Friendlies 2025",
-            "match_id": 129906,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-VS-Atletico-de-Madrid_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811256"
-        },
-        {
-            "category": "Football",
-            "title": "Sheffield United Vs Bristol City",
-            "tournament": "EFL Championship 2025-26",
-            "match_id": 131988,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 10:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-United-VS-Bristol-City_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811265"
+            "Processing_Time": "2025-08-09T10:50:15.361655"
         },
         {
             "category": "Cricket",
@@ -454,7 +422,39 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811276"
+            "Processing_Time": "2025-08-09T10:50:15.361666"
+        },
+        {
+            "category": "Football",
+            "title": "Newcastle United Vs Atlético De Madrid",
+            "tournament": "Club Friendlies 2025",
+            "match_id": 129906,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "09 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-VS-Atletico-de-Madrid_old.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T10:50:15.361675"
+        },
+        {
+            "category": "Football",
+            "title": "Sheffield United Vs Bristol City",
+            "tournament": "EFL Championship 2025-26",
+            "match_id": 131988,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "09 August 2025 10:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-United-VS-Bristol-City_old.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T10:50:15.361686"
         },
         {
             "category": "Cricket",
@@ -470,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811286"
+            "Processing_Time": "2025-08-09T10:50:15.361696"
         },
         {
             "category": "Basketball",
@@ -486,23 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811295"
-        },
-        {
-            "category": "Basketball",
-            "title": "Chinese Taipei Vs New Zealand",
-            "tournament": "FIBA Asia Cup, 2025",
-            "match_id": 133197,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 11:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811305"
+            "Processing_Time": "2025-08-09T10:50:15.361705"
         },
         {
             "category": "Cricket",
@@ -518,7 +502,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811314"
+            "Processing_Time": "2025-08-09T10:50:15.361715"
+        },
+        {
+            "category": "Basketball",
+            "title": "Chinese Taipei Vs New Zealand",
+            "tournament": "FIBA Asia Cup, 2025",
+            "match_id": 133197,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "09 August 2025 11:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T10:50:15.361724"
         },
         {
             "category": "Cricket",
@@ -534,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811324"
+            "Processing_Time": "2025-08-09T10:50:15.361734"
         },
         {
             "category": "Cricket",
@@ -550,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811334"
+            "Processing_Time": "2025-08-09T10:50:15.361743"
         },
         {
             "category": "Cricket",
@@ -566,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811343"
+            "Processing_Time": "2025-08-09T10:50:15.361755"
         },
         {
             "category": "Cricket",
@@ -582,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811353"
+            "Processing_Time": "2025-08-09T10:50:15.361764"
         },
         {
             "category": "Cricket",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811361"
+            "Processing_Time": "2025-08-09T10:50:15.361774"
         },
         {
             "category": "Cricket",
@@ -614,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T10:45:09.811370"
+            "Processing_Time": "2025-08-09T10:50:15.361783"
         }
     ],
     "status": "active"
