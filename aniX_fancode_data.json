@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:45:09 PM 09-08-2025",
+    "last_updated": "04:50:16 PM 09-08-2025",
     "total_matches": 38,
-    "live_matches": 8,
-    "upcoming_matches": 28,
+    "live_matches": 11,
+    "upcoming_matches": 25,
     "matches": [
         {
             "category": "Cricket",
@@ -22,23 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4qaItzGCQgC-SdbeTXCMjQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426450"
-        },
-        {
-            "category": "Football",
-            "title": "Newcastle United Vs Atlético De Madrid",
-            "tournament": "Club Friendlies 2025",
-            "match_id": 129906,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "09 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-VS-Atletico-de-Madrid_old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129906_english_hls_37591ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/qrPT0KSLTCKT-MKFZzPRRQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426466"
+            "Processing_Time": "2025-08-09T16:50:16.677976"
         },
         {
             "category": "Football",
@@ -54,23 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/0wrdA5LMTgCCcuSeQhC2fw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426477"
-        },
-        {
-            "category": "Basketball",
-            "title": "India Vs Saudi Arabia",
-            "tournament": "FIBA Asia Cup, 2025",
-            "match_id": 133196,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "09 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133196_english_hls_65865ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/i0glKfDfSkmzLO-OIEm7kg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426487"
+            "Processing_Time": "2025-08-09T16:50:16.677987"
         },
         {
             "category": "Golf",
@@ -86,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/sHAoBY5mRQSr_ik1qzZw7Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426495"
+            "Processing_Time": "2025-08-09T16:50:16.677993"
         },
         {
             "category": "Golf",
@@ -102,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/aZwVYsLVQ5eVaTRJO473IA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426501"
+            "Processing_Time": "2025-08-09T16:50:16.677999"
         },
         {
             "category": "Golf",
@@ -118,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Sfj4QYKaSACDeqxMUY5NsQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426507"
+            "Processing_Time": "2025-08-09T16:50:16.678004"
         },
         {
             "category": "Golf",
@@ -134,7 +102,71 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/45VwPgIBQmOgB0tUqyOZ9w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426512"
+            "Processing_Time": "2025-08-09T16:50:16.678009"
+        },
+        {
+            "category": "Golf",
+            "title": "Featured Hole   Day 3",
+            "tournament": "FedEx St. Jude Championship 2025",
+            "match_id": 133331,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "09 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133331_english_hls_71130ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/UdaHRFpkTwK_l_D7guo_FQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T16:50:16.678014"
+        },
+        {
+            "category": "Golf",
+            "title": "World Feed   Day 3",
+            "tournament": "FedEx St. Jude Championship 2025",
+            "match_id": 133327,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "09 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133327_english_hls_98203ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Ug5-T2ubR_GAIhgGd7i2lg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T16:50:16.678019"
+        },
+        {
+            "category": "Golf",
+            "title": "Day 2",
+            "tournament": "LIV Golf Chicago",
+            "match_id": 131637,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "09 August 2025 10:35 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Chicago_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131637_english_hls_50654ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Eu0Z3C7ASei-CZP_2BnQHg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T16:50:16.678024"
+        },
+        {
+            "category": "Football",
+            "title": "Newcastle United Vs Atlético De Madrid",
+            "tournament": "Club Friendlies 2025",
+            "match_id": 129906,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "09 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-VS-Atletico-de-Madrid_old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129906_english_hls_37591ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/qrPT0KSLTCKT-MKFZzPRRQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T16:50:16.678028"
         },
         {
             "category": "Cricket",
@@ -150,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426518"
+            "Processing_Time": "2025-08-09T16:50:16.678034"
         },
         {
             "category": "Cricket",
@@ -166,7 +198,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426523"
+            "Processing_Time": "2025-08-09T16:50:16.678041"
+        },
+        {
+            "category": "Basketball",
+            "title": "India Vs Saudi Arabia",
+            "tournament": "FIBA Asia Cup, 2025",
+            "match_id": 133196,
+            "status": "LIVE",
+            "streamingStatus": "COMPLETED",
+            "startTime": "09 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T16:50:16.678048"
         },
         {
             "category": "Cricket",
@@ -182,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426529"
+            "Processing_Time": "2025-08-09T16:50:16.678054"
         },
         {
             "category": "Cricket",
@@ -198,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426534"
+            "Processing_Time": "2025-08-09T16:50:16.678061"
         },
         {
             "category": "Cricket",
@@ -214,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426539"
+            "Processing_Time": "2025-08-09T16:50:16.678069"
         },
         {
             "category": "Cricket",
@@ -230,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426545"
+            "Processing_Time": "2025-08-09T16:50:16.678074"
         },
         {
             "category": "Cricket",
@@ -246,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426551"
+            "Processing_Time": "2025-08-09T16:50:16.678079"
         },
         {
             "category": "Cricket",
@@ -262,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426556"
+            "Processing_Time": "2025-08-09T16:50:16.678084"
         },
         {
             "category": "Cricket",
@@ -278,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426561"
+            "Processing_Time": "2025-08-09T16:50:16.678088"
         },
         {
             "category": "Cricket",
@@ -294,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426566"
+            "Processing_Time": "2025-08-09T16:50:16.678093"
         },
         {
             "category": "Cricket",
@@ -310,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426571"
+            "Processing_Time": "2025-08-09T16:50:16.678098"
         },
         {
             "category": "Cricket",
@@ -326,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426576"
+            "Processing_Time": "2025-08-09T16:50:16.678102"
         },
         {
             "category": "Cricket",
@@ -342,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426581"
+            "Processing_Time": "2025-08-09T16:50:16.678107"
         },
         {
             "category": "Cricket",
@@ -358,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426586"
+            "Processing_Time": "2025-08-09T16:50:16.678111"
         },
         {
             "category": "Cricket",
@@ -374,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426592"
+            "Processing_Time": "2025-08-09T16:50:16.678116"
         },
         {
             "category": "Cricket",
@@ -390,23 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426598"
-        },
-        {
-            "category": "Basketball",
-            "title": "Chinese Taipei Vs New Zealand",
-            "tournament": "FIBA Asia Cup, 2025",
-            "match_id": 133197,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 11:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426603"
+            "Processing_Time": "2025-08-09T16:50:16.678121"
         },
         {
             "category": "Cricket",
@@ -422,7 +454,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426609"
+            "Processing_Time": "2025-08-09T16:50:16.678125"
+        },
+        {
+            "category": "Basketball",
+            "title": "Chinese Taipei Vs New Zealand",
+            "tournament": "FIBA Asia Cup, 2025",
+            "match_id": 133197,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "09 August 2025 11:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T16:50:16.678130"
         },
         {
             "category": "Cricket",
@@ -438,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426614"
+            "Processing_Time": "2025-08-09T16:50:16.678135"
         },
         {
             "category": "Cricket",
@@ -454,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426619"
+            "Processing_Time": "2025-08-09T16:50:16.678139"
         },
         {
             "category": "Cricket",
@@ -470,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426624"
+            "Processing_Time": "2025-08-09T16:50:16.678144"
         },
         {
             "category": "Basketball",
@@ -486,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426630"
+            "Processing_Time": "2025-08-09T16:50:16.678148"
         },
         {
             "category": "Cricket",
@@ -502,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426635"
+            "Processing_Time": "2025-08-09T16:50:16.678153"
         },
         {
             "category": "Cricket",
@@ -518,23 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426640"
-        },
-        {
-            "category": "Cricket",
-            "title": "Central Delhi Kings Vs Outer Delhi Warriors",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132477,
-            "status": "ABANDONED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "09 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426645"
+            "Processing_Time": "2025-08-09T16:50:16.678158"
         },
         {
             "category": "Basketball",
@@ -550,7 +582,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426650"
+            "Processing_Time": "2025-08-09T16:50:16.678162"
+        },
+        {
+            "category": "Cricket",
+            "title": "Central Delhi Kings Vs Outer Delhi Warriors",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132477,
+            "status": "ABANDONED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "09 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-09T16:50:16.678167"
         },
         {
             "category": "Cricket",
@@ -566,55 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426655"
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Hole   Day 3",
-            "tournament": "FedEx St. Jude Championship 2025",
-            "match_id": 133331,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426659"
-        },
-        {
-            "category": "Golf",
-            "title": "World Feed   Day 3",
-            "tournament": "FedEx St. Jude Championship 2025",
-            "match_id": 133327,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426664"
-        },
-        {
-            "category": "Golf",
-            "title": "Day 2",
-            "tournament": "LIV Golf Chicago",
-            "match_id": 131637,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 10:35 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Chicago_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-09T16:45:09.426669"
+            "Processing_Time": "2025-08-09T16:50:16.678171"
         }
     ],
     "status": "active"
