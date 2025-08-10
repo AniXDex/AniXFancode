@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:35:06 AM 10-08-2025",
+    "last_updated": "07:40:13 AM 10-08-2025",
     "total_matches": 38,
-    "live_matches": 6,
-    "upcoming_matches": 30,
+    "live_matches": 5,
+    "upcoming_matches": 31,
     "matches": [
         {
             "category": "Cricket",
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YPEwHrSsSG-Hjsik7Xgepg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103855"
+            "Processing_Time": "2025-08-10T07:40:13.859396"
         },
         {
             "category": "Cricket",
@@ -38,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/t6iP3szNT8CHSv_QGexnCQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103875"
+            "Processing_Time": "2025-08-10T07:40:13.859417"
         },
         {
             "category": "Cricket",
@@ -54,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/8ZcChO99QG-T2RbMZoT1lw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103885"
+            "Processing_Time": "2025-08-10T07:40:13.859428"
         },
         {
             "category": "Cricket",
@@ -70,151 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/9Z-buGw1QYCOwbiM6vkVPw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103895"
-        },
-        {
-            "category": "Live events",
-            "title": "Day 2",
-            "tournament": "Asia Rugby U20 Men's & Women's Sevens",
-            "match_id": 133383,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "10 August 2025 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Rugby-U20-Men's-&-Women's-Sevens-old-match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133383_english_hls_77156ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/A86LOTKQTAKBl-qKVcOHFg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103905"
-        },
-        {
-            "category": "Motorsports",
-            "title": "Qualifying 2",
-            "tournament": "DTM Nurburgring 2025",
-            "match_id": 133246,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "10 August 2025 12:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133246_english_hls_7646ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/AutEZlSpTYyTZHuFDSza7w/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103915"
-        },
-        {
-            "category": "Cricket",
-            "title": "Australia A Women Vs India A Women",
-            "tournament": "India A Women tour of Australia, 2025",
-            "match_id": 133231,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 August 2025 01:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103925"
-        },
-        {
-            "category": "Cricket",
-            "title": "Purani Delhi 6 Vs North Delhi Strikers",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132479,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132479_5521_PD_NDS_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103934"
-        },
-        {
-            "category": "Cricket",
-            "title": "Southern Brave Women Vs Birmingham Phoenix Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132262,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132262_5506_SOB-W_BPH-W_Fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103944"
-        },
-        {
-            "category": "Cricket",
-            "title": "Trent Rockets Women Vs Northern Superchargers Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132263,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103954"
-        },
-        {
-            "category": "Cricket",
-            "title": "Southern Brave Vs Birmingham Phoenix",
-            "tournament": "The Hundred, 2025",
-            "match_id": 132228,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103964"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Delhi Lions Vs East Delhi Riders",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132480,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132480_5521_WDL_EDR_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103974"
-        },
-        {
-            "category": "Cricket",
-            "title": "Trent Rockets Vs Northern Superchargers",
-            "tournament": "The Hundred, 2025",
-            "match_id": 132229,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 August 2025 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103984"
+            "Processing_Time": "2025-08-10T07:40:13.859438"
         },
         {
             "category": "Cricket",
@@ -230,7 +86,135 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/PeN9FAu_Scm8QD20r5zduA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.103994"
+            "Processing_Time": "2025-08-10T07:40:13.859449"
+        },
+        {
+            "category": "Live events",
+            "title": "Day 2",
+            "tournament": "Asia Rugby U20 Men's & Women's Sevens",
+            "match_id": 133383,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "10 August 2025 10:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Rugby-U20-Men's-&-Women's-Sevens-old-match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133383_english_hls_77156ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/A86LOTKQTAKBl-qKVcOHFg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859460"
+        },
+        {
+            "category": "Cricket",
+            "title": "Australia A Women Vs India A Women",
+            "tournament": "India A Women tour of Australia, 2025",
+            "match_id": 133231,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 August 2025 01:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859471"
+        },
+        {
+            "category": "Cricket",
+            "title": "Purani Delhi 6 Vs North Delhi Strikers",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132479,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132479_5521_PD_NDS_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859481"
+        },
+        {
+            "category": "Cricket",
+            "title": "Southern Brave Women Vs Birmingham Phoenix Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132262,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 August 2025 03:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132262_5506_SOB-W_BPH-W_Fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859491"
+        },
+        {
+            "category": "Cricket",
+            "title": "Trent Rockets Women Vs Northern Superchargers Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132263,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859501"
+        },
+        {
+            "category": "Cricket",
+            "title": "Southern Brave Vs Birmingham Phoenix",
+            "tournament": "The Hundred, 2025",
+            "match_id": 132228,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859511"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Delhi Lions Vs East Delhi Riders",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132480,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132480_5521_WDL_EDR_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859521"
+        },
+        {
+            "category": "Cricket",
+            "title": "Trent Rockets Vs Northern Superchargers",
+            "tournament": "The Hundred, 2025",
+            "match_id": 132229,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859531"
         },
         {
             "category": "Cricket",
@@ -246,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104003"
+            "Processing_Time": "2025-08-10T07:40:13.859540"
         },
         {
             "category": "Basketball",
@@ -262,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104012"
+            "Processing_Time": "2025-08-10T07:40:13.859550"
         },
         {
             "category": "Cricket",
@@ -278,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104022"
+            "Processing_Time": "2025-08-10T07:40:13.859573"
         },
         {
             "category": "Cricket",
@@ -294,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104033"
+            "Processing_Time": "2025-08-10T07:40:13.859583"
         },
         {
             "category": "Cricket",
@@ -310,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104044"
+            "Processing_Time": "2025-08-10T07:40:13.859593"
         },
         {
             "category": "Cricket",
@@ -326,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104055"
+            "Processing_Time": "2025-08-10T07:40:13.859603"
         },
         {
             "category": "Cricket",
@@ -342,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104063"
+            "Processing_Time": "2025-08-10T07:40:13.859614"
         },
         {
             "category": "Football",
@@ -358,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104073"
+            "Processing_Time": "2025-08-10T07:40:13.859623"
         },
         {
             "category": "Football",
@@ -374,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104083"
+            "Processing_Time": "2025-08-10T07:40:13.859633"
         },
         {
             "category": "Football",
@@ -390,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104093"
+            "Processing_Time": "2025-08-10T07:40:13.859642"
         },
         {
             "category": "Cricket",
@@ -406,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104102"
+            "Processing_Time": "2025-08-10T07:40:13.859652"
         },
         {
             "category": "Basketball",
@@ -422,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104113"
+            "Processing_Time": "2025-08-10T07:40:13.859659"
         },
         {
             "category": "Basketball",
@@ -438,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104123"
+            "Processing_Time": "2025-08-10T07:40:13.859667"
         },
         {
             "category": "Basketball",
@@ -454,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104133"
+            "Processing_Time": "2025-08-10T07:40:13.859675"
         },
         {
             "category": "Football",
@@ -470,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104143"
+            "Processing_Time": "2025-08-10T07:40:13.859682"
         },
         {
             "category": "Football",
@@ -486,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104152"
+            "Processing_Time": "2025-08-10T07:40:13.859689"
         },
         {
             "category": "Cricket",
@@ -502,23 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104161"
-        },
-        {
-            "category": "Football",
-            "title": "Borussia Dortmund Women Vs Juventus Femminile",
-            "tournament": "Club Friendlies 2025",
-            "match_id": 132723,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "10 August 2025 04:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132723_CASACARDS_APP.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104171"
+            "Processing_Time": "2025-08-10T07:40:13.859698"
         },
         {
             "category": "Cricket",
@@ -534,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104180"
+            "Processing_Time": "2025-08-10T07:40:13.859707"
         },
         {
             "category": "Cricket",
@@ -550,7 +518,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104267"
+            "Processing_Time": "2025-08-10T07:40:13.859715"
+        },
+        {
+            "category": "Football",
+            "title": "Borussia Dortmund Women Vs Juventus Femminile",
+            "tournament": "Club Friendlies 2025",
+            "match_id": 132723,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "10 August 2025 04:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132723_CASACARDS_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859725"
         },
         {
             "category": "Cricket",
@@ -566,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104278"
+            "Processing_Time": "2025-08-10T07:40:13.859740"
         },
         {
             "category": "Cricket",
@@ -582,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104287"
+            "Processing_Time": "2025-08-10T07:40:13.859749"
         },
         {
             "category": "Cricket",
@@ -598,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104297"
+            "Processing_Time": "2025-08-10T07:40:13.859759"
         },
         {
             "category": "Cricket",
@@ -614,7 +598,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-10T07:35:06.104305"
+            "Processing_Time": "2025-08-10T07:40:13.859769"
+        },
+        {
+            "category": "Cricket",
+            "title": "Zagreb Warriors Vs Zagreb Sokol",
+            "tournament": "ECS Croatia, 2025",
+            "match_id": 133400,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "11 August 2025 12:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-10T07:40:13.859779"
         }
     ],
     "status": "active"
