@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "04:40:15 PM 12-08-2025",
+    "last_updated": "04:45:10 PM 12-08-2025",
     "total_matches": 39,
     "live_matches": 8,
-    "upcoming_matches": 31,
+    "upcoming_matches": 30,
     "matches": [
         {
             "category": "Cricket",
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/OPDMZMURSrSDBLIsPHJ49Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824372"
+            "Processing_Time": "2025-08-12T16:45:10.395175"
         },
         {
             "category": "Cricket",
@@ -38,14 +38,14 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/zy8oR0yiTCKo5v0OP4uzfA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824388"
+            "Processing_Time": "2025-08-12T16:45:10.395192"
         },
         {
             "category": "Cricket",
             "title": "Oval Invincibles Women Vs Birmingham Phoenix Women",
             "tournament": "The Hundred Women, 2025",
             "match_id": 132265,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "12 August 2025 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -54,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824399"
+            "Processing_Time": "2025-08-12T16:45:10.395201"
         },
         {
             "category": "Cricket",
@@ -70,23 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/G00TnKHqTPK3iiq9o2pVpw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824409"
-        },
-        {
-            "category": "Cricket",
-            "title": "Rijeka Markhors Vs Zagreb Warriors",
-            "tournament": "ECS Croatia, 2025",
-            "match_id": 133409,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "12 August 2025 08:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133409_english_hls_93230ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/IzVad40TTjmvNPJuYORa3w/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824419"
+            "Processing_Time": "2025-08-12T16:45:10.395210"
         },
         {
             "category": "Cricket",
@@ -102,7 +86,39 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/QPKG9ZUQQ2ywISEGjUDWtA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824431"
+            "Processing_Time": "2025-08-12T16:45:10.395221"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bader & Nie Cricket Club Vs Khan Zalmi Kings",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132152,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "12 August 2025 10:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132152_english_hls_47039ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/TB5wA0hhQDKT_cASeFxJYQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T16:45:10.395231"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bader & Nie Cricket Club Vs Khan Zalmi Kings",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132152,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "12 August 2025 10:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132152_english_hls_47039ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/R94h282SRdO1OTIOeOAG-A/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T16:45:10.395242"
         },
         {
             "category": "Basketball",
@@ -118,39 +134,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/jmX341qDSZOjms6O9mE6Lg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824441"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bader & Nie Cricket Club Vs Khan Zalmi Kings",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132152,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "12 August 2025 10:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132152_english_hls_47039ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/TB5wA0hhQDKT_cASeFxJYQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824450"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bader & Nie Cricket Club Vs Khan Zalmi Kings",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132152,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "12 August 2025 10:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132152_english_hls_47039ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/R94h282SRdO1OTIOeOAG-A/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824460"
+            "Processing_Time": "2025-08-12T16:45:10.395253"
         },
         {
             "category": "Cricket",
@@ -166,7 +150,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/I04DsKCeTFyOOpAeAa7NuA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824468"
+            "Processing_Time": "2025-08-12T16:45:10.395263"
         },
         {
             "category": "Cricket",
@@ -182,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824477"
+            "Processing_Time": "2025-08-12T16:45:10.395273"
         },
         {
             "category": "Cricket",
@@ -198,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824486"
+            "Processing_Time": "2025-08-12T16:45:10.395282"
         },
         {
             "category": "Cricket",
@@ -214,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824495"
+            "Processing_Time": "2025-08-12T16:45:10.395292"
         },
         {
             "category": "Cricket",
@@ -230,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824505"
+            "Processing_Time": "2025-08-12T16:45:10.395301"
         },
         {
             "category": "Cricket",
@@ -246,23 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824524"
-        },
-        {
-            "category": "Cricket",
-            "title": "Tally Rangers Vs Kuwait Swedish",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132153,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 12:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824535"
+            "Processing_Time": "2025-08-12T16:45:10.395310"
         },
         {
             "category": "Cricket",
@@ -278,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824545"
+            "Processing_Time": "2025-08-12T16:45:10.395318"
         },
         {
             "category": "Cricket",
@@ -294,7 +262,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824555"
+            "Processing_Time": "2025-08-12T16:45:10.395327"
+        },
+        {
+            "category": "Cricket",
+            "title": "Tally Rangers Vs Kuwait Swedish",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132153,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T16:45:10.395335"
         },
         {
             "category": "Football",
@@ -310,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824566"
+            "Processing_Time": "2025-08-12T16:45:10.395346"
         },
         {
             "category": "Football",
@@ -326,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824575"
+            "Processing_Time": "2025-08-12T16:45:10.395356"
         },
         {
             "category": "Football",
@@ -342,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824585"
+            "Processing_Time": "2025-08-12T16:45:10.395378"
         },
         {
             "category": "Football",
@@ -358,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824595"
+            "Processing_Time": "2025-08-12T16:45:10.395388"
         },
         {
             "category": "Cricket",
@@ -374,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824605"
+            "Processing_Time": "2025-08-12T16:45:10.395398"
         },
         {
             "category": "Cricket",
@@ -390,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824615"
+            "Processing_Time": "2025-08-12T16:45:10.395408"
         },
         {
             "category": "Cricket",
@@ -406,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824625"
+            "Processing_Time": "2025-08-12T16:45:10.395417"
         },
         {
             "category": "Cricket",
@@ -422,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824635"
+            "Processing_Time": "2025-08-12T16:45:10.395436"
         },
         {
             "category": "Cricket",
@@ -438,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824644"
+            "Processing_Time": "2025-08-12T16:45:10.395445"
         },
         {
             "category": "Cricket",
@@ -454,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824654"
+            "Processing_Time": "2025-08-12T16:45:10.395454"
         },
         {
             "category": "Cricket",
@@ -470,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824664"
+            "Processing_Time": "2025-08-12T16:45:10.395463"
         },
         {
             "category": "Cricket",
@@ -486,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824673"
+            "Processing_Time": "2025-08-12T16:45:10.395472"
         },
         {
             "category": "Cricket",
@@ -502,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824683"
+            "Processing_Time": "2025-08-12T16:45:10.395481"
         },
         {
             "category": "Cricket",
@@ -518,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824692"
+            "Processing_Time": "2025-08-12T16:45:10.395488"
         },
         {
             "category": "Cricket",
@@ -534,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824702"
+            "Processing_Time": "2025-08-12T16:45:10.395496"
         },
         {
             "category": "Basketball",
@@ -550,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824711"
+            "Processing_Time": "2025-08-12T16:45:10.395504"
         },
         {
             "category": "Cricket",
@@ -566,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824721"
+            "Processing_Time": "2025-08-12T16:45:10.395513"
         },
         {
             "category": "Cricket",
@@ -582,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824730"
+            "Processing_Time": "2025-08-12T16:45:10.395521"
         },
         {
             "category": "Cricket",
@@ -598,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824739"
+            "Processing_Time": "2025-08-12T16:45:10.395530"
         },
         {
             "category": "Cricket",
@@ -614,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824748"
+            "Processing_Time": "2025-08-12T16:45:10.395537"
         },
         {
             "category": "Basketball",
@@ -630,7 +614,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T16:40:15.824758"
+            "Processing_Time": "2025-08-12T16:45:10.395544"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ncm Investment Vs Bihar Cc",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132155,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T16:45:10.395552"
         }
     ],
     "status": "active"
