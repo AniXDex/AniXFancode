@@ -3,27 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:40:21 PM 12-08-2025",
+    "last_updated": "12:45:10 PM 12-08-2025",
     "total_matches": 39,
-    "live_matches": 9,
+    "live_matches": 8,
     "upcoming_matches": 30,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Central Delhi Kings Vs Outer Delhi Warriors",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132483,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "12 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132483_5521_ODW_CDK_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132483_english_hls_86094ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/TjcZ7TKGRnGdfLv1oHf0zA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216579"
-        },
         {
             "category": "Cricket",
             "title": "Hubli Tigers Vs Shivamogga Lions",
@@ -38,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/_J86IAxqSb-sREnH8-LwiQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216591"
+            "Processing_Time": "2025-08-12T12:45:10.618854"
         },
         {
             "category": "Cricket",
@@ -54,30 +38,14 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216597"
-        },
-        {
-            "category": "Basketball",
-            "title": "South Korea Vs Guam",
-            "tournament": "FIBA Asia Cup, 2025",
-            "match_id": 133254,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "12 August 2025 04:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Korea-vs-Guam-old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133254_english_hls_74157ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ML3nNk-hTRaPLHIFo1pnvg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216602"
+            "Processing_Time": "2025-08-12T12:45:10.618872"
         },
         {
             "category": "Cricket",
             "title": "Sir Oliver Split Vs Zagreb Sokol",
             "tournament": "ECS Croatia, 2025",
             "match_id": 133408,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "12 August 2025 06:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -86,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/lus7ChDKRpelNsrVhxuy-g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216607"
+            "Processing_Time": "2025-08-12T12:45:10.618882"
         },
         {
             "category": "Padel",
@@ -102,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/34cugJWbQIOqbUtnJMKblQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216612"
+            "Processing_Time": "2025-08-12T12:45:10.618891"
         },
         {
             "category": "Arm Wrestling",
@@ -118,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/9yGTkM_vTrachrQQXitDaQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216617"
+            "Processing_Time": "2025-08-12T12:45:10.618901"
         },
         {
             "category": "Arm Wrestling",
@@ -134,7 +102,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/6ffFU6jjRn2xFQD1sQXMEw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216622"
+            "Processing_Time": "2025-08-12T12:45:10.618910"
         },
         {
             "category": "Padel",
@@ -150,7 +118,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/T4pVFBVhRwWEA5llVk3eow/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216627"
+            "Processing_Time": "2025-08-12T12:45:10.618919"
+        },
+        {
+            "category": "Cricket",
+            "title": "Central Delhi Kings Vs Outer Delhi Warriors",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132483,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "12 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132483_5521_ODW_CDK_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132483_english_hls_86094ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/TjcZ7TKGRnGdfLv1oHf0zA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T12:45:10.618929"
         },
         {
             "category": "Cricket",
@@ -166,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216632"
+            "Processing_Time": "2025-08-12T12:45:10.618938"
         },
         {
             "category": "Cricket",
@@ -182,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216637"
+            "Processing_Time": "2025-08-12T12:45:10.618948"
         },
         {
             "category": "Cricket",
@@ -198,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216642"
+            "Processing_Time": "2025-08-12T12:45:10.618957"
         },
         {
             "category": "Cricket",
@@ -214,23 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216646"
-        },
-        {
-            "category": "Cricket",
-            "title": "Zagreb Warriors Vs Rijeka Markhors",
-            "tournament": "ECS Croatia, 2025",
-            "match_id": 133407,
-            "status": "LIVE",
-            "streamingStatus": "COMPLETED",
-            "startTime": "12 August 2025 04:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216651"
+            "Processing_Time": "2025-08-12T12:45:10.618967"
         },
         {
             "category": "Cricket",
@@ -246,7 +214,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216655"
+            "Processing_Time": "2025-08-12T12:45:10.618976"
+        },
+        {
+            "category": "Basketball",
+            "title": "South Korea Vs Guam",
+            "tournament": "FIBA Asia Cup, 2025",
+            "match_id": 133254,
+            "status": "LIVE",
+            "streamingStatus": "COMPLETED",
+            "startTime": "12 August 2025 04:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Korea-vs-Guam-old.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T12:45:10.618986"
         },
         {
             "category": "Cricket",
@@ -262,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216660"
+            "Processing_Time": "2025-08-12T12:45:10.618996"
         },
         {
             "category": "Cricket",
@@ -278,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216665"
+            "Processing_Time": "2025-08-12T12:45:10.619004"
         },
         {
             "category": "Cricket",
@@ -294,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216669"
+            "Processing_Time": "2025-08-12T12:45:10.619014"
         },
         {
             "category": "Cricket",
@@ -310,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216674"
+            "Processing_Time": "2025-08-12T12:45:10.619023"
         },
         {
             "category": "Cricket",
@@ -326,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216678"
+            "Processing_Time": "2025-08-12T12:45:10.619031"
         },
         {
             "category": "Cricket",
@@ -342,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216683"
+            "Processing_Time": "2025-08-12T12:45:10.619040"
         },
         {
             "category": "Cricket",
@@ -358,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216687"
+            "Processing_Time": "2025-08-12T12:45:10.619050"
         },
         {
             "category": "Cricket",
@@ -374,71 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216692"
-        },
-        {
-            "category": "Football",
-            "title": "Watford Vs Norwich City",
-            "tournament": "Carabao Cup 2025-2026",
-            "match_id": 131986,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 12:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131986_5488_WAT_NOR_1754991598359.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216697"
-        },
-        {
-            "category": "Football",
-            "title": "Wrexham Vs Hull City",
-            "tournament": "Carabao Cup 2025-2026",
-            "match_id": 131983,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 12:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131983_5488_WRX_HUL_1754991598398.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216701"
-        },
-        {
-            "category": "Football",
-            "title": "Salford City Vs Rotherham United",
-            "tournament": "Carabao Cup 2025-2026",
-            "match_id": 131981,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 12:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216706"
-        },
-        {
-            "category": "Football",
-            "title": "Bromley Vs Ipswich Town",
-            "tournament": "Carabao Cup 2025-2026",
-            "match_id": 131985,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131985_5488_BRO_IPT_1754991598326.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216711"
+            "Processing_Time": "2025-08-12T12:45:10.619059"
         },
         {
             "category": "Cricket",
@@ -454,7 +374,71 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216717"
+            "Processing_Time": "2025-08-12T12:45:10.619068"
+        },
+        {
+            "category": "Football",
+            "title": "Watford Vs Norwich City",
+            "tournament": "Carabao Cup 2025-2026",
+            "match_id": 131986,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131986_5488_WAT_NOR_1754991598359.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T12:45:10.619077"
+        },
+        {
+            "category": "Football",
+            "title": "Wrexham Vs Hull City",
+            "tournament": "Carabao Cup 2025-2026",
+            "match_id": 131983,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131983_5488_WRX_HUL_1754991598398.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T12:45:10.619085"
+        },
+        {
+            "category": "Football",
+            "title": "Salford City Vs Rotherham United",
+            "tournament": "Carabao Cup 2025-2026",
+            "match_id": 131981,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T12:45:10.619095"
+        },
+        {
+            "category": "Football",
+            "title": "Bromley Vs Ipswich Town",
+            "tournament": "Carabao Cup 2025-2026",
+            "match_id": 131985,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131985_5488_BRO_IPT_1754991598326.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T12:45:10.619105"
         },
         {
             "category": "Basketball",
@@ -470,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216724"
+            "Processing_Time": "2025-08-12T12:45:10.619114"
         },
         {
             "category": "Cricket",
@@ -486,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216732"
+            "Processing_Time": "2025-08-12T12:45:10.619122"
         },
         {
             "category": "Cricket",
@@ -502,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216739"
+            "Processing_Time": "2025-08-12T12:45:10.619131"
         },
         {
             "category": "Cricket",
@@ -518,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216748"
+            "Processing_Time": "2025-08-12T12:45:10.619141"
         },
         {
             "category": "Cricket",
@@ -534,23 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216753"
-        },
-        {
-            "category": "Cricket",
-            "title": "Zagreb Assassins Vs Rijeka Markhors",
-            "tournament": "ECS Croatia, 2025",
-            "match_id": 133411,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 02:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216757"
+            "Processing_Time": "2025-08-12T12:45:10.619150"
         },
         {
             "category": "Cricket",
@@ -566,7 +534,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216762"
+            "Processing_Time": "2025-08-12T12:45:10.619161"
+        },
+        {
+            "category": "Cricket",
+            "title": "Zagreb Assassins Vs Rijeka Markhors",
+            "tournament": "ECS Croatia, 2025",
+            "match_id": 133411,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 02:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T12:45:10.619170"
         },
         {
             "category": "Cricket",
@@ -582,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216767"
+            "Processing_Time": "2025-08-12T12:45:10.619180"
         },
         {
             "category": "Cricket",
@@ -598,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216771"
+            "Processing_Time": "2025-08-12T12:45:10.619189"
         },
         {
             "category": "Cricket",
@@ -614,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216780"
+            "Processing_Time": "2025-08-12T12:45:10.619198"
         },
         {
             "category": "Cricket",
@@ -630,7 +614,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-12T12:40:21.216788"
+            "Processing_Time": "2025-08-12T12:45:10.619206"
+        },
+        {
+            "category": "Cricket",
+            "title": "Mumbai Stars Vs Southern United",
+            "tournament": "LEGEN‑Z T10 League",
+            "match_id": 133547,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133365_5560_MUM_SU_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-12T12:45:10.619215"
         }
     ],
     "status": "active"
