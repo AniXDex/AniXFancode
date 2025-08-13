@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:25:05 AM 13-08-2025",
-    "total_matches": 38,
-    "live_matches": 6,
+    "last_updated": "11:30:32 AM 13-08-2025",
+    "total_matches": 39,
+    "live_matches": 7,
     "upcoming_matches": 32,
     "matches": [
         {
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/bplwGr44SCSRZuFZWozIFA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651867"
+            "Processing_Time": "2025-08-13T11:30:32.792951"
         },
         {
             "category": "Cricket",
@@ -38,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651885"
+            "Processing_Time": "2025-08-13T11:30:32.792964"
         },
         {
             "category": "Cricket",
@@ -54,23 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/IrGvE-YpTsWfxnqlSBSljA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651896"
-        },
-        {
-            "category": "Cricket",
-            "title": "Royal Challenger Delhi Vs Bengal Tigers",
-            "tournament": "LEGEN‑Z T10 League",
-            "match_id": 133546,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "13 August 2025 03:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133360_5560_RCD_BT_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133546_english_hls_59353ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/NRt86ekrTUaVSn2g7fHRDQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651906"
+            "Processing_Time": "2025-08-13T11:30:32.792970"
         },
         {
             "category": "Cricket",
@@ -86,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/oT7sEy5LQZuBWhp5mDFIOA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651916"
+            "Processing_Time": "2025-08-13T11:30:32.792976"
         },
         {
             "category": "Basketball",
@@ -102,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/lDFfSjWAQlmXjDY6S4AlUA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651927"
+            "Processing_Time": "2025-08-13T11:30:32.792982"
         },
         {
             "category": "Padel",
@@ -118,7 +102,39 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/kO2vPHx_Qh-8zdHqGCZokA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651937"
+            "Processing_Time": "2025-08-13T11:30:32.792988"
+        },
+        {
+            "category": "Arm Wrestling",
+            "title": "Day 9",
+            "tournament": "Pro Panja League Season 2 2025",
+            "match_id": 132198,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "13 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132198_english_hls_4314ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/i35qxW5IRZyNvpDPimnCTw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-13T11:30:32.792994"
+        },
+        {
+            "category": "Arm Wrestling",
+            "title": "Day 9",
+            "tournament": "Pro Panja League Season 2 2025",
+            "match_id": 132198,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "13 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132198_hindi_hls_66372ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/3Q7uYQtESKWnT1EZ4vj4Mw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-13T11:30:32.793000"
         },
         {
             "category": "Cricket",
@@ -134,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651947"
+            "Processing_Time": "2025-08-13T11:30:32.793006"
         },
         {
             "category": "Cricket",
@@ -150,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651957"
+            "Processing_Time": "2025-08-13T11:30:32.793012"
         },
         {
             "category": "Cricket",
@@ -166,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651968"
+            "Processing_Time": "2025-08-13T11:30:32.793018"
         },
         {
             "category": "Cricket",
@@ -182,23 +198,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651978"
+            "Processing_Time": "2025-08-13T11:30:32.793024"
         },
         {
             "category": "Cricket",
-            "title": "Mumbai Stars Vs Southern United",
+            "title": "Mumbai Stars Vs Rajasthan Raiders",
             "tournament": "LEGEN‑Z T10 League",
-            "match_id": 133547,
+            "match_id": 133555,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
             "startTime": "13 August 2025 05:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133365_5560_MUM_SU_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.651990"
+            "Processing_Time": "2025-08-13T11:30:32.793030"
         },
         {
             "category": "Cricket",
@@ -214,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652000"
+            "Processing_Time": "2025-08-13T11:30:32.793036"
         },
         {
             "category": "Cricket",
@@ -230,23 +246,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652010"
+            "Processing_Time": "2025-08-13T11:30:32.793042"
         },
         {
             "category": "Cricket",
-            "title": "Mp Spartan Vs Rajasthan Raiders",
+            "title": "Royal Challenger Delhi Vs Bengal Tigers",
             "tournament": "LEGEN‑Z T10 League",
-            "match_id": 133548,
+            "match_id": 133556,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
             "startTime": "13 August 2025 07:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133375_5560_MPS_RAJ_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652020"
+            "Processing_Time": "2025-08-13T11:30:32.793047"
         },
         {
             "category": "Cricket",
@@ -262,23 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652030"
-        },
-        {
-            "category": "Cricket",
-            "title": "Mumbai Stars Vs Royal Challenger Delhi",
-            "tournament": "LEGEN‑Z T10 League",
-            "match_id": 133549,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133363_5560_MUM_RCD_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652040"
+            "Processing_Time": "2025-08-13T11:30:32.793074"
         },
         {
             "category": "Cricket",
@@ -294,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652051"
+            "Processing_Time": "2025-08-13T11:30:32.793081"
         },
         {
             "category": "Cricket",
@@ -310,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652060"
+            "Processing_Time": "2025-08-13T11:30:32.793087"
         },
         {
             "category": "Football",
@@ -326,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652070"
+            "Processing_Time": "2025-08-13T11:30:32.793093"
         },
         {
             "category": "Football",
@@ -342,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652080"
+            "Processing_Time": "2025-08-13T11:30:32.793098"
         },
         {
             "category": "Cricket",
@@ -358,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652092"
+            "Processing_Time": "2025-08-13T11:30:32.793104"
         },
         {
             "category": "Cricket",
@@ -374,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652102"
+            "Processing_Time": "2025-08-13T11:30:32.793109"
         },
         {
             "category": "Basketball",
@@ -390,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652111"
+            "Processing_Time": "2025-08-13T11:30:32.793115"
         },
         {
             "category": "Cricket",
@@ -406,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652121"
+            "Processing_Time": "2025-08-13T11:30:32.793121"
         },
         {
             "category": "Cricket",
@@ -422,23 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652131"
-        },
-        {
-            "category": "Arm Wrestling",
-            "title": "Day 9",
-            "tournament": "Pro Panja League Season 2 2025",
-            "match_id": 132198,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652141"
+            "Processing_Time": "2025-08-13T11:30:32.793126"
         },
         {
             "category": "Cricket",
@@ -454,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652151"
+            "Processing_Time": "2025-08-13T11:30:32.793132"
         },
         {
             "category": "Cricket",
@@ -470,23 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652658"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bengal Tigers Vs Rajasthan Raiders",
-            "tournament": "LEGEN‑Z T10 League",
-            "match_id": 133550,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "14 August 2025 03:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133364_5560_BT_RAJ_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652676"
+            "Processing_Time": "2025-08-13T11:30:32.793137"
         },
         {
             "category": "Cricket",
@@ -502,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652686"
+            "Processing_Time": "2025-08-13T11:30:32.793143"
         },
         {
             "category": "Cricket",
@@ -518,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652697"
+            "Processing_Time": "2025-08-13T11:30:32.793148"
         },
         {
             "category": "Cricket",
@@ -534,23 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652707"
-        },
-        {
-            "category": "Cricket",
-            "title": "Mp Spartan Vs Mumbai Stars",
-            "tournament": "LEGEN‑Z T10 League",
-            "match_id": 133551,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "14 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133367_5560_MUM_MPS_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652718"
+            "Processing_Time": "2025-08-13T11:30:32.793153"
         },
         {
             "category": "Basketball",
@@ -566,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.652728"
+            "Processing_Time": "2025-08-13T11:30:32.793159"
         },
         {
             "category": "Cricket",
@@ -582,23 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.656204"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bengal Tigers Vs Southern United",
-            "tournament": "LEGEN‑Z T10 League",
-            "match_id": 133552,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "14 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133376_5560_SU_BT_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.656223"
+            "Processing_Time": "2025-08-13T11:30:32.793164"
         },
         {
             "category": "Padel",
@@ -614,7 +550,87 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-13T11:25:05.656232"
+            "Processing_Time": "2025-08-13T11:30:32.793170"
+        },
+        {
+            "category": "Baseball",
+            "title": "Kansas City Royals Vs Washington Nationals",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132856,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 11:40 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132856_CASACARDS_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-13T11:30:32.793176"
+        },
+        {
+            "category": "Baseball",
+            "title": "Cincinnati Reds Vs Philadelphia Phillies",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132857,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 August 2025 02:40 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132857_CASACARDS_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-13T11:30:32.793181"
+        },
+        {
+            "category": "Cricket",
+            "title": "London Spirit Vs Trent Rockets",
+            "tournament": "The Hundred, 2025",
+            "match_id": 132234,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132234_5505_LNS_TRT_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-13T11:30:32.793186"
+        },
+        {
+            "category": "Cricket",
+            "title": "Zagreb Assassins Vs Sir Oliver Split",
+            "tournament": "ECS Croatia, 2025",
+            "match_id": 133419,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 August 2025 08:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-13T11:30:32.793191"
+        },
+        {
+            "category": "Baseball",
+            "title": "Oakland Athletics Vs Tampa Bay Rays",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132858,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 August 2025 07:35 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132858_CASACARDS_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-13T11:30:32.793197"
         }
     ],
     "status": "active"
