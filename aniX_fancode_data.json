@@ -3,17 +3,17 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:45:09 PM 14-08-2025",
+    "last_updated": "01:50:16 PM 14-08-2025",
     "total_matches": 39,
-    "live_matches": 6,
-    "upcoming_matches": 32,
+    "live_matches": 9,
+    "upcoming_matches": 29,
     "matches": [
         {
             "category": "Cricket",
             "title": "Gulbarga Mystics Vs Bengaluru Blasters",
             "tournament": "Maharaja T20 Trophy, 2025",
             "match_id": 132792,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "14 August 2025 07:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/BIhOUdmvRKOtcFtPf9n7MA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.998945"
+            "Processing_Time": "2025-08-14T13:50:16.686804"
         },
         {
             "category": "Cricket",
@@ -38,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YBmfScApSyqdweOE47H8YA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.998963"
+            "Processing_Time": "2025-08-14T13:50:16.686822"
         },
         {
             "category": "Golf",
@@ -54,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/vSy5_v5USFGzAvQvSFhjgg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.998974"
+            "Processing_Time": "2025-08-14T13:50:16.686832"
         },
         {
             "category": "Arm Wrestling",
@@ -70,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/o62xI-GlQGKnIPHwBgM0ew/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.998985"
+            "Processing_Time": "2025-08-14T13:50:16.686842"
         },
         {
             "category": "Arm Wrestling",
@@ -86,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/TumUHUhLTHSuwXyzcL686g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.998995"
+            "Processing_Time": "2025-08-14T13:50:16.686851"
         },
         {
             "category": "Padel",
@@ -102,7 +102,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/SDihmd7cQD-e320ZV-qnIA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999006"
+            "Processing_Time": "2025-08-14T13:50:16.686861"
         },
         {
             "category": "Golf",
@@ -118,7 +118,39 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/GHYK-1QJTv-kWqlYvzCRzw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999017"
+            "Processing_Time": "2025-08-14T13:50:16.686871"
+        },
+        {
+            "category": "Golf",
+            "title": "Featured Group   Day 1",
+            "tournament": "BMW Championship 2025",
+            "match_id": 133263,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "14 August 2025 07:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133263_english_hls_69400ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/R6_nBdJwTSaNHeHGrdc_ZA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:50:16.686881"
+        },
+        {
+            "category": "Golf",
+            "title": "Featured Holes   Day 1",
+            "tournament": "BMW Championship 2025",
+            "match_id": 133262,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "14 August 2025 07:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133262_english_hls_18340ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/0HfBfJkvTNqYsFPqci_oPQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:50:16.686890"
         },
         {
             "category": "Cricket",
@@ -134,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999027"
+            "Processing_Time": "2025-08-14T13:50:16.686901"
         },
         {
             "category": "Cricket",
@@ -150,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999038"
+            "Processing_Time": "2025-08-14T13:50:16.686910"
         },
         {
             "category": "Cricket",
@@ -166,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999047"
+            "Processing_Time": "2025-08-14T13:50:16.686920"
         },
         {
             "category": "Cricket",
@@ -182,23 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999057"
-        },
-        {
-            "category": "Cricket",
-            "title": "Shivamogga Lions Vs Bengaluru Blasters",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132793,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2025 03:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132793_5530_SS_BB_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999067"
+            "Processing_Time": "2025-08-14T13:50:16.686930"
         },
         {
             "category": "Cricket",
@@ -214,7 +230,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999077"
+            "Processing_Time": "2025-08-14T13:50:16.686940"
+        },
+        {
+            "category": "Cricket",
+            "title": "Shivamogga Lions Vs Bengaluru Blasters",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132793,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "15 August 2025 03:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132793_5530_SS_BB_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:50:16.686950"
         },
         {
             "category": "Cricket",
@@ -230,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999087"
+            "Processing_Time": "2025-08-14T13:50:16.686960"
         },
         {
             "category": "Cricket",
@@ -246,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999097"
+            "Processing_Time": "2025-08-14T13:50:16.686970"
         },
         {
             "category": "Cricket",
@@ -262,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999107"
+            "Processing_Time": "2025-08-14T13:50:16.686981"
         },
         {
             "category": "Cricket",
@@ -278,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999116"
+            "Processing_Time": "2025-08-14T13:50:16.686992"
         },
         {
             "category": "Basketball",
@@ -294,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999126"
+            "Processing_Time": "2025-08-14T13:50:16.687002"
         },
         {
             "category": "Cricket",
@@ -310,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999137"
+            "Processing_Time": "2025-08-14T13:50:16.687013"
         },
         {
             "category": "Cricket",
@@ -326,39 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999146"
-        },
-        {
-            "category": "Cricket",
-            "title": "Royal Oman Stallions Vs Majees Titans",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133670,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2025 12:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/133670_CASACARDS_APP.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999156"
-        },
-        {
-            "category": "Cricket",
-            "title": "Norway Vs Hungary",
-            "tournament": "ECI Norway, 2025",
-            "match_id": 133864,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2025 12:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999166"
+            "Processing_Time": "2025-08-14T13:50:16.687022"
         },
         {
             "category": "Cricket",
@@ -374,7 +374,39 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999175"
+            "Processing_Time": "2025-08-14T13:50:16.687032"
+        },
+        {
+            "category": "Cricket",
+            "title": "Royal Oman Stallions Vs Majees Titans",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133670,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "15 August 2025 12:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/133670_CASACARDS_APP.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:50:16.687043"
+        },
+        {
+            "category": "Cricket",
+            "title": "Norway Vs Hungary",
+            "tournament": "ECI Norway, 2025",
+            "match_id": 133864,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "15 August 2025 12:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:50:16.687053"
         },
         {
             "category": "Cricket",
@@ -390,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:09.999185"
+            "Processing_Time": "2025-08-14T13:50:16.687064"
         },
         {
             "category": "Cricket",
@@ -406,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001836"
+            "Processing_Time": "2025-08-14T13:50:16.687072"
         },
         {
             "category": "Cricket",
@@ -422,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001863"
+            "Processing_Time": "2025-08-14T13:50:16.687083"
         },
         {
             "category": "Cricket",
@@ -438,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001875"
+            "Processing_Time": "2025-08-14T13:50:16.687093"
         },
         {
             "category": "Cricket",
@@ -454,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001885"
+            "Processing_Time": "2025-08-14T13:50:16.687103"
         },
         {
             "category": "Cricket",
@@ -470,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001896"
+            "Processing_Time": "2025-08-14T13:50:16.687112"
         },
         {
             "category": "Cricket",
@@ -486,39 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001907"
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Group   Day 1",
-            "tournament": "BMW Championship 2025",
-            "match_id": 133263,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "14 August 2025 07:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001917"
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Holes   Day 1",
-            "tournament": "BMW Championship 2025",
-            "match_id": 133262,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "14 August 2025 07:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001927"
+            "Processing_Time": "2025-08-14T13:50:16.687122"
         },
         {
             "category": "Golf",
@@ -534,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001937"
+            "Processing_Time": "2025-08-14T13:50:16.687132"
         },
         {
             "category": "Kabaddi",
@@ -550,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001947"
+            "Processing_Time": "2025-08-14T13:50:16.687142"
         },
         {
             "category": "Cricket",
@@ -566,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001957"
+            "Processing_Time": "2025-08-14T13:50:16.687152"
         },
         {
             "category": "Cricket",
@@ -582,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001968"
+            "Processing_Time": "2025-08-14T13:50:16.687163"
         },
         {
             "category": "Kabaddi",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001978"
+            "Processing_Time": "2025-08-14T13:50:16.687174"
         },
         {
             "category": "Cricket",
@@ -614,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.001988"
+            "Processing_Time": "2025-08-14T13:50:16.687183"
         },
         {
             "category": "Cricket",
@@ -630,7 +630,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:45:10.002021"
+            "Processing_Time": "2025-08-14T13:50:16.687193"
         }
     ],
     "status": "active"
