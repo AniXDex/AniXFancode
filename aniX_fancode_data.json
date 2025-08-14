@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "01:00:32 PM 14-08-2025",
+    "last_updated": "01:05:06 PM 14-08-2025",
     "total_matches": 39,
-    "live_matches": 9,
+    "live_matches": 7,
     "upcoming_matches": 30,
     "matches": [
         {
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/F1wAsCDoT_y84DL5sHvhww/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783159"
+            "Processing_Time": "2025-08-14T13:05:06.046475"
         },
         {
             "category": "Cricket",
@@ -38,23 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YBmfScApSyqdweOE47H8YA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783175"
-        },
-        {
-            "category": "Basketball",
-            "title": "China Vs South Korea",
-            "tournament": "FIBA Asia Cup, 2025",
-            "match_id": 133258,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "14 August 2025 04:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-South-Korea-old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133258_english_hls_4900ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/yuaOdXB6Sv62JvmK3vNKNQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783184"
+            "Processing_Time": "2025-08-14T13:05:06.046491"
         },
         {
             "category": "Golf",
@@ -70,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/vSy5_v5USFGzAvQvSFhjgg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783194"
+            "Processing_Time": "2025-08-14T13:05:06.046663"
         },
         {
             "category": "Arm Wrestling",
@@ -86,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/o62xI-GlQGKnIPHwBgM0ew/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783203"
+            "Processing_Time": "2025-08-14T13:05:06.046675"
         },
         {
             "category": "Arm Wrestling",
@@ -102,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/TumUHUhLTHSuwXyzcL686g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783212"
+            "Processing_Time": "2025-08-14T13:05:06.046685"
         },
         {
             "category": "Padel",
@@ -118,14 +102,30 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/SDihmd7cQD-e320ZV-qnIA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783221"
+            "Processing_Time": "2025-08-14T13:05:06.046694"
+        },
+        {
+            "category": "Golf",
+            "title": "Main Feed   Day 1",
+            "tournament": "BMW Championship 2025",
+            "match_id": 133260,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "14 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133260_english_hls_85748ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/GHYK-1QJTv-kWqlYvzCRzw/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:05:06.046702"
         },
         {
             "category": "Cricket",
             "title": "Mysore Warriors Vs Mangaluru Dragons",
             "tournament": "Maharaja T20 Trophy, 2025",
             "match_id": 132791,
-            "status": "LIVE",
+            "status": "ABANDONED",
             "streamingStatus": "COMPLETED",
             "startTime": "14 August 2025 03:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -134,7 +134,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783230"
+            "Processing_Time": "2025-08-14T13:05:06.046711"
         },
         {
             "category": "Cricket",
@@ -150,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783239"
+            "Processing_Time": "2025-08-14T13:05:06.046719"
         },
         {
             "category": "Cricket",
@@ -166,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783248"
+            "Processing_Time": "2025-08-14T13:05:06.046727"
         },
         {
             "category": "Cricket",
@@ -182,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783256"
+            "Processing_Time": "2025-08-14T13:05:06.046736"
         },
         {
             "category": "Cricket",
@@ -198,14 +198,14 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783268"
+            "Processing_Time": "2025-08-14T13:05:06.046744"
         },
         {
             "category": "Cricket",
             "title": "Rijeka Markhors Vs Sir Oliver Split",
             "tournament": "ECS Croatia, 2025",
             "match_id": 133417,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "COMPLETED",
             "startTime": "14 August 2025 04:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -214,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783277"
+            "Processing_Time": "2025-08-14T13:05:06.046753"
         },
         {
             "category": "Cricket",
@@ -230,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783285"
+            "Processing_Time": "2025-08-14T13:05:06.046763"
         },
         {
             "category": "Cricket",
@@ -246,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783294"
+            "Processing_Time": "2025-08-14T13:05:06.046772"
         },
         {
             "category": "Cricket",
@@ -262,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783302"
+            "Processing_Time": "2025-08-14T13:05:06.046780"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783311"
+            "Processing_Time": "2025-08-14T13:05:06.046789"
         },
         {
             "category": "Cricket",
@@ -294,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783320"
+            "Processing_Time": "2025-08-14T13:05:06.046798"
         },
         {
             "category": "Cricket",
@@ -310,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783329"
+            "Processing_Time": "2025-08-14T13:05:06.046807"
         },
         {
             "category": "Cricket",
@@ -326,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783337"
+            "Processing_Time": "2025-08-14T13:05:06.046817"
         },
         {
             "category": "Basketball",
@@ -342,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783346"
+            "Processing_Time": "2025-08-14T13:05:06.046826"
         },
         {
             "category": "Cricket",
@@ -358,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783354"
+            "Processing_Time": "2025-08-14T13:05:06.046835"
         },
         {
             "category": "Cricket",
@@ -374,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783363"
+            "Processing_Time": "2025-08-14T13:05:06.046845"
         },
         {
             "category": "Cricket",
@@ -390,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783371"
+            "Processing_Time": "2025-08-14T13:05:06.046853"
         },
         {
             "category": "Cricket",
@@ -406,23 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783380"
-        },
-        {
-            "category": "Cricket",
-            "title": "Simhadri Vizag Lions Vs Royals Of Rayalaseema",
-            "tournament": "Andhra Premier League, 2025",
-            "match_id": 132771,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2025 01:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132771_5529_SVL_ROR_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783388"
+            "Processing_Time": "2025-08-14T13:05:06.046863"
         },
         {
             "category": "Cricket",
@@ -438,23 +422,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783397"
+            "Processing_Time": "2025-08-14T13:05:06.046872"
         },
         {
             "category": "Cricket",
-            "title": "Northern Territory Strike Vs Nepal",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133503,
+            "title": "Simhadri Vizag Lions Vs Royals Of Rayalaseema",
+            "tournament": "Andhra Premier League, 2025",
+            "match_id": 132771,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2025 02:00 PM",
+            "startTime": "15 August 2025 01:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133503_5574_NTS_NEP_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132771_5529_SVL_ROR_fc-Web.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783405"
+            "Processing_Time": "2025-08-14T13:05:06.046882"
         },
         {
             "category": "Cricket",
@@ -470,7 +454,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783413"
+            "Processing_Time": "2025-08-14T13:05:06.046892"
+        },
+        {
+            "category": "Cricket",
+            "title": "Northern Territory Strike Vs Nepal",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133503,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "15 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133503_5574_NTS_NEP_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:05:06.046903"
         },
         {
             "category": "Cricket",
@@ -486,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783422"
+            "Processing_Time": "2025-08-14T13:05:06.046913"
         },
         {
             "category": "Cricket",
@@ -502,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783430"
+            "Processing_Time": "2025-08-14T13:05:06.046922"
         },
         {
             "category": "Cricket",
@@ -518,23 +518,39 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783438"
+            "Processing_Time": "2025-08-14T13:05:06.046930"
         },
         {
             "category": "Golf",
-            "title": "Main Feed   Day 1",
+            "title": "Featured Group   Day 1",
             "tournament": "BMW Championship 2025",
-            "match_id": 133260,
+            "match_id": 133263,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "14 August 2025 06:45 PM",
+            "startTime": "14 August 2025 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783446"
+            "Processing_Time": "2025-08-14T13:05:06.046938"
+        },
+        {
+            "category": "Golf",
+            "title": "Featured Holes   Day 1",
+            "tournament": "BMW Championship 2025",
+            "match_id": 133262,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 August 2025 07:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:05:06.047532"
         },
         {
             "category": "Kabaddi",
@@ -550,23 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783455"
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Krishna Defenders Vs Tirupati Raiders",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133702,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2025 11:45 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783463"
+            "Processing_Time": "2025-08-14T13:05:06.047550"
         },
         {
             "category": "Cricket",
@@ -582,7 +582,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783471"
+            "Processing_Time": "2025-08-14T13:05:06.047560"
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Krishna Defenders Vs Tirupati Raiders",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133702,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "15 August 2025 11:45 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship-2025,-2025_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-14T13:05:06.047570"
         },
         {
             "category": "Cricket",
@@ -598,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783479"
+            "Processing_Time": "2025-08-14T13:05:06.047579"
         },
         {
             "category": "Cricket",
@@ -614,23 +630,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783487"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bhimavaram Bulls Vs Tungabhadra Warriors",
-            "tournament": "Andhra Premier League, 2025",
-            "match_id": 132772,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132772_5529_BVB_TBW_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-14T13:00:32.783495"
+            "Processing_Time": "2025-08-14T13:05:06.047589"
         }
     ],
     "status": "active"
