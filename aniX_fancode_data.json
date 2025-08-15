@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "07:15:12 PM 15-08-2025",
+    "last_updated": "07:20:20 PM 15-08-2025",
     "total_matches": 38,
-    "live_matches": 10,
+    "live_matches": 12,
     "upcoming_matches": 25,
     "matches": [
         {
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275415"
+            "Processing_Time": "2025-08-15T19:20:20.109981"
         },
         {
             "category": "Cricket",
@@ -38,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/FZgrXbunRICa6PVJY6Y76g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275431"
+            "Processing_Time": "2025-08-15T19:20:20.109991"
         },
         {
             "category": "Cricket",
@@ -54,7 +54,39 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/nIJzwYliQ3K9BduxnD8huw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275442"
+            "Processing_Time": "2025-08-15T19:20:20.109997"
+        },
+        {
+            "category": "Football",
+            "title": "Villarreal Vs Real Oviedo",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130832,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-vs-Real-Oviedo_oldmatchcard.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130832_english_hls_7d6f5a5ce579078ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-15T19:20:20.110003"
+        },
+        {
+            "category": "Football",
+            "title": "Real Valladolid Vs Ceuta",
+            "tournament": "LALIGA Hypermotion 2025-26",
+            "match_id": 133478,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133478_5572_VLD_CEU_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133478_english_hls_2667770ddf8421adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-15T19:20:20.110008"
         },
         {
             "category": "Golf",
@@ -70,7 +102,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/9I3scuNvRN-mAnM89B3dXA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275453"
+            "Processing_Time": "2025-08-15T19:20:20.110014"
         },
         {
             "category": "Golf",
@@ -86,7 +118,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/8StgfRa2QxutNWdWJW5xAw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275463"
+            "Processing_Time": "2025-08-15T19:20:20.110019"
         },
         {
             "category": "Golf",
@@ -102,7 +134,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4qQOiBBLT96hbPdO5ZVv2A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275474"
+            "Processing_Time": "2025-08-15T19:20:20.110024"
         },
         {
             "category": "Golf",
@@ -118,7 +150,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/wBKxy_RZTnuhVuf0Fe2HEQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275483"
+            "Processing_Time": "2025-08-15T19:20:20.110030"
         },
         {
             "category": "Golf",
@@ -134,7 +166,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/tKoas_smS8CKdGN5cT1-RA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275494"
+            "Processing_Time": "2025-08-15T19:20:20.110035"
         },
         {
             "category": "Baseball",
@@ -150,7 +182,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275504"
+            "Processing_Time": "2025-08-15T19:20:20.110040"
         },
         {
             "category": "Golf",
@@ -166,39 +198,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/AkS3yX22QjKQIYgrIoG9Fw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275514"
-        },
-        {
-            "category": "Cricket",
-            "title": "Outer Delhi Warriors Vs South Delhi Superstarz",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132485,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "15 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132485_5521_ODW_SDS_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275524"
-        },
-        {
-            "category": "Football",
-            "title": "Sg Sonnenhof Großaspach Vs Bayer 04 Leverkusen",
-            "tournament": "DFB Pokal 2025-26",
-            "match_id": 133468,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "15 August 2025 09:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133468_5570_SON_LEV_Fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133468_english_hls_9113a9676a7828ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/HqwRz3kwSM6hxU9KBkZk2g/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275534"
+            "Processing_Time": "2025-08-15T19:20:20.110046"
         },
         {
             "category": "Football",
@@ -214,7 +214,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275544"
+            "Processing_Time": "2025-08-15T19:20:20.110051"
         },
         {
             "category": "Cricket",
@@ -230,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275554"
+            "Processing_Time": "2025-08-15T19:20:20.110056"
         },
         {
             "category": "Cricket",
@@ -246,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275563"
+            "Processing_Time": "2025-08-15T19:20:20.110061"
         },
         {
             "category": "Cricket",
@@ -262,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275573"
+            "Processing_Time": "2025-08-15T19:20:20.110066"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275583"
+            "Processing_Time": "2025-08-15T19:20:20.110071"
         },
         {
             "category": "Cricket",
@@ -294,23 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275593"
-        },
-        {
-            "category": "Football",
-            "title": "Villarreal Vs Real Oviedo",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130832,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-vs-Real-Oviedo_oldmatchcard.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275603"
+            "Processing_Time": "2025-08-15T19:20:20.110076"
         },
         {
             "category": "Cricket",
@@ -326,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275613"
+            "Processing_Time": "2025-08-15T19:20:20.110081"
         },
         {
             "category": "Cricket",
@@ -342,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275623"
+            "Processing_Time": "2025-08-15T19:20:20.110086"
         },
         {
             "category": "Cricket",
@@ -358,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275633"
+            "Processing_Time": "2025-08-15T19:20:20.110091"
         },
         {
             "category": "Cricket",
@@ -374,23 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275643"
-        },
-        {
-            "category": "Football",
-            "title": "Real Valladolid Vs Ceuta",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 133478,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133478_5572_VLD_CEU_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275653"
+            "Processing_Time": "2025-08-15T19:20:20.110095"
         },
         {
             "category": "Cricket",
@@ -406,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275711"
+            "Processing_Time": "2025-08-15T19:20:20.110100"
         },
         {
             "category": "Cricket",
@@ -422,23 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275724"
-        },
-        {
-            "category": "Cricket",
-            "title": "Melbourne Stars Academy Vs Hobart Hurricanes Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133505,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133505_5574_MSA_HHA_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275734"
+            "Processing_Time": "2025-08-15T19:20:20.110105"
         },
         {
             "category": "Cricket",
@@ -454,7 +406,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275744"
+            "Processing_Time": "2025-08-15T19:20:20.110110"
+        },
+        {
+            "category": "Cricket",
+            "title": "Melbourne Stars Academy Vs Hobart Hurricanes Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133505,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 10:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133505_5574_MSA_HHA_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-15T19:20:20.110116"
         },
         {
             "category": "Cricket",
@@ -470,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275755"
+            "Processing_Time": "2025-08-15T19:20:20.110121"
         },
         {
             "category": "Cricket",
@@ -486,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275765"
+            "Processing_Time": "2025-08-15T19:20:20.110126"
         },
         {
             "category": "Cricket",
@@ -502,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275775"
+            "Processing_Time": "2025-08-15T19:20:20.110130"
         },
         {
             "category": "Cricket",
@@ -518,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275785"
+            "Processing_Time": "2025-08-15T19:20:20.110135"
         },
         {
             "category": "Cricket",
@@ -534,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275794"
+            "Processing_Time": "2025-08-15T19:20:20.110140"
         },
         {
             "category": "Cricket",
@@ -550,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275805"
+            "Processing_Time": "2025-08-15T19:20:20.110144"
         },
         {
             "category": "Cricket",
@@ -566,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275815"
+            "Processing_Time": "2025-08-15T19:20:20.110149"
         },
         {
             "category": "Cricket",
@@ -582,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275826"
+            "Processing_Time": "2025-08-15T19:20:20.110154"
         },
         {
             "category": "Cricket",
@@ -598,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275835"
+            "Processing_Time": "2025-08-15T19:20:20.110159"
         },
         {
             "category": "Cricket",
@@ -614,7 +582,39 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T19:15:12.275844"
+            "Processing_Time": "2025-08-15T19:20:20.110163"
+        },
+        {
+            "category": "Cricket",
+            "title": "Jinx Zagreb Vs Lavender Lionesses",
+            "tournament": "ECS-W Croatia, 2025",
+            "match_id": 134049,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 05:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-15T19:20:20.110168"
+        },
+        {
+            "category": "Football",
+            "title": "Wrexham Vs West Bromwich Albion",
+            "tournament": "EFL Championship 2025-26",
+            "match_id": 131994,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-15T19:20:20.110173"
         }
     ],
     "status": "active"
