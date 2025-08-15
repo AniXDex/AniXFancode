@@ -3,42 +3,26 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "10:25:06 PM 15-08-2025",
+    "last_updated": "10:30:31 PM 15-08-2025",
     "total_matches": 38,
     "live_matches": 1,
     "upcoming_matches": 37,
     "matches": [
         {
-            "category": "Golf",
-            "title": "Main Feed   Day 2",
-            "tournament": "BMW Championship 2025",
-            "match_id": 133265,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "15 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133265_english_hls_474b15eaea48622ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/9I3scuNvRN-mAnM89B3dXA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214617"
-        },
-        {
             "category": "Cricket",
             "title": "St Kitts And Nevis Patriots Vs Guyana Amazon Warriors",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132347,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
             "startTime": "16 August 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/132347_5512_SKN_GUY_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/132347_english_hls_de90de2a0c72581ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/nVQ_CZUBR5eBMTbr8qrhTw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214634"
+            "Processing_Time": "2025-08-15T22:30:31.806532"
         },
         {
             "category": "Cricket",
@@ -54,7 +38,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214645"
+            "Processing_Time": "2025-08-15T22:30:31.806550"
         },
         {
             "category": "Cricket",
@@ -70,7 +54,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214656"
+            "Processing_Time": "2025-08-15T22:30:31.806561"
         },
         {
             "category": "Cricket",
@@ -86,7 +70,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214667"
+            "Processing_Time": "2025-08-15T22:30:31.806571"
         },
         {
             "category": "Cricket",
@@ -102,7 +86,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214678"
+            "Processing_Time": "2025-08-15T22:30:31.806581"
         },
         {
             "category": "Cricket",
@@ -118,7 +102,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214689"
+            "Processing_Time": "2025-08-15T22:30:31.806592"
         },
         {
             "category": "Cricket",
@@ -134,7 +118,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214699"
+            "Processing_Time": "2025-08-15T22:30:31.806601"
         },
         {
             "category": "Cricket",
@@ -150,7 +134,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214709"
+            "Processing_Time": "2025-08-15T22:30:31.806612"
         },
         {
             "category": "Cricket",
@@ -166,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214719"
+            "Processing_Time": "2025-08-15T22:30:31.806623"
         },
         {
             "category": "Cricket",
@@ -182,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214730"
+            "Processing_Time": "2025-08-15T22:30:31.806633"
         },
         {
             "category": "Cricket",
@@ -198,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214739"
+            "Processing_Time": "2025-08-15T22:30:31.806644"
         },
         {
             "category": "Cricket",
@@ -214,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214750"
+            "Processing_Time": "2025-08-15T22:30:31.806654"
         },
         {
             "category": "Cricket",
@@ -230,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214760"
+            "Processing_Time": "2025-08-15T22:30:31.806664"
         },
         {
             "category": "Cricket",
@@ -246,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214771"
+            "Processing_Time": "2025-08-15T22:30:31.806674"
         },
         {
             "category": "Cricket",
@@ -262,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214781"
+            "Processing_Time": "2025-08-15T22:30:31.806683"
         },
         {
             "category": "Cricket",
@@ -278,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214792"
+            "Processing_Time": "2025-08-15T22:30:31.806692"
         },
         {
             "category": "Cricket",
@@ -294,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214802"
+            "Processing_Time": "2025-08-15T22:30:31.806702"
         },
         {
             "category": "Cricket",
@@ -310,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214813"
+            "Processing_Time": "2025-08-15T22:30:31.806712"
         },
         {
             "category": "Cricket",
@@ -326,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214824"
+            "Processing_Time": "2025-08-15T22:30:31.806722"
         },
         {
             "category": "Cricket",
@@ -342,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214834"
+            "Processing_Time": "2025-08-15T22:30:31.806732"
         },
         {
             "category": "Cricket",
@@ -358,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214842"
+            "Processing_Time": "2025-08-15T22:30:31.806742"
         },
         {
             "category": "Cricket",
@@ -374,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214851"
+            "Processing_Time": "2025-08-15T22:30:31.806752"
         },
         {
             "category": "Cricket",
@@ -390,23 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214861"
-        },
-        {
-            "category": "Football",
-            "title": "Wrexham Vs West Bromwich Albion",
-            "tournament": "EFL Championship 2025-26",
-            "match_id": 131994,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214872"
+            "Processing_Time": "2025-08-15T22:30:31.806762"
         },
         {
             "category": "Cricket",
@@ -422,7 +390,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214880"
+            "Processing_Time": "2025-08-15T22:30:31.806771"
+        },
+        {
+            "category": "Football",
+            "title": "Wrexham Vs West Bromwich Albion",
+            "tournament": "EFL Championship 2025-26",
+            "match_id": 131994,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-15T22:30:31.806779"
         },
         {
             "category": "Cricket",
@@ -438,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214889"
+            "Processing_Time": "2025-08-15T22:30:31.806788"
         },
         {
             "category": "Cricket",
@@ -454,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214899"
+            "Processing_Time": "2025-08-15T22:30:31.806798"
         },
         {
             "category": "Football",
@@ -470,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214908"
+            "Processing_Time": "2025-08-15T22:30:31.806808"
         },
         {
             "category": "Cricket",
@@ -486,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214917"
+            "Processing_Time": "2025-08-15T22:30:31.806817"
         },
         {
             "category": "Cricket",
@@ -502,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214925"
+            "Processing_Time": "2025-08-15T22:30:31.806826"
         },
         {
             "category": "Football",
@@ -518,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214935"
+            "Processing_Time": "2025-08-15T22:30:31.806836"
         },
         {
             "category": "Cricket",
@@ -534,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214943"
+            "Processing_Time": "2025-08-15T22:30:31.806846"
         },
         {
             "category": "Basketball",
@@ -550,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214952"
+            "Processing_Time": "2025-08-15T22:30:31.806855"
         },
         {
             "category": "Cricket",
@@ -566,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214962"
+            "Processing_Time": "2025-08-15T22:30:31.806864"
         },
         {
             "category": "Cricket",
@@ -582,7 +566,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214971"
+            "Processing_Time": "2025-08-15T22:30:31.806872"
+        },
+        {
+            "category": "Football",
+            "title": "Mallorca Vs Barcelona",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130838,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MallorcaVSBarcelona_Old_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-15T22:30:31.806881"
         },
         {
             "category": "Kabaddi",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214979"
+            "Processing_Time": "2025-08-15T22:30:31.806891"
         },
         {
             "category": "Kabaddi",
@@ -614,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-15T22:25:06.214988"
+            "Processing_Time": "2025-08-15T22:30:31.806901"
         }
     ],
     "status": "active"
