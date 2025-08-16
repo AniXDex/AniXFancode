@@ -3,27 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:40:17 PM 16-08-2025",
+    "last_updated": "12:45:09 PM 16-08-2025",
     "total_matches": 39,
-    "live_matches": 14,
+    "live_matches": 13,
     "upcoming_matches": 25,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "New Delhi Tigers Vs West Delhi Lions",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132486,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132486_5521_WDL_NDT_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132486_english_hls_309225818c56845ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/fljzA0_0S1--inJBh-T3Dg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714589"
-        },
         {
             "category": "Cricket",
             "title": "Shivamogga Lions Vs Gulbarga Mystics",
@@ -38,23 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/bhDQJB6rRHON2MR9CYesig/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714605"
-        },
-        {
-            "category": "Cricket",
-            "title": "Trent Rockets Women Vs Southern Brave Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132270,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132270_5506_TRT-W_SOB-W_Fc-Web.jpg",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714615"
+            "Processing_Time": "2025-08-16T12:45:09.411203"
         },
         {
             "category": "Cricket",
@@ -70,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/s5v9SwrSTJ6Ug-oo1IXaMA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714652"
+            "Processing_Time": "2025-08-16T12:45:09.411222"
         },
         {
             "category": "Cricket",
@@ -86,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/L_VXqUjZSfa211_ph-zvNQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714662"
+            "Processing_Time": "2025-08-16T12:45:09.411233"
         },
         {
             "category": "Cricket",
@@ -102,7 +70,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ScY8_fzQRoeKXLomTqhoKQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714671"
+            "Processing_Time": "2025-08-16T12:45:09.411243"
+        },
+        {
+            "category": "Cricket",
+            "title": "Norway Vs Sweden",
+            "tournament": "ECI Norway, 2025",
+            "match_id": 133871,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 06:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133871_english_hls_c147ebb5fa6943ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/SRZhrVkwR2-Jy8ML0JkQhA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T12:45:09.411253"
         },
         {
             "category": "Football",
@@ -118,7 +102,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KqrAoPMOQ4C00eAqTYz7qg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714681"
+            "Processing_Time": "2025-08-16T12:45:09.411263"
         },
         {
             "category": "Basketball",
@@ -134,23 +118,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/kfuvs7HqRcmtFkHD8nOrTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714690"
-        },
-        {
-            "category": "Cricket",
-            "title": "Norway Vs Sweden",
-            "tournament": "ECI Norway, 2025",
-            "match_id": 133871,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 06:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133871_english_hls_c147ebb5fa6943ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/SRZhrVkwR2-Jy8ML0JkQhA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714699"
+            "Processing_Time": "2025-08-16T12:45:09.411273"
         },
         {
             "category": "Kabaddi",
@@ -166,7 +134,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/INt3SQo7SqOv9OcsGFx56Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714708"
+            "Processing_Time": "2025-08-16T12:45:09.411283"
         },
         {
             "category": "MotoGP",
@@ -182,7 +150,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/xC_KtwsARkqSyQ8eW6YKfg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714718"
+            "Processing_Time": "2025-08-16T12:45:09.411294"
         },
         {
             "category": "Golf",
@@ -198,7 +166,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/M93c_Z2-Qn-Lk6_38iha0A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714728"
+            "Processing_Time": "2025-08-16T12:45:09.411304"
         },
         {
             "category": "Arm Wrestling",
@@ -214,7 +182,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4xFfjojEQJu7LXEYS4y5ug/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714739"
+            "Processing_Time": "2025-08-16T12:45:09.411314"
         },
         {
             "category": "Arm Wrestling",
@@ -230,7 +198,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/B5bHWUxWQ9-uYbQ4hvlhTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714750"
+            "Processing_Time": "2025-08-16T12:45:09.411324"
         },
         {
             "category": "Padel",
@@ -246,7 +214,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/NQXP6fwSQEiD7z81K4mR0Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714759"
+            "Processing_Time": "2025-08-16T12:45:09.411333"
         },
         {
             "category": "Cricket",
@@ -262,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714767"
+            "Processing_Time": "2025-08-16T12:45:09.411344"
         },
         {
             "category": "Cricket",
@@ -278,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714780"
+            "Processing_Time": "2025-08-16T12:45:09.411355"
         },
         {
             "category": "Cricket",
@@ -294,7 +262,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714789"
+            "Processing_Time": "2025-08-16T12:45:09.411365"
+        },
+        {
+            "category": "Cricket",
+            "title": "Trent Rockets Women Vs Southern Brave Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132270,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "16 August 2025 03:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132270_5506_TRT-W_SOB-W_Fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T12:45:09.411375"
         },
         {
             "category": "Cricket",
@@ -310,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714798"
+            "Processing_Time": "2025-08-16T12:45:09.411386"
         },
         {
             "category": "Cricket",
@@ -326,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714806"
+            "Processing_Time": "2025-08-16T12:45:09.411399"
         },
         {
             "category": "Cricket",
@@ -342,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714816"
+            "Processing_Time": "2025-08-16T12:45:09.411410"
         },
         {
             "category": "Cricket",
@@ -358,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714826"
+            "Processing_Time": "2025-08-16T12:45:09.411421"
         },
         {
             "category": "Cricket",
@@ -374,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714836"
+            "Processing_Time": "2025-08-16T12:45:09.411431"
         },
         {
             "category": "Football",
@@ -390,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714847"
+            "Processing_Time": "2025-08-16T12:45:09.411441"
         },
         {
             "category": "Cricket",
@@ -406,55 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714860"
-        },
-        {
-            "category": "Cricket",
-            "title": "Jinx Zagreb W Vs Lavender Lionesses W",
-            "tournament": "ECS-W Croatia, 2025",
-            "match_id": 134050,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 07:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714871"
-        },
-        {
-            "category": "Cricket",
-            "title": "Hungary Vs Sweden",
-            "tournament": "ECI Norway, 2025",
-            "match_id": 133872,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 08:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714882"
-        },
-        {
-            "category": "Cricket",
-            "title": "Renaissance Challengers Vs Yalla Shabab Giants",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133675,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133675_5590_RNC_YSG_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714892"
+            "Processing_Time": "2025-08-16T12:45:09.411451"
         },
         {
             "category": "Cricket",
@@ -470,7 +406,55 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714903"
+            "Processing_Time": "2025-08-16T12:45:09.411460"
+        },
+        {
+            "category": "Cricket",
+            "title": "Jinx Zagreb W Vs Lavender Lionesses W",
+            "tournament": "ECS-W Croatia, 2025",
+            "match_id": 134050,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 07:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T12:45:09.411470"
+        },
+        {
+            "category": "Cricket",
+            "title": "Hungary Vs Sweden",
+            "tournament": "ECI Norway, 2025",
+            "match_id": 133872,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 08:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T12:45:09.411479"
+        },
+        {
+            "category": "Cricket",
+            "title": "Renaissance Challengers Vs Yalla Shabab Giants",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133675,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133675_5590_RNC_YSG_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T12:45:09.411489"
         },
         {
             "category": "Cricket",
@@ -486,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714913"
+            "Processing_Time": "2025-08-16T12:45:09.411498"
         },
         {
             "category": "Cricket",
@@ -502,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714923"
+            "Processing_Time": "2025-08-16T12:45:09.411508"
         },
         {
             "category": "Football",
@@ -518,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714933"
+            "Processing_Time": "2025-08-16T12:45:09.411517"
         },
         {
             "category": "Football",
@@ -534,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714942"
+            "Processing_Time": "2025-08-16T12:45:09.411526"
         },
         {
             "category": "Football",
@@ -550,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714952"
+            "Processing_Time": "2025-08-16T12:45:09.411536"
         },
         {
             "category": "Football",
@@ -566,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714962"
+            "Processing_Time": "2025-08-16T12:45:09.411546"
         },
         {
             "category": "Cricket",
@@ -582,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714972"
+            "Processing_Time": "2025-08-16T12:45:09.411556"
         },
         {
             "category": "Cricket",
@@ -598,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714982"
+            "Processing_Time": "2025-08-16T12:45:09.411565"
         },
         {
             "category": "Basketball",
@@ -614,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.714992"
+            "Processing_Time": "2025-08-16T12:45:09.411574"
         },
         {
             "category": "Cricket",
@@ -630,7 +614,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T12:40:17.715001"
+            "Processing_Time": "2025-08-16T12:45:09.411583"
+        },
+        {
+            "category": "Cricket",
+            "title": "Norway Vs Sweden",
+            "tournament": "ECN Norway T20I, 2025",
+            "match_id": 133873,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "17 August 2025 12:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T12:45:09.411593"
         }
     ],
     "status": "active"
