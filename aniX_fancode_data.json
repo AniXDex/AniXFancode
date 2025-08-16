@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:35:05 AM 16-08-2025",
+    "last_updated": "11:40:10 AM 16-08-2025",
     "total_matches": 39,
-    "live_matches": 16,
-    "upcoming_matches": 23,
+    "live_matches": 17,
+    "upcoming_matches": 21,
     "matches": [
         {
             "category": "Cricket",
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/fljzA0_0S1--inJBh-T3Dg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.991855"
+            "Processing_Time": "2025-08-16T11:40:10.585891"
         },
         {
             "category": "Cricket",
@@ -38,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/bhDQJB6rRHON2MR9CYesig/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.991951"
+            "Processing_Time": "2025-08-16T11:40:10.585908"
         },
         {
             "category": "Cricket",
@@ -54,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.991963"
+            "Processing_Time": "2025-08-16T11:40:10.585918"
         },
         {
             "category": "Cricket",
@@ -70,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/s5v9SwrSTJ6Ug-oo1IXaMA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.991974"
+            "Processing_Time": "2025-08-16T11:40:10.585928"
         },
         {
             "category": "Cricket",
@@ -86,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KY54_Rr7TpyPYLvqS8IXaQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.991986"
+            "Processing_Time": "2025-08-16T11:40:10.585939"
         },
         {
             "category": "Cricket",
@@ -102,7 +102,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/AMZ6XAjaT--yEBP4q3_R5g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.991998"
+            "Processing_Time": "2025-08-16T11:40:10.585949"
         },
         {
             "category": "Cricket",
@@ -118,7 +118,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/L_VXqUjZSfa211_ph-zvNQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992008"
+            "Processing_Time": "2025-08-16T11:40:10.585958"
+        },
+        {
+            "category": "Football",
+            "title": "Wrexham Vs West Bromwich Albion",
+            "tournament": "EFL Championship 2025-26",
+            "match_id": 131994,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131994_english_hls_445bd85cda2474ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/KqrAoPMOQ4C00eAqTYz7qg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T11:40:10.585967"
         },
         {
             "category": "Basketball",
@@ -134,23 +150,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/kfuvs7HqRcmtFkHD8nOrTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992019"
-        },
-        {
-            "category": "Football",
-            "title": "Wrexham Vs West Bromwich Albion",
-            "tournament": "EFL Championship 2025-26",
-            "match_id": 131994,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131994_english_hls_445bd85cda2474ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/KqrAoPMOQ4C00eAqTYz7qg/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992030"
+            "Processing_Time": "2025-08-16T11:40:10.585977"
         },
         {
             "category": "Football",
@@ -166,7 +166,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992041"
+            "Processing_Time": "2025-08-16T11:40:10.585986"
         },
         {
             "category": "Football",
@@ -182,23 +182,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992052"
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Kurnool Knights Vs Bhimavaram Guardians",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133708,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 03:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133708_5591_KKK_BG_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133708_english_hls_54a9bd5b636717ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/8QYMoBEvSsqGgDrZWJaUkA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992064"
+            "Processing_Time": "2025-08-16T11:40:10.585996"
         },
         {
             "category": "MotoGP",
@@ -214,7 +198,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/xC_KtwsARkqSyQ8eW6YKfg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992075"
+            "Processing_Time": "2025-08-16T11:40:10.586005"
         },
         {
             "category": "Golf",
@@ -230,7 +214,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/M93c_Z2-Qn-Lk6_38iha0A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992086"
+            "Processing_Time": "2025-08-16T11:40:10.586014"
         },
         {
             "category": "Arm Wrestling",
@@ -246,7 +230,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4xFfjojEQJu7LXEYS4y5ug/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992098"
+            "Processing_Time": "2025-08-16T11:40:10.586021"
         },
         {
             "category": "Arm Wrestling",
@@ -262,7 +246,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/B5bHWUxWQ9-uYbQ4hvlhTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992110"
+            "Processing_Time": "2025-08-16T11:40:10.586027"
         },
         {
             "category": "Padel",
@@ -278,7 +262,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/NQXP6fwSQEiD7z81K4mR0Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992121"
+            "Processing_Time": "2025-08-16T11:40:10.586032"
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Kurnool Knights Vs Bhimavaram Guardians",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133708,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "16 August 2025 03:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133708_5591_KKK_BG_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T11:40:10.586038"
         },
         {
             "category": "Cricket",
@@ -294,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992135"
+            "Processing_Time": "2025-08-16T11:40:10.586046"
         },
         {
             "category": "Cricket",
@@ -310,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992146"
+            "Processing_Time": "2025-08-16T11:40:10.586051"
         },
         {
             "category": "Cricket",
@@ -326,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992157"
+            "Processing_Time": "2025-08-16T11:40:10.586057"
         },
         {
             "category": "Cricket",
@@ -342,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992167"
+            "Processing_Time": "2025-08-16T11:40:10.586062"
         },
         {
             "category": "Cricket",
@@ -358,7 +358,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992177"
+            "Processing_Time": "2025-08-16T11:40:10.586067"
+        },
+        {
+            "category": "Cricket",
+            "title": "Australian Capital Territory Vs Hobart Hurricanes Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133500,
+            "status": "LIVE",
+            "streamingStatus": "COMPLETED",
+            "startTime": "15 August 2025 07:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133500_5574_ACT_HHA_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T11:40:10.586072"
         },
         {
             "category": "Cricket",
@@ -374,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992186"
+            "Processing_Time": "2025-08-16T11:40:10.586077"
         },
         {
             "category": "Cricket",
@@ -390,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992198"
+            "Processing_Time": "2025-08-16T11:40:10.586083"
         },
         {
             "category": "Cricket",
@@ -406,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992210"
+            "Processing_Time": "2025-08-16T11:40:10.586091"
         },
         {
             "category": "Kabaddi",
@@ -422,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992225"
+            "Processing_Time": "2025-08-16T11:40:10.586096"
         },
         {
             "category": "Cricket",
@@ -438,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992235"
+            "Processing_Time": "2025-08-16T11:40:10.586101"
         },
         {
             "category": "Cricket",
@@ -454,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992246"
+            "Processing_Time": "2025-08-16T11:40:10.586105"
         },
         {
             "category": "Cricket",
@@ -470,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992256"
+            "Processing_Time": "2025-08-16T11:40:10.586110"
         },
         {
             "category": "Cricket",
@@ -486,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992267"
+            "Processing_Time": "2025-08-16T11:40:10.586115"
         },
         {
             "category": "Cricket",
@@ -502,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992278"
+            "Processing_Time": "2025-08-16T11:40:10.586120"
         },
         {
             "category": "Cricket",
@@ -518,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992288"
+            "Processing_Time": "2025-08-16T11:40:10.586125"
         },
         {
             "category": "Cricket",
@@ -534,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992298"
+            "Processing_Time": "2025-08-16T11:40:10.586130"
         },
         {
             "category": "Football",
@@ -550,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992310"
+            "Processing_Time": "2025-08-16T11:40:10.586135"
         },
         {
             "category": "Football",
@@ -566,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992320"
+            "Processing_Time": "2025-08-16T11:40:10.586140"
         },
         {
             "category": "Football",
@@ -582,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992330"
+            "Processing_Time": "2025-08-16T11:40:10.586145"
         },
         {
             "category": "Football",
@@ -598,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992341"
+            "Processing_Time": "2025-08-16T11:40:10.586150"
         },
         {
             "category": "Football",
@@ -614,23 +630,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992351"
-        },
-        {
-            "category": "Cricket",
-            "title": "Mangaluru Dragons Vs Bengaluru Blasters",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132797,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "17 August 2025 03:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:35:05.992361"
+            "Processing_Time": "2025-08-16T11:40:10.586157"
         }
     ],
     "status": "active"
