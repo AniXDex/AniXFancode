@@ -3,9 +3,9 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:25:06 AM 16-08-2025",
-    "total_matches": 38,
-    "live_matches": 14,
+    "last_updated": "11:30:23 AM 16-08-2025",
+    "total_matches": 39,
+    "live_matches": 16,
     "upcoming_matches": 23,
     "matches": [
         {
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/fljzA0_0S1--inJBh-T3Dg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095907"
+            "Processing_Time": "2025-08-16T11:30:23.658023"
         },
         {
             "category": "Cricket",
@@ -38,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/bhDQJB6rRHON2MR9CYesig/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095923"
+            "Processing_Time": "2025-08-16T11:30:23.658042"
         },
         {
             "category": "Cricket",
@@ -54,23 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095932"
-        },
-        {
-            "category": "Cricket",
-            "title": "Simhadri Vizag Lions Vs Amaravathi Royals",
-            "tournament": "Andhra Premier League, 2025",
-            "match_id": 132773,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 01:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132773_5529_AMR_SVL_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132773_english_hls_a3a0396df956852ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/6S7oIYQURsO8PMk5dQ2r5A/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095941"
+            "Processing_Time": "2025-08-16T11:30:23.658052"
         },
         {
             "category": "Cricket",
@@ -86,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/s5v9SwrSTJ6Ug-oo1IXaMA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095950"
+            "Processing_Time": "2025-08-16T11:30:23.658064"
         },
         {
             "category": "Cricket",
@@ -102,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/KY54_Rr7TpyPYLvqS8IXaQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095958"
+            "Processing_Time": "2025-08-16T11:30:23.658075"
         },
         {
             "category": "Cricket",
@@ -118,7 +102,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/AMZ6XAjaT--yEBP4q3_R5g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095967"
+            "Processing_Time": "2025-08-16T11:30:23.658086"
+        },
+        {
+            "category": "Cricket",
+            "title": "Royal Oman Stallions Vs Ias Invincibles",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133674,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133674_5590_IAI_ROS_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133674_english_hls_6b17bd392236407ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/L_VXqUjZSfa211_ph-zvNQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T11:30:23.658096"
         },
         {
             "category": "Basketball",
@@ -134,7 +134,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/kfuvs7HqRcmtFkHD8nOrTQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095976"
+            "Processing_Time": "2025-08-16T11:30:23.658106"
+        },
+        {
+            "category": "Football",
+            "title": "Wrexham Vs West Bromwich Albion",
+            "tournament": "EFL Championship 2025-26",
+            "match_id": 131994,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131994_english_hls_445bd85cda2474ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/KqrAoPMOQ4C00eAqTYz7qg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T11:30:23.658116"
         },
         {
             "category": "Football",
@@ -150,7 +166,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095985"
+            "Processing_Time": "2025-08-16T11:30:23.658128"
         },
         {
             "category": "Football",
@@ -166,7 +182,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.095994"
+            "Processing_Time": "2025-08-16T11:30:23.658138"
         },
         {
             "category": "Kabaddi",
@@ -182,7 +198,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/8QYMoBEvSsqGgDrZWJaUkA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096002"
+            "Processing_Time": "2025-08-16T11:30:23.658149"
         },
         {
             "category": "MotoGP",
@@ -198,23 +214,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/xC_KtwsARkqSyQ8eW6YKfg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096011"
-        },
-        {
-            "category": "Padel",
-            "title": "Sg Pipers Cheetahs Vs Hubtown Panorama Panthers",
-            "tournament": "World Padel League - Season 3",
-            "match_id": 132938,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 03:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132938_5502_CH_PA_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132938_english_hls_daa1f9d5b617381ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/t9AopUORRfqAWJB2OuAiNQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096020"
+            "Processing_Time": "2025-08-16T11:30:23.658159"
         },
         {
             "category": "Golf",
@@ -230,23 +230,55 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/M93c_Z2-Qn-Lk6_38iha0A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096029"
+            "Processing_Time": "2025-08-16T11:30:23.658170"
         },
         {
-            "category": "Football",
-            "title": "Kashima Antlers Vs Avispa Fukuoka",
-            "tournament": "J League 2025",
-            "match_id": 132079,
-            "status": "COMPLETED",
+            "category": "Arm Wrestling",
+            "title": "Day 12",
+            "tournament": "Pro Panja League Season 2 2025",
+            "match_id": 132446,
+            "status": "LIVE",
             "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 02:33 PM",
+            "startTime": "16 August 2025 05:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132079_CASACARDS_APP.png",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132079_english_hls_64d7bbf7c291480ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132446_english_hls_0f683fdab137273ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/4xFfjojEQJu7LXEYS4y5ug/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096039"
+            "Processing_Time": "2025-08-16T11:30:23.658180"
+        },
+        {
+            "category": "Arm Wrestling",
+            "title": "Day 12",
+            "tournament": "Pro Panja League Season 2 2025",
+            "match_id": 132446,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132446_hindi_hls_90d41ac2c445337ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/B5bHWUxWQ9-uYbQ4hvlhTQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T11:30:23.658190"
+        },
+        {
+            "category": "Padel",
+            "title": "Gamechangers Lions Vs Vedanta Leopards",
+            "tournament": "World Padel League - Season 3",
+            "match_id": 132940,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132940_5502_LO_LEO_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132940_english_hls_5aefb48e2c73293ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/NQXP6fwSQEiD7z81K4mR0Q/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T11:30:23.658201"
         },
         {
             "category": "Cricket",
@@ -262,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096048"
+            "Processing_Time": "2025-08-16T11:30:23.658212"
         },
         {
             "category": "Cricket",
@@ -278,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096057"
+            "Processing_Time": "2025-08-16T11:30:23.658223"
         },
         {
             "category": "Cricket",
@@ -294,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096066"
+            "Processing_Time": "2025-08-16T11:30:23.658233"
         },
         {
             "category": "Cricket",
@@ -310,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096074"
+            "Processing_Time": "2025-08-16T11:30:23.658243"
         },
         {
             "category": "Cricket",
@@ -326,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096083"
+            "Processing_Time": "2025-08-16T11:30:23.658252"
         },
         {
             "category": "Cricket",
@@ -342,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096091"
+            "Processing_Time": "2025-08-16T11:30:23.658262"
         },
         {
             "category": "Cricket",
@@ -358,23 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096099"
-        },
-        {
-            "category": "Cricket",
-            "title": "Royal Oman Stallions Vs Ias Invincibles",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133674,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133674_5590_IAI_ROS_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096107"
+            "Processing_Time": "2025-08-16T11:30:23.658271"
         },
         {
             "category": "Cricket",
@@ -390,23 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096115"
-        },
-        {
-            "category": "Football",
-            "title": "Wrexham Vs West Bromwich Albion",
-            "tournament": "EFL Championship 2025-26",
-            "match_id": 131994,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096123"
+            "Processing_Time": "2025-08-16T11:30:23.658280"
         },
         {
             "category": "Kabaddi",
@@ -422,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096132"
+            "Processing_Time": "2025-08-16T11:30:23.658295"
         },
         {
             "category": "Cricket",
@@ -438,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096140"
+            "Processing_Time": "2025-08-16T11:30:23.658305"
         },
         {
             "category": "Cricket",
@@ -454,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096149"
+            "Processing_Time": "2025-08-16T11:30:23.658315"
         },
         {
             "category": "Cricket",
@@ -470,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096157"
+            "Processing_Time": "2025-08-16T11:30:23.658324"
         },
         {
             "category": "Cricket",
@@ -486,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096165"
+            "Processing_Time": "2025-08-16T11:30:23.658334"
         },
         {
             "category": "Cricket",
@@ -502,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096173"
+            "Processing_Time": "2025-08-16T11:30:23.658342"
         },
         {
             "category": "Cricket",
@@ -518,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096181"
+            "Processing_Time": "2025-08-16T11:30:23.658352"
         },
         {
             "category": "Cricket",
@@ -534,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096189"
+            "Processing_Time": "2025-08-16T11:30:23.658362"
         },
         {
             "category": "Football",
@@ -550,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096196"
+            "Processing_Time": "2025-08-16T11:30:23.658371"
         },
         {
             "category": "Football",
@@ -566,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096204"
+            "Processing_Time": "2025-08-16T11:30:23.658381"
         },
         {
             "category": "Football",
@@ -582,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096212"
+            "Processing_Time": "2025-08-16T11:30:23.658390"
         },
         {
             "category": "Football",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096220"
+            "Processing_Time": "2025-08-16T11:30:23.658398"
         },
         {
             "category": "Football",
@@ -614,7 +614,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-16T11:25:06.096228"
+            "Processing_Time": "2025-08-16T11:30:23.658406"
+        },
+        {
+            "category": "Cricket",
+            "title": "Mangaluru Dragons Vs Bengaluru Blasters",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132797,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "17 August 2025 03:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-16T11:30:23.658414"
         }
     ],
     "status": "active"
