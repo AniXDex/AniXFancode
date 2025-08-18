@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "12:05:06 PM 18-08-2025",
-    "total_matches": 38,
-    "live_matches": 5,
-    "upcoming_matches": 31,
+    "last_updated": "12:10:20 PM 18-08-2025",
+    "total_matches": 39,
+    "live_matches": 6,
+    "upcoming_matches": 32,
     "matches": [
         {
             "category": "Cricket",
@@ -22,78 +22,14 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4Tb0Q7-kR0eB4lBCcFlR2g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.047969"
-        },
-        {
-            "category": "Cricket",
-            "title": "Vijayawada Sunshiners Vs Tungabhadra Warriors",
-            "tournament": "Andhra Premier League, 2025",
-            "match_id": 132777,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "18 August 2025 01:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132777_5529_TBW_VSS_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132777_english_hls_22c179386b46968ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/-Qd4rEWIQ6eNUgRS35Q1tA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.047986"
-        },
-        {
-            "category": "Cricket",
-            "title": "East Delhi Riders Women Vs Central Delhi Queens",
-            "tournament": "Delhi Women's Premier League, 2025",
-            "match_id": 132972,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "18 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132972_5536_EDR-W_CDQ_fc_web_1755513540592.jpg",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/5e5R0zsyR_S_r50xslaeVA/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/5e5R0zsyR_S_r50xslaeVA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.047997"
-        },
-        {
-            "category": "Cricket",
-            "title": "Pakistan Shaheens Vs Melbourne Renegades Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133513,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "18 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133513_5574_MRA_PKS_fc-web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133513_english_hls_d96bef8bde78737ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/j850CYaISbqx0vcIEV5O0g/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048008"
-        },
-        {
-            "category": "Cricket",
-            "title": "Thcc Rot Gelb Hamburg Vs 1.kieler Htc",
-            "tournament": "ECS Germany, Kiel, 2025",
-            "match_id": 134127,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "18 August 2025 02:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134127_english_hls_ed3cf1386285683ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/wpucoIH4SmqUYufMKqsMrw/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048018"
+            "Processing_Time": "2025-08-18T12:10:20.786377"
         },
         {
             "category": "Cricket",
             "title": "Masroor Sports Club Vs Ksv Kings",
             "tournament": "ECS Germany, Kiel, 2025",
             "match_id": 134128,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "18 August 2025 04:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -102,23 +38,71 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/mrYiajhyQ_KYzTqR7lm1ig/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048029"
+            "Processing_Time": "2025-08-18T12:10:20.786389"
+        },
+        {
+            "category": "Cricket",
+            "title": "Yalla Shabab Giants Vs Majees Titans",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133678,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "18 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133678_5590_YSG_MAT_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133678_english_hls_d7fe5beb7322070ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/1CKNna_zQBKS4dCqMfosog/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786395"
         },
         {
             "category": "Kabaddi",
-            "title": "Tirupati Raiders Vs Vizag Commandos",
+            "title": "Vizianagaram Ninjas Vs Kakinada Kraken",
             "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133718,
+            "match_id": 133719,
             "status": "LIVE",
             "streamingStatus": "STARTED",
-            "startTime": "18 August 2025 03:45 PM",
+            "startTime": "18 August 2025 05:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133718_5591_TR_VC_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133718_english_hls_af101e63b653047ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/p2oxWYxoSK2L4B9XIH2XDA/master.m3u8",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133719_5591_VN_KK_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133719_english_hls_76ca8d0dab50877ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/l6WrZo6hTTizit7QoiHA7Q/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048038"
+            "Processing_Time": "2025-08-18T12:10:20.786401"
+        },
+        {
+            "category": "Arm Wrestling",
+            "title": "Day 14",
+            "tournament": "Pro Panja League Season 2 2025",
+            "match_id": 132448,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "18 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132448_english_hls_78556cb71c24587ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/apAMZYQsTTawvBQt2ChnvQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786406"
+        },
+        {
+            "category": "Arm Wrestling",
+            "title": "Day 14",
+            "tournament": "Pro Panja League Season 2 2025",
+            "match_id": 132448,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "18 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132448_hindi_hls_4385408dd388872ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/x6FKs6hNR5SCx4ITdeHspQ/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786411"
         },
         {
             "category": "Cricket",
@@ -134,7 +118,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048048"
+            "Processing_Time": "2025-08-18T12:10:20.786416"
         },
         {
             "category": "Cricket",
@@ -150,7 +134,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048058"
+            "Processing_Time": "2025-08-18T12:10:20.786421"
         },
         {
             "category": "Cricket",
@@ -166,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048069"
+            "Processing_Time": "2025-08-18T12:10:20.786427"
         },
         {
             "category": "Cricket",
@@ -182,39 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048079"
-        },
-        {
-            "category": "Cricket",
-            "title": "Yalla Shabab Giants Vs Majees Titans",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133678,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133678_5590_YSG_MAT_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048088"
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Vizianagaram Ninjas Vs Kakinada Kraken",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133719,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2025 05:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133719_5591_VN_KK_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048097"
+            "Processing_Time": "2025-08-18T12:10:20.786432"
         },
         {
             "category": "Cricket",
@@ -230,11 +182,11 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048106"
+            "Processing_Time": "2025-08-18T12:10:20.786448"
         },
         {
             "category": "Cricket",
-            "title": "1.kieler Htc Vs Mtv Stallions",
+            "title": "Mtv Stallions Vs 1.kieler Htc",
             "tournament": "ECS Germany, Kiel, 2025",
             "match_id": 134129,
             "status": "NOT_STARTED",
@@ -246,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048117"
+            "Processing_Time": "2025-08-18T12:10:20.786457"
         },
         {
             "category": "Cricket",
@@ -262,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048127"
+            "Processing_Time": "2025-08-18T12:10:20.786462"
         },
         {
             "category": "Cricket",
@@ -278,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048136"
+            "Processing_Time": "2025-08-18T12:10:20.786467"
         },
         {
             "category": "Cricket",
@@ -294,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048146"
+            "Processing_Time": "2025-08-18T12:10:20.786472"
         },
         {
             "category": "Cricket",
@@ -310,55 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048155"
-        },
-        {
-            "category": "Football",
-            "title": "Rot Weiss Essen Vs Borussia Dortmund",
-            "tournament": "DFB Pokal 2025-26",
-            "match_id": 133471,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "19 August 2025 12:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133471_5570_ESS_DOR_Fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048168"
-        },
-        {
-            "category": "Football",
-            "title": "Elche Vs Real Betis",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130839,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "19 August 2025 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Elche-vs-Real-Betis_Match_card_oldmatchcard_logoVSlogo.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048178"
-        },
-        {
-            "category": "Cricket",
-            "title": "Adelaide Strikers Academy Vs Perth Scorchers Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133514,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "19 August 2025 06:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048188"
+            "Processing_Time": "2025-08-18T12:10:20.786477"
         },
         {
             "category": "Cricket",
@@ -374,7 +278,55 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048197"
+            "Processing_Time": "2025-08-18T12:10:20.786483"
+        },
+        {
+            "category": "Football",
+            "title": "Rot Weiss Essen Vs Borussia Dortmund",
+            "tournament": "DFB Pokal 2025-26",
+            "match_id": 133471,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133471_5570_ESS_DOR_Fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786488"
+        },
+        {
+            "category": "Football",
+            "title": "Elche Vs Real Betis",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130839,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Elche-vs-Real-Betis_Match_card_oldmatchcard_logoVSlogo.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786493"
+        },
+        {
+            "category": "Cricket",
+            "title": "Adelaide Strikers Academy Vs Perth Scorchers Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133514,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 06:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786498"
         },
         {
             "category": "Cricket",
@@ -390,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048207"
+            "Processing_Time": "2025-08-18T12:10:20.786505"
         },
         {
             "category": "Cricket",
@@ -406,23 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048216"
-        },
-        {
-            "category": "Football",
-            "title": "Sporting De Gijón Vs Córdoba",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 133475,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2025 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133475_5572_SG_CDB_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048226"
+            "Processing_Time": "2025-08-18T12:10:20.786510"
         },
         {
             "category": "Cricket",
@@ -438,39 +374,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048236"
+            "Processing_Time": "2025-08-18T12:10:20.786516"
         },
         {
-            "category": "Cricket",
-            "title": "Saint Lucia Kings Vs Antigua & Barbuda Falcons",
-            "tournament": "Caribbean Premier League, 2025",
-            "match_id": 132350,
-            "status": "ABANDONED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "18 August 2025 04:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-&-Barbuda-Falcons-VS-Saint-Lucia-Kings_old.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048246"
-        },
-        {
-            "category": "Arm Wrestling",
-            "title": "Day 14",
-            "tournament": "Pro Panja League Season 2 2025",
-            "match_id": 132448,
+            "category": "Football",
+            "title": "Sporting De Gijón Vs Córdoba",
+            "tournament": "LALIGA Hypermotion 2025-26",
+            "match_id": 133475,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2025 05:00 PM",
+            "startTime": "18 August 2025 10:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133475_5572_SG_CDB_fc-Web.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048256"
+            "Processing_Time": "2025-08-18T12:10:20.786521"
         },
         {
             "category": "Cricket",
@@ -486,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048267"
+            "Processing_Time": "2025-08-18T12:10:20.786525"
         },
         {
             "category": "Cricket",
@@ -502,23 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048277"
-        },
-        {
-            "category": "Cricket",
-            "title": "Thcc Rot Gelb Hamburg Vs Ksv Kings",
-            "tournament": "ECS Germany, Kiel, 2025",
-            "match_id": 134132,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "19 August 2025 02:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048287"
+            "Processing_Time": "2025-08-18T12:10:20.786530"
         },
         {
             "category": "Cricket",
@@ -534,39 +438,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048297"
+            "Processing_Time": "2025-08-18T12:10:20.786535"
         },
         {
             "category": "Cricket",
-            "title": "Northern Territory Strike Vs Bangladesh A",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133535,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "19 August 2025 03:00 PM",
+            "title": "Saint Lucia Kings Vs Antigua & Barbuda Falcons",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132350,
+            "status": "ABANDONED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "18 August 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133535_5574_NTS_BN-A_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-&-Barbuda-Falcons-VS-Saint-Lucia-Kings_old.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048307"
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Bhimavaram Guardians Vs Kurnool Knights",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133720,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "19 August 2025 10:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133720_5591_BG_KKK_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048316"
+            "Processing_Time": "2025-08-18T12:10:20.786539"
         },
         {
             "category": "Cricket",
@@ -582,7 +470,39 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048326"
+            "Processing_Time": "2025-08-18T12:10:20.786544"
+        },
+        {
+            "category": "Cricket",
+            "title": "Thcc Rot Gelb Hamburg Vs Ksv Kings",
+            "tournament": "ECS Germany, Kiel, 2025",
+            "match_id": 134132,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 02:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786549"
+        },
+        {
+            "category": "Cricket",
+            "title": "Northern Territory Strike Vs Bangladesh A",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133535,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 03:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133535_5574_NTS_BN-A_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786554"
         },
         {
             "category": "Cricket",
@@ -598,7 +518,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048335"
+            "Processing_Time": "2025-08-18T12:10:20.786559"
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Bhimavaram Guardians Vs Kurnool Knights",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133720,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 10:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133720_5591_BG_KKK_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786563"
         },
         {
             "category": "Kabaddi",
@@ -614,7 +550,87 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-18T12:05:06.048344"
+            "Processing_Time": "2025-08-18T12:10:20.786568"
+        },
+        {
+            "category": "Cricket",
+            "title": "Mtv Stallions Vs Masroor Sports Club",
+            "tournament": "ECS Germany, Kiel, 2025",
+            "match_id": 134133,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 04:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786572"
+        },
+        {
+            "category": "Cricket",
+            "title": "Royal Oman Stallions Vs Renaissance Challengers",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133680,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133680_5590_ROS_RNC_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786577"
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Krishna Defenders Vs Vizag Commandos",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133722,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 01:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133722_5591_KD_VC_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786582"
+        },
+        {
+            "category": "Cricket",
+            "title": "Amaravathi Royals Vs Vijayawada Sunshiners",
+            "tournament": "Andhra Premier League, 2025",
+            "match_id": 132780,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132780_5529_AMR_VSS_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786586"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ksv Kings Vs 1.kieler Htc",
+            "tournament": "ECS Germany, Kiel, 2025",
+            "match_id": 134134,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "19 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-18T12:10:20.786591"
         }
     ],
     "status": "active"
