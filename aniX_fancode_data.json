@@ -3,10 +3,10 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "10:05:06 AM 22-08-2025",
+    "last_updated": "10:10:14 AM 22-08-2025",
     "total_matches": 40,
-    "live_matches": 12,
-    "upcoming_matches": 28,
+    "live_matches": 13,
+    "upcoming_matches": 27,
     "matches": [
         {
             "category": "Cricket",
@@ -22,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/eljZHfBdQEGUiDg6GCbrsA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676447"
+            "Processing_Time": "2025-08-22T10:10:14.784957"
         },
         {
             "category": "Cricket",
@@ -38,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ULeg3ZSaRTyvtB1HWaMxxw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676471"
+            "Processing_Time": "2025-08-22T10:10:14.784990"
         },
         {
             "category": "Cricket",
@@ -54,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/4wRO81utTKGLoWNRZdBmzg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676481"
+            "Processing_Time": "2025-08-22T10:10:14.785001"
         },
         {
             "category": "Cricket",
@@ -70,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/YT1eRyPIRV-D6ovmQxJt8w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676491"
+            "Processing_Time": "2025-08-22T10:10:14.785013"
         },
         {
             "category": "Cricket",
@@ -86,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/MY-FmVCFSt-wgRhRrpCt_A/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676502"
+            "Processing_Time": "2025-08-22T10:10:14.785029"
         },
         {
             "category": "Cricket",
@@ -102,7 +102,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/1pRKgMJUSuexntyPe1YvaA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676511"
+            "Processing_Time": "2025-08-22T10:10:14.785040"
         },
         {
             "category": "Cricket",
@@ -118,7 +118,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676522"
+            "Processing_Time": "2025-08-22T10:10:14.785052"
         },
         {
             "category": "Cricket",
@@ -134,14 +134,14 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/j3TqFo-4RZ-XdhwXBbDpTw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676532"
+            "Processing_Time": "2025-08-22T10:10:14.785065"
         },
         {
             "category": "Football",
             "title": "Kashiwa Reysol Vs Urawa Red Diamonds",
             "tournament": "J League 2025",
             "match_id": 132083,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -150,7 +150,23 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676541"
+            "Processing_Time": "2025-08-22T10:10:14.785077"
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Krishna Defenders Vs Kakinada Kraken",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133735,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "22 August 2025 03:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133735_5591_KD_KK_fc-Web.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133735_english_hls_3d24bbaa0955214ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/E0BXGrHxQq6lkZjuPxCPfg/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-22T10:10:14.785090"
         },
         {
             "category": "MotoGP",
@@ -166,7 +182,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/pqdjyAkASAy8BiO8U1188g/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676551"
+            "Processing_Time": "2025-08-22T10:10:14.785103"
         },
         {
             "category": "MotoGP",
@@ -182,7 +198,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/HWlubRkSSWyYpW4GssLmKA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676561"
+            "Processing_Time": "2025-08-22T10:10:14.785116"
         },
         {
             "category": "Motorsports",
@@ -198,7 +214,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676570"
+            "Processing_Time": "2025-08-22T10:10:14.785130"
         },
         {
             "category": "Cricket",
@@ -214,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676580"
+            "Processing_Time": "2025-08-22T10:10:14.785142"
         },
         {
             "category": "Cricket",
@@ -230,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676589"
+            "Processing_Time": "2025-08-22T10:10:14.785154"
         },
         {
             "category": "Cricket",
@@ -246,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676602"
+            "Processing_Time": "2025-08-22T10:10:14.785165"
         },
         {
             "category": "Cricket",
@@ -262,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676611"
+            "Processing_Time": "2025-08-22T10:10:14.785178"
         },
         {
             "category": "Cricket",
@@ -278,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676620"
+            "Processing_Time": "2025-08-22T10:10:14.785189"
         },
         {
             "category": "Cricket",
@@ -294,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676629"
+            "Processing_Time": "2025-08-22T10:10:14.785201"
         },
         {
             "category": "Cricket",
@@ -310,23 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676639"
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Krishna Defenders Vs Kakinada Kraken",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133735,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 03:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133735_5591_KD_KK_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676649"
+            "Processing_Time": "2025-08-22T10:10:14.785242"
         },
         {
             "category": "Cricket",
@@ -342,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676658"
+            "Processing_Time": "2025-08-22T10:10:14.785257"
         },
         {
             "category": "Cricket",
@@ -358,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676667"
+            "Processing_Time": "2025-08-22T10:10:14.785269"
         },
         {
             "category": "Cricket",
@@ -374,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676676"
+            "Processing_Time": "2025-08-22T10:10:14.785281"
         },
         {
             "category": "Football",
@@ -390,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676684"
+            "Processing_Time": "2025-08-22T10:10:14.785293"
         },
         {
             "category": "Football",
@@ -406,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676694"
+            "Processing_Time": "2025-08-22T10:10:14.785305"
         },
         {
             "category": "Cricket",
@@ -422,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676704"
+            "Processing_Time": "2025-08-22T10:10:14.785319"
         },
         {
             "category": "Cricket",
@@ -438,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676712"
+            "Processing_Time": "2025-08-22T10:10:14.785343"
         },
         {
             "category": "Cricket",
@@ -454,23 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676721"
-        },
-        {
-            "category": "Cricket",
-            "title": "Western Suburbs Vs University Of Queensland",
-            "tournament": "KFC T20 Max, 2025",
-            "match_id": 134881,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 08:45 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676732"
+            "Processing_Time": "2025-08-22T10:10:14.785356"
         },
         {
             "category": "Cricket",
@@ -486,7 +470,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676742"
+            "Processing_Time": "2025-08-22T10:10:14.785375"
+        },
+        {
+            "category": "Cricket",
+            "title": "Western Suburbs Vs University Of Queensland",
+            "tournament": "KFC T20 Max, 2025",
+            "match_id": 134881,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 08:45 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-22T10:10:14.785385"
         },
         {
             "category": "Cricket",
@@ -502,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676753"
+            "Processing_Time": "2025-08-22T10:10:14.785397"
         },
         {
             "category": "Cricket",
@@ -518,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676762"
+            "Processing_Time": "2025-08-22T10:10:14.785407"
         },
         {
             "category": "Kabaddi",
@@ -534,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676773"
+            "Processing_Time": "2025-08-22T10:10:14.785420"
         },
         {
             "category": "Football",
@@ -550,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676783"
+            "Processing_Time": "2025-08-22T10:10:14.785434"
         },
         {
             "category": "Cricket",
@@ -566,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676794"
+            "Processing_Time": "2025-08-22T10:10:14.785447"
         },
         {
             "category": "Cricket",
@@ -582,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676802"
+            "Processing_Time": "2025-08-22T10:10:14.785457"
         },
         {
             "category": "Cricket",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676812"
+            "Processing_Time": "2025-08-22T10:10:14.785467"
         },
         {
             "category": "Kabaddi",
@@ -614,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676824"
+            "Processing_Time": "2025-08-22T10:10:14.785477"
         },
         {
             "category": "Cricket",
@@ -630,23 +630,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676833"
+            "Processing_Time": "2025-08-22T10:10:14.785485"
         },
         {
-            "category": "Kabaddi",
-            "title": "Vizag Commandos Vs Kakinada Kraken",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133738,
+            "category": "Cricket",
+            "title": "London Spirit Women Vs Southern Brave Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132281,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 11:45 AM",
+            "startTime": "23 August 2025 07:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133738_5591_VC_KK_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132281_5506_LNS-W_SOB-W_Fc-Web.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-22T10:05:06.676844"
+            "Processing_Time": "2025-08-22T10:10:14.785494"
         }
     ],
     "status": "active"
