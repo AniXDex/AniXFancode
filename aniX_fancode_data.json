@@ -3,59 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "09:45:11 PM 23-08-2025",
+    "last_updated": "09:50:22 PM 23-08-2025",
     "total_matches": 40,
-    "live_matches": 10,
-    "upcoming_matches": 29,
+    "live_matches": 7,
+    "upcoming_matches": 30,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Levante Vs Barcelona",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130847,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169545"
-        },
-        {
-            "category": "Football",
-            "title": "Levante Vs Barcelona",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130847,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_hindi_hls_c56d4cf28722320ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169557"
-        },
-        {
-            "category": "Football",
-            "title": "Levante Vs Barcelona",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130847,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_bengali_hls_c628b4232a99103ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169563"
-        },
         {
             "category": "Golf",
             "title": "Main Feed   Day 3",
@@ -70,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/NOFUb8GwTV6f8KIeGpEcvg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169570"
+            "Processing_Time": "2025-08-23T21:50:22.455075"
         },
         {
             "category": "Golf",
@@ -86,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/jv7SikArQ3Wj0vyVmF0Jew/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169576"
+            "Processing_Time": "2025-08-23T21:50:22.455084"
         },
         {
             "category": "Golf",
@@ -102,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ER4Gnvy-SgK-huF4cDaitw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169582"
+            "Processing_Time": "2025-08-23T21:50:22.455090"
         },
         {
             "category": "Golf",
@@ -118,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/IBlDBokjSJiaxc82e6EXlg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169587"
+            "Processing_Time": "2025-08-23T21:50:22.455095"
         },
         {
             "category": "Golf",
@@ -134,7 +86,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/zGXUcOs5QOefQRDksaa1Sw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169593"
+            "Processing_Time": "2025-08-23T21:50:22.455101"
         },
         {
             "category": "Baseball",
@@ -150,23 +102,55 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169599"
+            "Processing_Time": "2025-08-23T21:50:22.455106"
         },
         {
             "category": "Football",
-            "title": "Real Zaragoza Vs Fc Andorra",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 134944,
+            "title": "Levante Vs Barcelona",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130847,
             "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "24 August 2025 01:00 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169605"
+            "Processing_Time": "2025-08-23T21:50:22.455111"
+        },
+        {
+            "category": "Football",
+            "title": "Levante Vs Barcelona",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130847,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_hindi_hls_c56d4cf28722320ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-23T21:50:22.455117"
+        },
+        {
+            "category": "Football",
+            "title": "Levante Vs Barcelona",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130847,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_bengali_hls_c628b4232a99103ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-23T21:50:22.455122"
         },
         {
             "category": "Cricket",
@@ -182,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169615"
+            "Processing_Time": "2025-08-23T21:50:22.455127"
         },
         {
             "category": "Cricket",
@@ -198,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169624"
+            "Processing_Time": "2025-08-23T21:50:22.455132"
         },
         {
             "category": "Cricket",
@@ -214,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169630"
+            "Processing_Time": "2025-08-23T21:50:22.455137"
         },
         {
             "category": "Cricket",
@@ -230,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169635"
+            "Processing_Time": "2025-08-23T21:50:22.455142"
         },
         {
             "category": "Cricket",
@@ -246,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169641"
+            "Processing_Time": "2025-08-23T21:50:22.455146"
         },
         {
             "category": "Cricket",
@@ -262,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169647"
+            "Processing_Time": "2025-08-23T21:50:22.455151"
         },
         {
             "category": "Cricket",
@@ -278,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169653"
+            "Processing_Time": "2025-08-23T21:50:22.455156"
         },
         {
             "category": "Cricket",
@@ -294,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169659"
+            "Processing_Time": "2025-08-23T21:50:22.455161"
         },
         {
             "category": "Cricket",
@@ -310,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169665"
+            "Processing_Time": "2025-08-23T21:50:22.455166"
         },
         {
             "category": "Cricket",
@@ -326,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169670"
+            "Processing_Time": "2025-08-23T21:50:22.455170"
         },
         {
             "category": "Cricket",
@@ -342,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169676"
+            "Processing_Time": "2025-08-23T21:50:22.455175"
         },
         {
             "category": "Cricket",
@@ -358,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169681"
+            "Processing_Time": "2025-08-23T21:50:22.455180"
         },
         {
             "category": "Cricket",
@@ -374,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169686"
+            "Processing_Time": "2025-08-23T21:50:22.455184"
         },
         {
             "category": "Cricket",
@@ -390,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169693"
+            "Processing_Time": "2025-08-23T21:50:22.455189"
         },
         {
             "category": "Cricket",
@@ -406,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169702"
+            "Processing_Time": "2025-08-23T21:50:22.455193"
         },
         {
             "category": "Cricket",
@@ -422,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169710"
+            "Processing_Time": "2025-08-23T21:50:22.455198"
         },
         {
             "category": "Cricket",
@@ -438,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169715"
+            "Processing_Time": "2025-08-23T21:50:22.455202"
         },
         {
             "category": "Cricket",
@@ -454,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169721"
+            "Processing_Time": "2025-08-23T21:50:22.455207"
         },
         {
             "category": "Cricket",
@@ -470,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169726"
+            "Processing_Time": "2025-08-23T21:50:22.455212"
         },
         {
             "category": "Cricket",
@@ -486,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169732"
+            "Processing_Time": "2025-08-23T21:50:22.455216"
         },
         {
             "category": "Cricket",
@@ -502,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169737"
+            "Processing_Time": "2025-08-23T21:50:22.455221"
         },
         {
             "category": "Cricket",
@@ -518,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169743"
+            "Processing_Time": "2025-08-23T21:50:22.455225"
         },
         {
             "category": "Cricket",
@@ -534,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169748"
+            "Processing_Time": "2025-08-23T21:50:22.455230"
         },
         {
             "category": "Cricket",
@@ -550,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169753"
+            "Processing_Time": "2025-08-23T21:50:22.455236"
         },
         {
             "category": "Cricket",
@@ -566,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169758"
+            "Processing_Time": "2025-08-23T21:50:22.455241"
         },
         {
             "category": "Football",
@@ -582,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169764"
+            "Processing_Time": "2025-08-23T21:50:22.455245"
         },
         {
             "category": "Cricket",
@@ -598,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169769"
+            "Processing_Time": "2025-08-23T21:50:22.455250"
         },
         {
             "category": "Kabaddi",
@@ -614,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169774"
+            "Processing_Time": "2025-08-23T21:50:22.455254"
         },
         {
             "category": "Kabaddi",
@@ -630,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169780"
+            "Processing_Time": "2025-08-23T21:50:22.455259"
         },
         {
             "category": "Football",
@@ -646,7 +630,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-23T21:45:11.169785"
+            "Processing_Time": "2025-08-23T21:50:22.455264"
+        },
+        {
+            "category": "Football",
+            "title": "Villarreal Vs Girona",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130841,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "24 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-23T21:50:22.455270"
         }
     ],
     "status": "active"
