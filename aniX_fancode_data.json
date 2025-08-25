@@ -3,27 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "08:20:19 PM 25-08-2025",
+    "last_updated": "08:25:05 PM 25-08-2025",
     "total_matches": 38,
     "live_matches": 3,
     "upcoming_matches": 26,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "London Spirit Vs Oval Invincibles",
-            "tournament": "The Hundred, 2025",
-            "match_id": 135842,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "25 August 2025 11:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073562"
-        },
         {
             "category": "Cricket",
             "title": "Gulf Giants Development Vs Dubai Capitals Development",
@@ -38,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/gH1KaI2cTHqKstiFQWDpng/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073581"
+            "Processing_Time": "2025-08-25T20:25:05.936429"
         },
         {
             "category": "Football",
@@ -54,7 +38,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073591"
+            "Processing_Time": "2025-08-25T20:25:05.936450"
         },
         {
             "category": "Football",
@@ -70,7 +54,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ZYEsxohRQ92seVMPLgl3GQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073602"
+            "Processing_Time": "2025-08-25T20:25:05.936462"
+        },
+        {
+            "category": "Cricket",
+            "title": "London Spirit Vs Oval Invincibles",
+            "tournament": "The Hundred, 2025",
+            "match_id": 135842,
+            "status": "LIVE",
+            "streamingStatus": "COMPLETED",
+            "startTime": "25 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-25T20:25:05.936474"
         },
         {
             "category": "Cricket",
@@ -86,7 +86,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073612"
+            "Processing_Time": "2025-08-25T20:25:05.936485"
         },
         {
             "category": "Cricket",
@@ -102,7 +102,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073625"
+            "Processing_Time": "2025-08-25T20:25:05.936497"
         },
         {
             "category": "Cricket",
@@ -118,7 +118,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073636"
+            "Processing_Time": "2025-08-25T20:25:05.936509"
         },
         {
             "category": "Cricket",
@@ -134,7 +134,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073646"
+            "Processing_Time": "2025-08-25T20:25:05.936521"
         },
         {
             "category": "Cricket",
@@ -150,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073656"
+            "Processing_Time": "2025-08-25T20:25:05.936532"
         },
         {
             "category": "Cricket",
@@ -166,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073666"
+            "Processing_Time": "2025-08-25T20:25:05.936542"
         },
         {
             "category": "Cricket",
@@ -182,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073676"
+            "Processing_Time": "2025-08-25T20:25:05.936552"
         },
         {
             "category": "Cricket",
@@ -198,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073687"
+            "Processing_Time": "2025-08-25T20:25:05.936561"
         },
         {
             "category": "Cricket",
@@ -214,7 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073697"
+            "Processing_Time": "2025-08-25T20:25:05.936572"
         },
         {
             "category": "Cricket",
@@ -230,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073707"
+            "Processing_Time": "2025-08-25T20:25:05.936582"
         },
         {
             "category": "Cricket",
@@ -246,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073717"
+            "Processing_Time": "2025-08-25T20:25:05.936593"
         },
         {
             "category": "Cricket",
@@ -262,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073727"
+            "Processing_Time": "2025-08-25T20:25:05.936604"
         },
         {
             "category": "Cricket",
@@ -278,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073737"
+            "Processing_Time": "2025-08-25T20:25:05.936615"
         },
         {
             "category": "Cricket",
@@ -294,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073747"
+            "Processing_Time": "2025-08-25T20:25:05.936625"
         },
         {
             "category": "Cricket",
@@ -310,39 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073757"
-        },
-        {
-            "category": "Cricket",
-            "title": "Saint Lucia Kings Vs Barbados Royals",
-            "tournament": "Caribbean Premier League, 2025",
-            "match_id": 132357,
-            "status": "ABANDONED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "25 August 2025 04:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073767"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Delhi Lions Vs South Delhi Superstarz",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132497,
-            "status": "ABANDONED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "25 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073776"
+            "Processing_Time": "2025-08-25T20:25:05.936636"
         },
         {
             "category": "Cricket",
@@ -358,7 +326,39 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073787"
+            "Processing_Time": "2025-08-25T20:25:05.936647"
+        },
+        {
+            "category": "Cricket",
+            "title": "Saint Lucia Kings Vs Barbados Royals",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132357,
+            "status": "ABANDONED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "25 August 2025 04:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-25T20:25:05.936658"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Delhi Lions Vs South Delhi Superstarz",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132497,
+            "status": "ABANDONED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "25 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-25T20:25:05.936669"
         },
         {
             "category": "Cricket",
@@ -374,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073796"
+            "Processing_Time": "2025-08-25T20:25:05.936679"
         },
         {
             "category": "Football",
@@ -390,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073808"
+            "Processing_Time": "2025-08-25T20:25:05.936690"
         },
         {
             "category": "Football",
@@ -406,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.073817"
+            "Processing_Time": "2025-08-25T20:25:05.936700"
         },
         {
             "category": "Football",
@@ -422,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074515"
+            "Processing_Time": "2025-08-25T20:25:05.936710"
         },
         {
             "category": "Football",
@@ -438,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074529"
+            "Processing_Time": "2025-08-25T20:25:05.936720"
         },
         {
             "category": "Football",
@@ -454,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074539"
+            "Processing_Time": "2025-08-25T20:25:05.936730"
         },
         {
             "category": "Cricket",
@@ -470,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074549"
+            "Processing_Time": "2025-08-25T20:25:05.936739"
         },
         {
             "category": "Football",
@@ -486,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074558"
+            "Processing_Time": "2025-08-25T20:25:05.936749"
         },
         {
             "category": "Baseball",
@@ -502,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074568"
+            "Processing_Time": "2025-08-25T20:25:05.936759"
         },
         {
             "category": "Cricket",
@@ -518,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074578"
+            "Processing_Time": "2025-08-25T20:25:05.936769"
         },
         {
             "category": "Cricket",
@@ -534,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074587"
+            "Processing_Time": "2025-08-25T20:25:05.936779"
         },
         {
             "category": "Cricket",
@@ -550,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074597"
+            "Processing_Time": "2025-08-25T20:25:05.936789"
         },
         {
             "category": "Cricket",
@@ -566,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074607"
+            "Processing_Time": "2025-08-25T20:25:05.936799"
         },
         {
             "category": "Cricket",
@@ -582,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074617"
+            "Processing_Time": "2025-08-25T20:25:05.936809"
         },
         {
             "category": "Cricket",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074627"
+            "Processing_Time": "2025-08-25T20:25:05.936819"
         },
         {
             "category": "Cricket",
@@ -614,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T20:20:19.074636"
+            "Processing_Time": "2025-08-25T20:25:05.936829"
         }
     ],
     "status": "active"
