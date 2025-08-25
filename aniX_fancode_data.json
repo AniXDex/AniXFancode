@@ -3,43 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "05:25:06 PM 25-08-2025",
+    "last_updated": "05:30:22 PM 25-08-2025",
     "total_matches": 39,
-    "live_matches": 7,
-    "upcoming_matches": 29,
+    "live_matches": 6,
+    "upcoming_matches": 28,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Adani Trivandrum Royals Vs Alleppey Ripples",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133885,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "25 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133885_english_hls_b62120320380493ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/M4NoG0-FRfGujG-I2moPlA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474129"
-        },
-        {
-            "category": "Cricket",
-            "title": "Adani Trivandrum Royals Vs Alleppey Ripples",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133885,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "25 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133885_malayalam_hls_69c53bc1eb1196ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/15VXIg85TU2WiB2KuknDuA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474147"
-        },
         {
             "category": "Cricket",
             "title": "Central Delhi Kings Vs Purani Delhi 6",
@@ -54,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/3955ww99RO-GseXbDe0aWQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474157"
+            "Processing_Time": "2025-08-25T17:30:22.499059"
         },
         {
             "category": "Cricket",
@@ -70,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/_RZwsPymTJ-58ICiKu1oLg/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474165"
+            "Processing_Time": "2025-08-25T17:30:22.499074"
         },
         {
             "category": "Cricket",
@@ -86,7 +54,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/Il5UuuIgRbOI1Qi7b8iS4w/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474176"
+            "Processing_Time": "2025-08-25T17:30:22.499082"
         },
         {
             "category": "Cricket",
@@ -102,7 +70,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/gH1KaI2cTHqKstiFQWDpng/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474185"
+            "Processing_Time": "2025-08-25T17:30:22.499091"
         },
         {
             "category": "Football",
@@ -118,7 +86,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474194"
+            "Processing_Time": "2025-08-25T17:30:22.499100"
         },
         {
             "category": "Football",
@@ -134,23 +102,55 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/ZYEsxohRQ92seVMPLgl3GQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474203"
+            "Processing_Time": "2025-08-25T17:30:22.499109"
+        },
+        {
+            "category": "Cricket",
+            "title": "Adani Trivandrum Royals Vs Alleppey Ripples",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133885,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "25 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133885_english_hls_b62120320380493ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/M4NoG0-FRfGujG-I2moPlA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-25T17:30:22.499117"
+        },
+        {
+            "category": "Cricket",
+            "title": "Adani Trivandrum Royals Vs Alleppey Ripples",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133885,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "25 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133885_malayalam_hls_69c53bc1eb1196ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/15VXIg85TU2WiB2KuknDuA/master.m3u8",
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-25T17:30:22.499125"
         },
         {
             "category": "Cricket",
             "title": "London Spirit Vs Oval Invincibles",
             "tournament": "The Hundred, 2025",
             "match_id": 135842,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
             "startTime": "25 August 2025 11:00 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474213"
+            "Processing_Time": "2025-08-25T17:30:22.499134"
         },
         {
             "category": "Cricket",
@@ -166,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474223"
+            "Processing_Time": "2025-08-25T17:30:22.499142"
         },
         {
             "category": "Cricket",
@@ -182,7 +182,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474232"
+            "Processing_Time": "2025-08-25T17:30:22.499150"
         },
         {
             "category": "Cricket",
@@ -198,7 +198,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474241"
+            "Processing_Time": "2025-08-25T17:30:22.499160"
         },
         {
             "category": "Cricket",
@@ -214,23 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474252"
-        },
-        {
-            "category": "Cricket",
-            "title": "Jersey Vs Denmark",
-            "tournament": "ICC CWC Challenge League A, 2024-26",
-            "match_id": 133791,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "25 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133791_4464_JER_DEN_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474261"
+            "Processing_Time": "2025-08-25T17:30:22.499168"
         },
         {
             "category": "Cricket",
@@ -246,7 +230,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474272"
+            "Processing_Time": "2025-08-25T17:30:22.499176"
         },
         {
             "category": "Cricket",
@@ -262,7 +246,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474415"
+            "Processing_Time": "2025-08-25T17:30:22.499184"
         },
         {
             "category": "Cricket",
@@ -278,7 +262,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474425"
+            "Processing_Time": "2025-08-25T17:30:22.499193"
         },
         {
             "category": "Cricket",
@@ -294,7 +278,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474672"
+            "Processing_Time": "2025-08-25T17:30:22.499202"
         },
         {
             "category": "Football",
@@ -310,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474689"
+            "Processing_Time": "2025-08-25T17:30:22.499210"
         },
         {
             "category": "Cricket",
@@ -326,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474702"
+            "Processing_Time": "2025-08-25T17:30:22.499218"
         },
         {
             "category": "Cricket",
@@ -342,23 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474713"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ias Invincibles Vs Yalla Shabab Giants",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133694,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133694_5590_IAI_YSG_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474722"
+            "Processing_Time": "2025-08-25T17:30:22.499226"
         },
         {
             "category": "Cricket",
@@ -374,7 +342,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474731"
+            "Processing_Time": "2025-08-25T17:30:22.499234"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ias Invincibles Vs Yalla Shabab Giants",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133694,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "26 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133694_5590_IAI_YSG_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-25T17:30:22.499242"
         },
         {
             "category": "Cricket",
@@ -390,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474741"
+            "Processing_Time": "2025-08-25T17:30:22.499250"
         },
         {
             "category": "Cricket",
@@ -406,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474751"
+            "Processing_Time": "2025-08-25T17:30:22.499259"
         },
         {
             "category": "Cricket",
@@ -422,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474761"
+            "Processing_Time": "2025-08-25T17:30:22.499267"
         },
         {
             "category": "Cricket",
@@ -438,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474836"
+            "Processing_Time": "2025-08-25T17:30:22.499276"
         },
         {
             "category": "Cricket",
@@ -454,7 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474846"
+            "Processing_Time": "2025-08-25T17:30:22.499284"
         },
         {
             "category": "Cricket",
@@ -470,7 +454,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.474854"
+            "Processing_Time": "2025-08-25T17:30:22.499291"
         },
         {
             "category": "Cricket",
@@ -486,7 +470,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475008"
+            "Processing_Time": "2025-08-25T17:30:22.499299"
         },
         {
             "category": "Football",
@@ -502,7 +486,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475020"
+            "Processing_Time": "2025-08-25T17:30:22.499307"
         },
         {
             "category": "Cricket",
@@ -518,7 +502,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475028"
+            "Processing_Time": "2025-08-25T17:30:22.499314"
         },
         {
             "category": "Football",
@@ -534,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475037"
+            "Processing_Time": "2025-08-25T17:30:22.499322"
         },
         {
             "category": "Football",
@@ -550,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475047"
+            "Processing_Time": "2025-08-25T17:30:22.499330"
         },
         {
             "category": "Football",
@@ -566,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475057"
+            "Processing_Time": "2025-08-25T17:30:22.499338"
         },
         {
             "category": "Football",
@@ -582,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475067"
+            "Processing_Time": "2025-08-25T17:30:22.499346"
         },
         {
             "category": "Football",
@@ -598,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475077"
+            "Processing_Time": "2025-08-25T17:30:22.499353"
         },
         {
             "category": "Cricket",
@@ -614,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475087"
+            "Processing_Time": "2025-08-25T17:30:22.499360"
         },
         {
             "category": "Baseball",
@@ -630,7 +614,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-25T17:25:06.475096"
+            "Processing_Time": "2025-08-25T17:30:22.499368"
+        },
+        {
+            "category": "Cricket",
+            "title": "Aries Kollam Sailors Vs Kochi Blue Tigers",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133883,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "24 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1755771731188.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-25T17:30:22.499375"
         }
     ],
     "status": "active"
