@@ -3,27 +3,11 @@
     "name": "FanCode Live Matches API",
     "Repository": "https://github.com/AniketSainiOp/AniXFancode",
     "Version": "2.0",
-    "last_updated": "11:45:10 AM 26-08-2025",
+    "last_updated": "11:50:17 AM 26-08-2025",
     "total_matches": 39,
-    "live_matches": 6,
+    "live_matches": 5,
     "upcoming_matches": 32,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "South Delhi Superstarz Vs North Delhi Strikers",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132499,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "26 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132499_5521_SDS_NDS_fc-Web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132499_english_hls_88c798fdb573632ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/nK-2ujYAT0SJVSJqvcIrNQ/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.355856"
-        },
         {
             "category": "Cricket",
             "title": "Kochi Blue Tigers Vs Thrissur Titans",
@@ -38,7 +22,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/WeUq4ScqSVyjCtUtbmHrYw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.355875"
+            "Processing_Time": "2025-08-26T11:50:17.409169"
         },
         {
             "category": "Cricket",
@@ -54,7 +38,7 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/i68pWRQaQC6YrNrmVtAsFw/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.355885"
+            "Processing_Time": "2025-08-26T11:50:17.409180"
         },
         {
             "category": "Cricket",
@@ -70,23 +54,7 @@
             "dai_stream": "Unavailable",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.355895"
-        },
-        {
-            "category": "Cricket",
-            "title": "Germany Women Vs Italy Women",
-            "tournament": "ICC Women’s T20 WC Europe Qualifier Division 1",
-            "match_id": 133755,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "26 August 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133755_5592_GER-W_ITA-W_fc-web.jpg",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133755_english_hls_5543f2af0287853ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Yor3YsAWT9OzWpLs3qe8EA/master.m3u8",
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364558"
+            "Processing_Time": "2025-08-26T11:50:17.409185"
         },
         {
             "category": "Cricket",
@@ -102,7 +70,23 @@
             "dai_stream": "https://dai.google.com/linear/hls/event/xdktJDMcTM-KFdN5XKoWUA/master.m3u8",
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364594"
+            "Processing_Time": "2025-08-26T11:50:17.409190"
+        },
+        {
+            "category": "Cricket",
+            "title": "South Delhi Superstarz Vs North Delhi Strikers",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132499,
+            "status": "LIVE",
+            "streamingStatus": "COMPLETED",
+            "startTime": "26 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132499_5521_SDS_NDS_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-26T11:50:17.409197"
         },
         {
             "category": "Cricket",
@@ -118,7 +102,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364607"
+            "Processing_Time": "2025-08-26T11:50:17.409205"
         },
         {
             "category": "Cricket",
@@ -134,7 +118,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364618"
+            "Processing_Time": "2025-08-26T11:50:17.409213"
         },
         {
             "category": "Cricket",
@@ -150,7 +134,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364630"
+            "Processing_Time": "2025-08-26T11:50:17.409222"
         },
         {
             "category": "Cricket",
@@ -166,7 +150,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364641"
+            "Processing_Time": "2025-08-26T11:50:17.409230"
         },
         {
             "category": "Cricket",
@@ -182,7 +166,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364652"
+            "Processing_Time": "2025-08-26T11:50:17.409238"
         },
         {
             "category": "Cricket",
@@ -198,7 +182,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364662"
+            "Processing_Time": "2025-08-26T11:50:17.409247"
+        },
+        {
+            "category": "Cricket",
+            "title": "Germany Women Vs Italy Women",
+            "tournament": "ICC Women’s T20 WC Europe Qualifier Division 1",
+            "match_id": 133755,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "26 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133755_5592_GER-W_ITA-W_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-26T11:50:17.409252"
         },
         {
             "category": "Cricket",
@@ -214,55 +214,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364672"
-        },
-        {
-            "category": "Cricket",
-            "title": "Abu Dhabi Knight Riders Development Vs Mi Emirates Development",
-            "tournament": "DP World ILT20 Development Tournament, 2025",
-            "match_id": 135800,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/135800_5636_ADK_MED_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364683"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs Netherlands Women",
-            "tournament": "ICC Women’s T20 WC Europe Qualifier Division 1",
-            "match_id": 133756,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 August 2025 07:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133756_5592_IR-W_ND-W_fc-web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364693"
-        },
-        {
-            "category": "Cricket",
-            "title": "Muscat Thunders Vs Royal Oman Stallions",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133695,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133695_5590_MUT_ROS_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364703"
+            "Processing_Time": "2025-08-26T11:50:17.409257"
         },
         {
             "category": "Cricket",
@@ -278,7 +230,55 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364712"
+            "Processing_Time": "2025-08-26T11:50:17.409262"
+        },
+        {
+            "category": "Cricket",
+            "title": "Abu Dhabi Knight Riders Development Vs Mi Emirates Development",
+            "tournament": "DP World ILT20 Development Tournament, 2025",
+            "match_id": 135800,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "26 August 2025 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/135800_5636_ADK_MED_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-26T11:50:17.409267"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Women Vs Netherlands Women",
+            "tournament": "ICC Women’s T20 WC Europe Qualifier Division 1",
+            "match_id": 133756,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "26 August 2025 07:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133756_5592_IR-W_ND-W_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-26T11:50:17.409272"
+        },
+        {
+            "category": "Cricket",
+            "title": "Muscat Thunders Vs Royal Oman Stallions",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133695,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "26 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133695_5590_MUT_ROS_fc-Web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-26T11:50:17.409277"
         },
         {
             "category": "Cricket",
@@ -294,7 +294,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364722"
+            "Processing_Time": "2025-08-26T11:50:17.409282"
         },
         {
             "category": "Cricket",
@@ -310,7 +310,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364737"
+            "Processing_Time": "2025-08-26T11:50:17.409289"
         },
         {
             "category": "Cricket",
@@ -326,7 +326,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364748"
+            "Processing_Time": "2025-08-26T11:50:17.409294"
         },
         {
             "category": "Football",
@@ -342,7 +342,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364758"
+            "Processing_Time": "2025-08-26T11:50:17.409299"
         },
         {
             "category": "Football",
@@ -358,7 +358,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364767"
+            "Processing_Time": "2025-08-26T11:50:17.409307"
         },
         {
             "category": "Football",
@@ -374,7 +374,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364776"
+            "Processing_Time": "2025-08-26T11:50:17.409315"
         },
         {
             "category": "Football",
@@ -390,7 +390,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364787"
+            "Processing_Time": "2025-08-26T11:50:17.409322"
         },
         {
             "category": "Football",
@@ -406,7 +406,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364795"
+            "Processing_Time": "2025-08-26T11:50:17.409337"
         },
         {
             "category": "Football",
@@ -422,7 +422,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364805"
+            "Processing_Time": "2025-08-26T11:50:17.409344"
         },
         {
             "category": "Cricket",
@@ -438,23 +438,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364814"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Delhi Lions Vs South Delhi Superstarz",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132497,
-            "status": "ABANDONED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "25 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "Author": "Aniket Saini",
-            "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364824"
+            "Processing_Time": "2025-08-26T11:50:17.409350"
         },
         {
             "category": "Cricket",
@@ -470,23 +454,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364834"
+            "Processing_Time": "2025-08-26T11:50:17.409355"
         },
         {
             "category": "Cricket",
-            "title": "Germany Women Vs Netherlands Women",
-            "tournament": "ICC Women’s T20 WC Europe Qualifier Division 1",
-            "match_id": 133757,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 August 2025 02:30 PM",
+            "title": "West Delhi Lions Vs South Delhi Superstarz",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132497,
+            "status": "ABANDONED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "25 August 2025 02:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133757_5592_GER-W_ND-W_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg",
             "adfree_stream": null,
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364844"
+            "Processing_Time": "2025-08-26T11:50:17.409359"
         },
         {
             "category": "Cricket",
@@ -502,7 +486,23 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364853"
+            "Processing_Time": "2025-08-26T11:50:17.409364"
+        },
+        {
+            "category": "Cricket",
+            "title": "Germany Women Vs Netherlands Women",
+            "tournament": "ICC Women’s T20 WC Europe Qualifier Division 1",
+            "match_id": 133757,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "27 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133757_5592_GER-W_ND-W_fc-web.jpg",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "Author": "Aniket Saini",
+            "Fetched_by": "AniXFetcher",
+            "Processing_Time": "2025-08-26T11:50:17.409369"
         },
         {
             "category": "Cricket",
@@ -518,7 +518,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364863"
+            "Processing_Time": "2025-08-26T11:50:17.409374"
         },
         {
             "category": "Cricket",
@@ -534,7 +534,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364872"
+            "Processing_Time": "2025-08-26T11:50:17.409378"
         },
         {
             "category": "Cricket",
@@ -550,7 +550,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364881"
+            "Processing_Time": "2025-08-26T11:50:17.409383"
         },
         {
             "category": "Cricket",
@@ -566,7 +566,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364891"
+            "Processing_Time": "2025-08-26T11:50:17.409388"
         },
         {
             "category": "Cricket",
@@ -582,7 +582,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364900"
+            "Processing_Time": "2025-08-26T11:50:17.409393"
         },
         {
             "category": "Cricket",
@@ -598,7 +598,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364910"
+            "Processing_Time": "2025-08-26T11:50:17.409398"
         },
         {
             "category": "Cricket",
@@ -614,7 +614,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364921"
+            "Processing_Time": "2025-08-26T11:50:17.409403"
         },
         {
             "category": "Cricket",
@@ -630,7 +630,7 @@
             "dai_stream": null,
             "Author": "Aniket Saini",
             "Fetched_by": "AniXFetcher",
-            "Processing_Time": "2025-08-26T11:45:10.364932"
+            "Processing_Time": "2025-08-26T11:50:17.409409"
         }
     ],
     "status": "active"
